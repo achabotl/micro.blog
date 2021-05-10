@@ -7,8 +7,16 @@
 	"items": [
 		
 			{
+				"id": "http://alexchabot.micro.blog/2021/05/09/what-an-odd.html",
+				
+				"content_html": "<p>What an odd Big Sur bug. VS Code&rsquo;s dock icon is minuscule and impossible to click on. It reminds me of when your Badland&rsquo;s <a href=\"https://youtu.be/7nkxyKo09Qs?t=79\">little flappy furry balls becomes tiny</a>.</p>\n\n<p><img src=\"uploads/2021/0bb371c228.jpg\" width=\"600\" height=\"323\" alt=\"\" /></p>\n",
+				"content_text": "What an odd Big Sur bug. VS Code's dock icon is minuscule and impossible to click on. It reminds me of when your Badland's [little flappy furry balls becomes tiny](https://youtu.be/7nkxyKo09Qs?t=79).\n\n<img src=\"uploads/2021/0bb371c228.jpg\" width=\"600\" height=\"323\" alt=\"\" />\n",
+				"date_published": "2021-05-09T21:40:34-05:00",
+				"url": "https://alexchabot.net/2021/05/09/what-an-odd.html"
+			},
+			{
 				"id": "http://alexchabot.micro.blog/2021/05/01/deeply-learned-typography.html",
-				"title": "Deeply learned typography",
+				"title": "Deeply Learned Typography",
 				"content_html": "<p>Tom7 creates the <a href=\"http://tom7.org/lowercase/\">uppestcase and lowestcase letters</a> by training two deep learning models: one to create uppercase letters from lowercase ones, and the other to create lowercase letters from uppercase ones. Then he pushes things (beyond) their logical conclusions, such as creating lowercase versions of lowercase letters, and uppercase versions of uppercase letters. The results are fonts you can download and &ldquo;use.&rdquo; In the process, he builds a lot of really neat custom UIs to visualize what the models are doing. It&rsquo;s entertaining <em>and</em> interesting.</p>\n\n<p>Via <a href=\"http://www.macdrifter.com/2021/04/nice-things-volume-1.html\">Macdrifter</a>.</p>\n",
 				"content_text": "Tom7 creates the [uppestcase and lowestcase letters](http://tom7.org/lowercase/) by training two deep learning models: one to create uppercase letters from lowercase ones, and the other to create lowercase letters from uppercase ones. Then he pushes things (beyond) their logical conclusions, such as creating lowercase versions of lowercase letters, and uppercase versions of uppercase letters. The results are fonts you can download and \"use.\" In the process, he builds a lot of really neat custom UIs to visualize what the models are doing. It's entertaining *and* interesting.\n\nVia [Macdrifter](http://www.macdrifter.com/2021/04/nice-things-volume-1.html).\n",
 				"date_published": "2021-05-01T17:18:09-05:00",
