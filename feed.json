@@ -7,6 +7,30 @@
 	"items": [
 		
 			{
+				"id": "http://alexchabot.micro.blog/2021/06/09/i-had-a.html",
+				
+				"content_html": "<p>I had a dough ball remaining from last night so I made a carbonara pizza for breakfast. Bake crust with pecorino, bacon, mozzarella, lots of pepper for 4 minutes, then add the two eggs and broil for ~2 min.</p>\n\n<p><img src=\"uploads/2021/70c7fd72a7.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "I had a dough ball remaining from last night so I made a carbonara pizza for breakfast. Bake crust with pecorino, bacon, mozzarella, lots of pepper for 4 minutes, then add the two eggs and broil for ~2 min.\n\n<img src=\"uploads/2021/70c7fd72a7.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2021-06-09T08:45:47-05:00",
+				"url": "https://alexchabot.net/2021/06/09/i-had-a.html"
+			},
+			{
+				"id": "http://alexchabot.micro.blog/2021/05/30/main-staircase-blanton.html",
+				
+				"content_html": "<p>Main staircase. Blanton museum, Austin, TX.</p>\n\n<p><img src=\"uploads/2021/ee452d4bfb.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "Main staircase. Blanton museum, Austin, TX. \n\n<img src=\"uploads/2021/ee452d4bfb.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"date_published": "2021-05-30T14:43:26-05:00",
+				"url": "https://alexchabot.net/2021/05/30/main-staircase-blanton.html"
+			},
+			{
+				"id": "http://alexchabot.micro.blog/2021/05/26/from-cloudflare-humanity.html",
+				
+				"content_html": "<p>From Cloudflare: <a href=\"https://blog.cloudflare.com/introducing-cryptographic-attestation-of-personhood/\"><em>Humanity wastes about 500 years per day on CAPTCHAs. It’s time to end this madness</em></a>.</p>\n\n<p>Yes please. One more reason to get a YubiKey.</p>\n",
+				"content_text": "From Cloudflare: [*Humanity wastes about 500 years per day on CAPTCHAs. It’s time to end this madness*](https://blog.cloudflare.com/introducing-cryptographic-attestation-of-personhood/). \n\nYes please. One more reason to get a YubiKey. \n",
+				"date_published": "2021-05-26T20:57:30-05:00",
+				"url": "https://alexchabot.net/2021/05/26/from-cloudflare-humanity.html"
+			},
+			{
 				"id": "http://alexchabot.micro.blog/2021/05/23/austin-tx.html",
 				
 				"content_html": "<p>Austin, TX</p>\n\n<p><img src=\"uploads/2021/5852993764.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
