@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://alexchabot.micro.blog/2021/07/05/the-world-is.html",
+				
+				"content_html": "<p>The world is a strange and wonderful place. Scott McCloud, of <em>Understanding Comics</em> fame, made a comic about&hellip; <a href=\"https://cloud.google.com/kubernetes-engine/kubernetes-comic\">Kubernetes</a> for Google.</p>\n",
+				"content_text": "The world is a strange and wonderful place. Scott McCloud, of _Understanding Comics_ fame, made a comic about... [Kubernetes](https://cloud.google.com/kubernetes-engine/kubernetes-comic) for Google.\n",
+				"date_published": "2021-07-05T17:14:07-05:00",
+				"url": "https://alexchabot.net/2021/07/05/the-world-is.html"
+			},
+			{
 				"id": "http://alexchabot.micro.blog/2021/06/09/i-had-a.html",
 				
 				"content_html": "<p>I had a dough ball remaining from last night so I made a carbonara pizza for breakfast. Bake crust with pecorino, bacon, mozzarella, lots of pepper for 4 minutes, then add the two eggs and broil for ~2 min.</p>\n\n<p><img src=\"uploads/2021/70c7fd72a7.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
