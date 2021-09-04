@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://alexchabot.micro.blog/2021/09/04/til-thme-de.html",
+				
+				"content_html": "<p>TIL: ^Thème de Yoyo is</p>\n",
+				"content_text": "TIL: ^Thème de Yoyo is \n",
+				"date_published": "2021-09-04T18:20:48-05:00",
+				"url": "https://alexchabot.net/2021/09/04/til-thme-de.html"
+			},
+			{
 				"id": "http://alexchabot.micro.blog/2021/08/27/in-a-study.html",
 				
 				"content_html": "<blockquote>\n<p>In a 2016 study, the Harvard economist Raj Chetty and his research team found that the difference in life expectancy between forty-year-olds in the top one per cent of American income distribution and in the bottom one per cent is fifteen years for men and ten years for women.</p>\n</blockquote>\n\n<p>That’s <em>a lot of years</em>. Via <a href=\"https://kottke.org/21/08/the-secret-of-costa-ricas-successful-health-care-system\">Kottke</a>.</p>\n",
