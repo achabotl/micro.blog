@@ -7,12 +7,20 @@
 	"items": [
 		
 			{
-				"id": "http://alexchabot.micro.blog/2021/09/04/til-thme-de.html",
+				"id": "http://alexchabot.micro.blog/2021/09/18/zilker-park-parking.html",
 				
-				"content_html": "<p>TIL: ^Thème de Yoyo is</p>\n",
-				"content_text": "TIL: ^Thème de Yoyo is \n",
-				"date_published": "2021-09-04T18:20:48-05:00",
-				"url": "https://alexchabot.net/2021/09/04/til-thme-de.html"
+				"content_html": "<p>Zilker Park parking</p>\n\n<p><img src=\"uploads/2021/67e7c614a9.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Zilker Park parking\n\n<img src=\"uploads/2021/67e7c614a9.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2021-09-18T13:46:29-05:00",
+				"url": "https://alexchabot.net/2021/09/18/zilker-park-parking.html"
+			},
+			{
+				"id": "http://alexchabot.micro.blog/2021/09/04/thme-de-yoyo.html",
+				"title": "Thème de Yoyo",
+				"content_html": "<p>The amazing song <a href=\"https://open.spotify.com/track/5IlIAiAgrGmXzCa5iNoUx0?si=790a2de2585d4e39\"><em>Thème de Yoyo</em></a> is in fact a 1970 piece by the <a href=\"https://en.wikipedia.org/wiki/Art_Ensemble_of_Chicago\">Art Ensemble of Chicago</a> and not by  <a href=\"https://open.spotify.com/track/1eF50vk7sxzgWkz8wKUOAK?si=85eb8176c0a24aef\">Motorpsycho and Jaga Jazzist</a>, as I&rsquo;ve thought for years. I realized this today after hearing <a href=\"https://open.spotify.com/track/3kpKVMVeyfxT7UWHOtvV3m?si=299c1c7a3690470a\">The Cinematic Orchestra&rsquo;s</a> version and thinking: This <em>has</em> to be a cover. The nice thing about this discovery is that if there is one cover, there are many!</p>\n",
+				"content_text": "The amazing song [*Thème de Yoyo*](https://open.spotify.com/track/5IlIAiAgrGmXzCa5iNoUx0?si=790a2de2585d4e39) is in fact a 1970 piece by the [Art Ensemble of Chicago](https://en.wikipedia.org/wiki/Art_Ensemble_of_Chicago) and not by  [Motorpsycho and Jaga Jazzist](https://open.spotify.com/track/1eF50vk7sxzgWkz8wKUOAK?si=85eb8176c0a24aef), as I've thought for years. I realized this today after hearing [The Cinematic Orchestra's](https://open.spotify.com/track/3kpKVMVeyfxT7UWHOtvV3m?si=299c1c7a3690470a) version and thinking: This *has* to be a cover. The nice thing about this discovery is that if there is one cover, there are many!\n",
+				"date_published": "2021-09-04T18:32:40-05:00",
+				"url": "https://alexchabot.net/2021/09/04/thme-de-yoyo.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2021/08/27/in-a-study.html",
