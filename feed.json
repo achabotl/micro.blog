@@ -7,19 +7,36 @@
 	"items": [
 		
 			{
+				"id": "http://alexchabot.micro.blog/2022/01/25/the-first-credit.html",
+				
+				"content_html": "<blockquote>\n<p>The first credit card was introduced in 1950. Store credit, installment credit, personal loans, payday loans – everything took off. And interest on all debt, including credit cards, was tax deductible at the time.</p>\n</blockquote>\n\n<p>Morgan Housel in <a href=\"http://www.collaborativefund.com/blog/how-this-all-happened/\">How This All Happened</a>, an overall great read.</p>\n",
+				"content_text": "> The first credit card was introduced in 1950. Store credit, installment credit, personal loans, payday loans – everything took off. And interest on all debt, including credit cards, was tax deductible at the time.\n\nMorgan Housel in [How This All Happened](http://www.collaborativefund.com/blog/how-this-all-happened/), an overall great read.\n",
+				"date_published": "2022-01-25T14:10:34-06:00",
+				"url": "https://alexchabot.net/2022/01/25/the-first-credit.html"
+			},
+			{
+				"id": "http://alexchabot.micro.blog/2022/01/15/moxie-marlinspike-my.html",
+				
+				"content_html": "<p><a href=\"https://moxie.org/2022/01/07/web3-first-impressions.html\">Moxie Marlinspike &gt;&gt; My first impressions of web3</a>.\nOverall, not positive. I knew the “art” of the an NFT was not stored on the blockchain, but I didnt know the data was <em>just a url</em>. There is no hash of what’s at the other end of that url.</p>\n",
+				"content_text": "[Moxie Marlinspike >> My first impressions of web3](https://moxie.org/2022/01/07/web3-first-impressions.html). \nOverall, not positive. I knew the “art” of the an NFT was not stored on the blockchain, but I didnt know the data was *just a url*. There is no hash of what’s at the other end of that url.\n",
+				"date_published": "2022-01-15T12:46:43-06:00",
+				"url": "https://alexchabot.net/2022/01/15/moxie-marlinspike-my.html"
+			},
+			{
 				"id": "http://alexchabot.micro.blog/2022/01/13/san-salvador-the.html",
 				"title": "San Salvador, the Band",
-				"content_html": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/LBr5far4KaI\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>\n\n<p>San Salvador is a voice and percussions ensemble who sings in Occitan, or &ldquo;langue d&rsquo;oc&rdquo; in French. They&rsquo;re my new favorite band. The rhythm and vocal harmonies are right up my alley. The energy they project in the video embedded above is stunning. I hope I get to see them live one day.</p>\n\n<p>Their music reminded my of <a href=\"https://www.youtube.com/watch?v=KHyzrYBACcg\">Barbatuques&rsquo; Baianá</a>.</p>\n\n<p>Via Emma Bauchner&rsquo;s <a href=\"https://www.newsounds.org/story/new-sounds-year-review-2021-1\">New Sounds 2021 year in review</a>.</p>\n",
-				"content_text": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/LBr5far4KaI\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>\r\n\r\nSan Salvador is a voice and percussions ensemble who sings in Occitan, or \"langue d'oc\" in French. They're my new favorite band. The rhythm and vocal harmonies are right up my alley. The energy they project in the video embedded above is stunning. I hope I get to see them live one day.\r\n\r\nTheir music reminded my of [Barbatuques' Baianá](https://www.youtube.com/watch?v=KHyzrYBACcg).\r\n\r\nVia Emma Bauchner's [New Sounds 2021 year in review](https://www.newsounds.org/story/new-sounds-year-review-2021-1).\n",
-				"date_published": "2022-01-13T08:46:28-06:00",
-				"url": "https://alexchabot.net/2022/01/13/san-salvador-the.html"
+				"content_html": "<div class=\"widescreen embedded\">\n<iframe width=\"650\" height=\"365\" src=\"https://www.youtube.com/embed/LBr5far4KaI\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>\n</div>\n\n<p>San Salvador is a voice and percussions ensemble who sings in Occitan, or &ldquo;langue d&rsquo;oc&rdquo; in French. They&rsquo;re my new favorite band. The rhythm and vocal harmonies are right up my alley. The energy they project in the video embedded above is stunning. I hope I get to see them live one day.</p>\n\n<p>Their music reminded my of <a href=\"https://www.youtube.com/watch?v=KHyzrYBACcg\">Barbatuques&rsquo; Baianá</a>.</p>\n\n<p>Via Emma Bauchner&rsquo;s <a href=\"https://www.newsounds.org/story/new-sounds-year-review-2021-1\">New Sounds 2021 year in review</a>.</p>\n",
+				"content_text": "<div class=\"widescreen embedded\">\n<iframe width=\"650\" height=\"365\" src=\"https://www.youtube.com/embed/LBr5far4KaI\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>\n</div>\n\nSan Salvador is a voice and percussions ensemble who sings in Occitan, or \"langue d'oc\" in French. They're my new favorite band. The rhythm and vocal harmonies are right up my alley. The energy they project in the video embedded above is stunning. I hope I get to see them live one day.\n\nTheir music reminded my of [Barbatuques' Baianá](https://www.youtube.com/watch?v=KHyzrYBACcg).\n\nVia Emma Bauchner's [New Sounds 2021 year in review](https://www.newsounds.org/story/new-sounds-year-review-2021-1).\n",
+				"date_published": "2022-01-13T08:46:00-06:00",
+				"url": "https://alexchabot.net/2022/01/13/san-salvador-the.html",
+				"tags": ["music"]
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2021/12/27/giacometti-grande-femme.html",
 				
-				"content_html": "<p>Giacometti – Grande femme debout I. MFA, Houston.</p>\n\n<p><img src=\"uploads/2021/4cf257a0ad.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Giacometti – Grande femme debout I. MFA, Houston. \n\n<img src=\"uploads/2021/4cf257a0ad.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
-				"date_published": "2021-12-27T15:28:59-06:00",
+				"content_html": "<p>Giacometti – Grande femme debout I. MFA, Houston.</p>\n\n<p><img src=\"uploads/2021/4cf257a0ad.jpg\" width=\"1000\" alt=\"\" /></p>\n",
+				"content_text": "Giacometti – Grande femme debout I. MFA, Houston. \n\n<img src=\"uploads/2021/4cf257a0ad.jpg\" width=\"1000\" alt=\"\" />\n",
+				"date_published": "2021-12-27T15:28:00-06:00",
 				"url": "https://alexchabot.net/2021/12/27/giacometti-grande-femme.html"
 			},
 			{
@@ -124,7 +141,8 @@
 				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9781594634932\">The Art of Gathering: How We Meet and Why It Matters</a> by Priya Parker 📚</p>\n",
 				"content_text": "Currently reading: [The Art of Gathering: How We Meet and Why It Matters](https://micro.blog/books/9781594634932) by Priya Parker 📚\n",
 				"date_published": "2021-05-13T21:28:45-06:00",
-				"url": "https://alexchabot.net/2021/05/13/currently-reading-the.html"
+				"url": "https://alexchabot.net/2021/05/13/currently-reading-the.html",
+				"tags": ["book"]
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2021/05/09/what-an-odd.html",
@@ -221,7 +239,8 @@
 				"content_html": "<p>Great Resident Advisor podcast episode. Noisy, glitchy, grimy, dark.\n<a href=\"https://ra.co/podcast/760\">RA.760 Hyph11E ⟋ RA Podcast</a>🎵</p>\n",
 				"content_text": "Great Resident Advisor podcast episode. Noisy, glitchy, grimy, dark.\n[RA.760 Hyph11E ⟋ RA Podcast](https://ra.co/podcast/760)🎵\n",
 				"date_published": "2021-01-11T22:35:30-06:00",
-				"url": "https://alexchabot.net/2021/01/11/great-resident-advisor.html"
+				"url": "https://alexchabot.net/2021/01/11/great-resident-advisor.html",
+				"tags": ["music"]
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2021/01/10/installing-air-filters.html",
