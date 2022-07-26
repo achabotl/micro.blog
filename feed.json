@@ -82,8 +82,8 @@
 			{
 				"id": "http://alexchabot.micro.blog/2021/09/18/zilker-park-parking.html",
 				
-				"content_html": "<p>Zilker Park parking</p>\n\n<p><img src=\"uploads/2021/67e7c614a9.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Zilker Park parking\n\n<img src=\"uploads/2021/67e7c614a9.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Zilker Park parking</p>\n\n<p><img src=\"https://alexchabot.net/uploads/2021/67e7c614a9.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Zilker Park parking\n\n<img src=\"https://alexchabot.net/uploads/2021/67e7c614a9.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-09-18T13:46:29-05:00",
 				"url": "https://alexchabot.net/2021/09/18/zilker-park-parking.html"
 			},
@@ -106,8 +106,8 @@
 			{
 				"id": "http://alexchabot.micro.blog/2021/07/09/peddling-the-bike.html",
 				"title": "Peddling the Bike Peddler's Pedals",
-				"content_html": "<p>Last night, thieves <a href=\"https://www.kxan.com/news/local/austin/thieves-ram-hole-in-front-of-austin-bike-shop-owner-says-latest-in-rash-of-break-ins/\">rammed through the Bike Peddler&rsquo;s front door with a pick up truck</a> and stole a bunch of bikes. Turns out my bike was (is?) in there for repair.</p>\n\n<p><img src=\"uploads/2021/f81c15594e.jpg\" alt=\"The Bike Peddler, Austin. A red brick building where the front door has been blown open.\" title=\"2021-07-09-bike-peddler.jpeg\" border=\"0\" width=\"512\" height=\"384\" /></p>\n\n<p>When I shared the news with my colleagues, one almost immediately responded with this. :chef-kiss:</p>\n\n<p><img src=\"uploads/2021/c60741cbb4.jpg\" alt=\"A Western-looking 'Wanted' poster where the criminal's photo is the KoolAid pitcher breaking through a red brick wall.\" title=\"2021-07-09-koolaid-man-brick-wall.jpg\" border=\"0\" width=\"1650\" height=\"2550\" /></p>\n\n<p>I wonder if I&rsquo;ll get my bike back.</p>\n",
-				"content_text": "Last night, thieves [rammed through the Bike Peddler's front door with a pick up truck](https://www.kxan.com/news/local/austin/thieves-ram-hole-in-front-of-austin-bike-shop-owner-says-latest-in-rash-of-break-ins/) and stole a bunch of bikes. Turns out my bike was (is?) in there for repair.\n\n\n<img src=\"uploads/2021/f81c15594e.jpg\" alt=\"The Bike Peddler, Austin. A red brick building where the front door has been blown open.\" title=\"2021-07-09-bike-peddler.jpeg\" border=\"0\" width=\"512\" height=\"384\" />\n\nWhen I shared the news with my colleagues, one almost immediately responded with this. :chef-kiss:\n\n\n<img src=\"uploads/2021/c60741cbb4.jpg\" alt=\"A Western-looking 'Wanted' poster where the criminal's photo is the KoolAid pitcher breaking through a red brick wall.\" title=\"2021-07-09-koolaid-man-brick-wall.jpg\" border=\"0\" width=\"1650\" height=\"2550\" />\n\nI wonder if I'll get my bike back.\n",
+				"content_html": "<p>Last night, thieves <a href=\"https://www.kxan.com/news/local/austin/thieves-ram-hole-in-front-of-austin-bike-shop-owner-says-latest-in-rash-of-break-ins/\">rammed through the Bike Peddler&rsquo;s front door with a pick up truck</a> and stole a bunch of bikes. Turns out my bike was (is?) in there for repair.</p>\n\n<p><img src=\"https://alexchabot.net/uploads/2021/f81c15594e.jpg\" alt=\"The Bike Peddler, Austin. A red brick building where the front door has been blown open.\" title=\"2021-07-09-bike-peddler.jpeg\" border=\"0\" width=\"512\" height=\"384\" /></p>\n\n<p>When I shared the news with my colleagues, one almost immediately responded with this. :chef-kiss:</p>\n\n<p><img src=\"https://alexchabot.net/uploads/2021/c60741cbb4.jpg\" alt=\"A Western-looking 'Wanted' poster where the criminal's photo is the KoolAid pitcher breaking through a red brick wall.\" title=\"2021-07-09-koolaid-man-brick-wall.jpg\" border=\"0\" width=\"1650\" height=\"2550\" /></p>\n\n<p>I wonder if I&rsquo;ll get my bike back.</p>\n",
+				"content_text": "Last night, thieves [rammed through the Bike Peddler's front door with a pick up truck](https://www.kxan.com/news/local/austin/thieves-ram-hole-in-front-of-austin-bike-shop-owner-says-latest-in-rash-of-break-ins/) and stole a bunch of bikes. Turns out my bike was (is?) in there for repair.\n\n\n<img src=\"https://alexchabot.net/uploads/2021/f81c15594e.jpg\" alt=\"The Bike Peddler, Austin. A red brick building where the front door has been blown open.\" title=\"2021-07-09-bike-peddler.jpeg\" border=\"0\" width=\"512\" height=\"384\" />\n\nWhen I shared the news with my colleagues, one almost immediately responded with this. :chef-kiss:\n\n\n<img src=\"https://alexchabot.net/uploads/2021/c60741cbb4.jpg\" alt=\"A Western-looking 'Wanted' poster where the criminal's photo is the KoolAid pitcher breaking through a red brick wall.\" title=\"2021-07-09-koolaid-man-brick-wall.jpg\" border=\"0\" width=\"1650\" height=\"2550\" />\n\nI wonder if I'll get my bike back.\n",
 				"date_published": "2021-07-09T21:37:00-05:00",
 				"url": "https://alexchabot.net/2021/07/09/peddling-the-bike.html"
 			},
@@ -122,16 +122,16 @@
 			{
 				"id": "http://alexchabot.micro.blog/2021/06/09/i-had-a.html",
 				
-				"content_html": "<p>I had a dough ball remaining from last night so I made a carbonara pizza for breakfast. Bake crust with pecorino, bacon, mozzarella, lots of pepper for 4 minutes, then add the two eggs and broil for ~2 min.</p>\n\n<p><img src=\"uploads/2021/70c7fd72a7.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "I had a dough ball remaining from last night so I made a carbonara pizza for breakfast. Bake crust with pecorino, bacon, mozzarella, lots of pepper for 4 minutes, then add the two eggs and broil for ~2 min.\n\n<img src=\"uploads/2021/70c7fd72a7.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>I had a dough ball remaining from last night so I made a carbonara pizza for breakfast. Bake crust with pecorino, bacon, mozzarella, lots of pepper for 4 minutes, then add the two eggs and broil for ~2 min.</p>\n\n<p><img src=\"https://alexchabot.net/uploads/2021/70c7fd72a7.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "I had a dough ball remaining from last night so I made a carbonara pizza for breakfast. Bake crust with pecorino, bacon, mozzarella, lots of pepper for 4 minutes, then add the two eggs and broil for ~2 min.\n\n<img src=\"https://alexchabot.net/uploads/2021/70c7fd72a7.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-06-09T08:45:47-05:00",
 				"url": "https://alexchabot.net/2021/06/09/i-had-a.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2021/05/30/main-staircase-blanton.html",
 				
-				"content_html": "<p>Main staircase. Blanton museum, Austin, TX.</p>\n\n<p><img src=\"uploads/2021/ee452d4bfb.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
-				"content_text": "Main staircase. Blanton museum, Austin, TX. \n\n<img src=\"uploads/2021/ee452d4bfb.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_html": "<p>Main staircase. Blanton museum, Austin, TX.</p>\n\n<p><img src=\"https://alexchabot.net/uploads/2021/ee452d4bfb.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "Main staircase. Blanton museum, Austin, TX. \n\n<img src=\"https://alexchabot.net/uploads/2021/ee452d4bfb.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2021-05-30T14:43:26-05:00",
 				"url": "https://alexchabot.net/2021/05/30/main-staircase-blanton.html"
 			},
@@ -146,8 +146,8 @@
 			{
 				"id": "http://alexchabot.micro.blog/2021/05/23/austin-tx.html",
 				
-				"content_html": "<p>Austin, TX</p>\n\n<p><img src=\"uploads/2021/5852993764.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Austin, TX\n\n<img src=\"uploads/2021/5852993764.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Austin, TX</p>\n\n<p><img src=\"https://alexchabot.net/uploads/2021/5852993764.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Austin, TX\n\n<img src=\"https://alexchabot.net/uploads/2021/5852993764.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-05-23T17:07:13-05:00",
 				"url": "https://alexchabot.net/2021/05/23/austin-tx.html"
 			},
@@ -171,8 +171,8 @@
 			{
 				"id": "http://alexchabot.micro.blog/2021/05/09/what-an-odd.html",
 				
-				"content_html": "<p>What an odd Big Sur bug. VS Code&rsquo;s dock icon is minuscule and impossible to click on. It reminds me of when your Badland&rsquo;s <a href=\"https://youtu.be/7nkxyKo09Qs?t=79\">little flappy furry balls becomes tiny</a>.</p>\n\n<p><img src=\"uploads/2021/0bb371c228.jpg\" width=\"600\" height=\"323\" alt=\"\" /></p>\n",
-				"content_text": "What an odd Big Sur bug. VS Code's dock icon is minuscule and impossible to click on. It reminds me of when your Badland's [little flappy furry balls becomes tiny](https://youtu.be/7nkxyKo09Qs?t=79).\n\n<img src=\"uploads/2021/0bb371c228.jpg\" width=\"600\" height=\"323\" alt=\"\" />\n",
+				"content_html": "<p>What an odd Big Sur bug. VS Code&rsquo;s dock icon is minuscule and impossible to click on. It reminds me of when your Badland&rsquo;s <a href=\"https://youtu.be/7nkxyKo09Qs?t=79\">little flappy furry balls becomes tiny</a>.</p>\n\n<p><img src=\"https://alexchabot.net/uploads/2021/0bb371c228.jpg\" width=\"600\" height=\"323\" alt=\"\" /></p>\n",
+				"content_text": "What an odd Big Sur bug. VS Code's dock icon is minuscule and impossible to click on. It reminds me of when your Badland's [little flappy furry balls becomes tiny](https://youtu.be/7nkxyKo09Qs?t=79).\n\n<img src=\"https://alexchabot.net/uploads/2021/0bb371c228.jpg\" width=\"600\" height=\"323\" alt=\"\" />\n",
 				"date_published": "2021-05-09T21:40:34-05:00",
 				"url": "https://alexchabot.net/2021/05/09/what-an-odd.html"
 			},
@@ -187,8 +187,8 @@
 			{
 				"id": "http://alexchabot.micro.blog/2021/04/11/two-loaves-of.html",
 				
-				"content_html": "<p>Two loaves of Ken Forkish&rsquo;s <em>Overnight Country Blonde</em>. After a 15h bulk rise at 23ºC, the dough had almost quadrupled in volume. Much more than usual. The final bread is a tad flat. I think it&rsquo;s because it ran out of energy, but maybe I could have made deeper cuts.</p>\n\n<p><img src=\"uploads/2021/33b4dbde83.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"uploads/2021/a2c12ba490.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Two loaves of Ken Forkish's _Overnight Country Blonde_. After a 15h bulk rise at 23ºC, the dough had almost quadrupled in volume. Much more than usual. The final bread is a tad flat. I think it's because it ran out of energy, but maybe I could have made deeper cuts.\n\n<img src=\"uploads/2021/33b4dbde83.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"uploads/2021/a2c12ba490.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Two loaves of Ken Forkish&rsquo;s <em>Overnight Country Blonde</em>. After a 15h bulk rise at 23ºC, the dough had almost quadrupled in volume. Much more than usual. The final bread is a tad flat. I think it&rsquo;s because it ran out of energy, but maybe I could have made deeper cuts.</p>\n\n<p><img src=\"https://alexchabot.net/uploads/2021/33b4dbde83.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"https://alexchabot.net/uploads/2021/a2c12ba490.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Two loaves of Ken Forkish's _Overnight Country Blonde_. After a 15h bulk rise at 23ºC, the dough had almost quadrupled in volume. Much more than usual. The final bread is a tad flat. I think it's because it ran out of energy, but maybe I could have made deeper cuts.\n\n<img src=\"https://alexchabot.net/uploads/2021/33b4dbde83.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"https://alexchabot.net/uploads/2021/a2c12ba490.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-04-11T11:09:43-05:00",
 				"url": "https://alexchabot.net/2021/04/11/two-loaves-of.html"
 			},
@@ -228,16 +228,16 @@
 			{
 				"id": "http://alexchabot.micro.blog/2021/02/21/despite-all-the.html",
 				
-				"content_html": "<p>Despite all the damage done by the ice in Texas, it still created quite a bit of beauty (or at least novelty).</p>\n\n<p><img src=\"uploads/2021/d611a590e1.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"uploads/2021/9316b1f96a.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Despite all the damage done by the ice in Texas, it still created quite a bit of beauty (or at least novelty).   \n\n<img src=\"uploads/2021/d611a590e1.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"uploads/2021/9316b1f96a.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Despite all the damage done by the ice in Texas, it still created quite a bit of beauty (or at least novelty).</p>\n\n<p><img src=\"https://alexchabot.net/uploads/2021/d611a590e1.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"https://alexchabot.net/uploads/2021/9316b1f96a.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Despite all the damage done by the ice in Texas, it still created quite a bit of beauty (or at least novelty).   \n\n<img src=\"https://alexchabot.net/uploads/2021/d611a590e1.jpg\" width=\"450\" height=\"600\" alt=\"\" /><img src=\"https://alexchabot.net/uploads/2021/9316b1f96a.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-02-21T09:36:43-05:00",
 				"url": "https://alexchabot.net/2021/02/21/despite-all-the.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2021/02/21/icicle-agave-during.html",
 				
-				"content_html": "<p>Icicle agave during the Texas winter storm.</p>\n\n<p><img src=\"uploads/2021/9dba3ac57f.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Icicle agave during the Texas winter storm. \n\n<img src=\"uploads/2021/9dba3ac57f.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Icicle agave during the Texas winter storm.</p>\n\n<p><img src=\"https://alexchabot.net/uploads/2021/9dba3ac57f.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Icicle agave during the Texas winter storm. \n\n<img src=\"https://alexchabot.net/uploads/2021/9dba3ac57f.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-02-21T09:33:16-05:00",
 				"url": "https://alexchabot.net/2021/02/21/icicle-agave-during.html"
 			},
@@ -252,8 +252,8 @@
 			{
 				"id": "http://alexchabot.micro.blog/2021/01/12/they-could-have.html",
 				
-				"content_html": "<p>They could have used additional time during the bulk fermentation to account for the cold, but it’s still a good rise.</p>\n\n<p><img src=\"uploads/2021/318ec403bc.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
-				"content_text": "They could have used additional time during the bulk fermentation to account for the cold, but it’s still a good rise. \n\n<img src=\"uploads/2021/318ec403bc.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_html": "<p>They could have used additional time during the bulk fermentation to account for the cold, but it’s still a good rise.</p>\n\n<p><img src=\"https://alexchabot.net/uploads/2021/318ec403bc.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "They could have used additional time during the bulk fermentation to account for the cold, but it’s still a good rise. \n\n<img src=\"https://alexchabot.net/uploads/2021/318ec403bc.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2021-01-12T12:02:31-05:00",
 				"url": "https://alexchabot.net/2021/01/12/they-could-have.html"
 			},
@@ -285,8 +285,8 @@
 			{
 				"id": "http://alexchabot.micro.blog/2020/12/26/ad-fontes-media.html",
 				
-				"content_html": "<p><a href=\"https://www.adfontesmedia.com\">Ad Fontes Media</a> rates media outlets according to their bias and reliability. 1) factual reporting has very slight left-leaning bias (see also &ldquo;<a href=\"https://www.nytimes.com/2017/12/08/opinion/facts-have-a-well-known-liberal-bias.html\">Facts Have a Well-Known Liberal Bias</a>&rdquo;) and consequently 2) it doesn&rsquo;t seem to be possible to be reliable <em>and</em> biased at the same time.</p>\n\n<p><img src=\"uploads/2020/e233b98e24.jpg\" width=\"600\" height=\"460\" alt=\"\" /></p>\n",
-				"content_text": "[Ad Fontes Media](https://www.adfontesmedia.com) rates media outlets according to their bias and reliability. 1) factual reporting has very slight left-leaning bias (see also \"[Facts Have a Well-Known Liberal Bias](https://www.nytimes.com/2017/12/08/opinion/facts-have-a-well-known-liberal-bias.html)\") and consequently 2) it doesn't seem to be possible to be reliable _and_ biased at the same time.\n\n<img src=\"uploads/2020/e233b98e24.jpg\" width=\"600\" height=\"460\" alt=\"\" />\n",
+				"content_html": "<p><a href=\"https://www.adfontesmedia.com\">Ad Fontes Media</a> rates media outlets according to their bias and reliability. 1) factual reporting has very slight left-leaning bias (see also &ldquo;<a href=\"https://www.nytimes.com/2017/12/08/opinion/facts-have-a-well-known-liberal-bias.html\">Facts Have a Well-Known Liberal Bias</a>&rdquo;) and consequently 2) it doesn&rsquo;t seem to be possible to be reliable <em>and</em> biased at the same time.</p>\n\n<p><img src=\"https://alexchabot.net/uploads/2020/e233b98e24.jpg\" width=\"600\" height=\"460\" alt=\"\" /></p>\n",
+				"content_text": "[Ad Fontes Media](https://www.adfontesmedia.com) rates media outlets according to their bias and reliability. 1) factual reporting has very slight left-leaning bias (see also \"[Facts Have a Well-Known Liberal Bias](https://www.nytimes.com/2017/12/08/opinion/facts-have-a-well-known-liberal-bias.html)\") and consequently 2) it doesn't seem to be possible to be reliable _and_ biased at the same time.\n\n<img src=\"https://alexchabot.net/uploads/2020/e233b98e24.jpg\" width=\"600\" height=\"460\" alt=\"\" />\n",
 				"date_published": "2020-12-26T18:51:42-05:00",
 				"url": "https://alexchabot.net/2020/12/26/ad-fontes-media.html"
 			},
@@ -318,24 +318,24 @@
 			{
 				"id": "http://alexchabot.micro.blog/2020/10/14/austin-tx-morning.html",
 				
-				"content_html": "<p>Austin, TX, 8:15. Morning walk around the neighborhood. There are many good Halloween decorations, but this one is particularly entertaining.\n#adayinthelife</p>\n\n<p><img src=\"uploads/2020/83c43806c5.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></p>\n",
-				"content_text": "Austin, TX, 8:15. Morning walk around the neighborhood. There are many good Halloween decorations, but this one is particularly entertaining.\n#adayinthelife\n\n<img src=\"uploads/2020/83c43806c5.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" />\n",
+				"content_html": "<p>Austin, TX, 8:15. Morning walk around the neighborhood. There are many good Halloween decorations, but this one is particularly entertaining.\n#adayinthelife</p>\n\n<p><img src=\"https://alexchabot.micro.blog/uploads/2020/83c43806c5.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></p>\n",
+				"content_text": "Austin, TX, 8:15. Morning walk around the neighborhood. There are many good Halloween decorations, but this one is particularly entertaining.\n#adayinthelife\n\n<img src=\"https://alexchabot.micro.blog/uploads/2020/83c43806c5.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" />\n",
 				"date_published": "2020-10-14T11:03:54-05:00",
 				"url": "https://alexchabot.net/2020/10/14/austin-tx-morning.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2020/09/22/given-what-happened.html",
 				
-				"content_html": "<p>Given what happened to the other saguaro, it makes me fear that this one will fall too.</p>\n\n<p><img src=\"uploads/2020/d552062916.jpg\" width=\"400\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Given what happened to the other saguaro, it makes me fear that this one will fall too.\n\n<img src=\"uploads/2020/d552062916.jpg\" width=\"400\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Given what happened to the other saguaro, it makes me fear that this one will fall too.</p>\n\n<p><img src=\"https://alexchabot.micro.blog/uploads/2020/d552062916.jpg\" width=\"400\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Given what happened to the other saguaro, it makes me fear that this one will fall too.\n\n<img src=\"https://alexchabot.micro.blog/uploads/2020/d552062916.jpg\" width=\"400\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2020-09-22T12:33:51-05:00",
 				"url": "https://alexchabot.net/2020/09/22/given-what-happened.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2020/09/22/i-took-this.html",
 				
-				"content_html": "<p>I took this photo of a saguaro a month ago. It had been partially burnt during the fires that happened north of Phoenix earlier this summer. This weekend I realized it had fallen. According to Wikipedia, saguaros grow their first arm around 75–100 years of age. 👋🌵😔</p>\n\n<p><img src=\"uploads/2020/04b7c6893a.jpg\" width=\"400\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "I took this photo of a saguaro a month ago. It had been partially burnt during the fires that happened north of Phoenix earlier this summer. This weekend I realized it had fallen. According to Wikipedia, saguaros grow their first arm around 75–100 years of age. 👋🌵😔\n\n<img src=\"uploads/2020/04b7c6893a.jpg\" width=\"400\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>I took this photo of a saguaro a month ago. It had been partially burnt during the fires that happened north of Phoenix earlier this summer. This weekend I realized it had fallen. According to Wikipedia, saguaros grow their first arm around 75–100 years of age. 👋🌵😔</p>\n\n<p><img src=\"https://alexchabot.micro.blog/uploads/2020/04b7c6893a.jpg\" width=\"400\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "I took this photo of a saguaro a month ago. It had been partially burnt during the fires that happened north of Phoenix earlier this summer. This weekend I realized it had fallen. According to Wikipedia, saguaros grow their first arm around 75–100 years of age. 👋🌵😔\n\n<img src=\"https://alexchabot.micro.blog/uploads/2020/04b7c6893a.jpg\" width=\"400\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2020-09-22T12:32:36-05:00",
 				"url": "https://alexchabot.net/2020/09/22/i-took-this.html"
 			},
@@ -393,1712 +393,1712 @@
 			{
 				"id": "http://alexchabot.micro.blog/2017/05/16/by-far-the.html",
 				
-				"content_html": "<p>By far the best thing I&rsquo;ve seen at Disney World so far.</p>\n\n<p><img src=\"uploads/2021/6494c8f7e0.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "By far the best thing I've seen at Disney World so far.\n\n<img src=\"uploads/2021/6494c8f7e0.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>By far the best thing I&rsquo;ve seen at Disney World so far.</p>\n\n<p><img src=\"https://alexchabot.net/uploads/2021/6494c8f7e0.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "By far the best thing I've seen at Disney World so far.\n\n<img src=\"https://alexchabot.net/uploads/2021/6494c8f7e0.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2017-05-16T19:37:19-05:00",
 				"url": "https://alexchabot.net/2017/05/16/by-far-the.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2016/11/24/bread.html",
 				
-				"content_html": "<p>Bread #2.</p>\n\n<p><img src=\"uploads/2021/dda449dd45.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Bread #2.\n\n<img src=\"uploads/2021/dda449dd45.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Bread #2.</p>\n\n<p><img src=\"https://alexchabot.net/uploads/2021/dda449dd45.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Bread #2.\n\n<img src=\"https://alexchabot.net/uploads/2021/dda449dd45.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2016-11-24T12:28:20-05:00",
 				"url": "https://alexchabot.net/2016/11/24/bread.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2016/11/18/192028.html",
 				
-				"content_html": "<p><img src=\"uploads/2021/d32929c59d.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "\n\n<img src=\"uploads/2021/d32929c59d.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p><img src=\"https://alexchabot.net/uploads/2021/d32929c59d.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "\n\n<img src=\"https://alexchabot.net/uploads/2021/d32929c59d.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2016-11-18T20:20:28-05:00",
 				"url": "https://alexchabot.net/2016/11/18/192028.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2016/10/06/181350.html",
 				
-				"content_html": "<p><img src=\"uploads/2021/d44eb3edc5.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "\n\n<img src=\"uploads/2021/d44eb3edc5.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p><img src=\"https://alexchabot.net/uploads/2021/d44eb3edc5.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "\n\n<img src=\"https://alexchabot.net/uploads/2021/d44eb3edc5.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2016-10-06T19:13:50-05:00",
 				"url": "https://alexchabot.net/2016/10/06/181350.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2016/09/12/192108.html",
 				
-				"content_html": "<p><img src=\"uploads/2021/99c820c993.jpg\" width=\"500\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "\n\n<img src=\"uploads/2021/99c820c993.jpg\" width=\"500\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p><img src=\"https://alexchabot.net/uploads/2021/99c820c993.jpg\" width=\"500\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "\n\n<img src=\"https://alexchabot.net/uploads/2021/99c820c993.jpg\" width=\"500\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2016-09-12T20:21:08-05:00",
 				"url": "https://alexchabot.net/2016/09/12/192108.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2016/08/27/the-modern-fort.html",
 				
-				"content_html": "<p>The Modern, Fort Worth.</p>\n\n<p><img src=\"uploads/2021/d66f8d8424.jpg\" width=\"480\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "The Modern, Fort Worth.\n\n<img src=\"uploads/2021/d66f8d8424.jpg\" width=\"480\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>The Modern, Fort Worth.</p>\n\n<p><img src=\"https://alexchabot.net/uploads/2021/d66f8d8424.jpg\" width=\"480\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "The Modern, Fort Worth.\n\n<img src=\"https://alexchabot.net/uploads/2021/d66f8d8424.jpg\" width=\"480\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2016-08-27T16:33:34-05:00",
 				"url": "https://alexchabot.net/2016/08/27/the-modern-fort.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2016/08/06/the-weight-of.html",
 				
-				"content_html": "<p>The weight of the world.</p>\n\n<p><img src=\"uploads/2021/2b5d041186.jpg\" width=\"480\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "The weight of the world.\n\n<img src=\"uploads/2021/2b5d041186.jpg\" width=\"480\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>The weight of the world.</p>\n\n<p><img src=\"https://alexchabot.net/uploads/2021/2b5d041186.jpg\" width=\"480\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "The weight of the world.\n\n<img src=\"https://alexchabot.net/uploads/2021/2b5d041186.jpg\" width=\"480\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2016-08-06T21:50:35-05:00",
 				"url": "https://alexchabot.net/2016/08/06/the-weight-of.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2016/07/30/by-giacometti.html",
 				
-				"content_html": "<p>By Giacometti.</p>\n\n<p><img src=\"uploads/2021/d72f435f09.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "By Giacometti.\n\n<img src=\"uploads/2021/d72f435f09.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>By Giacometti.</p>\n\n<p><img src=\"https://alexchabot.net/uploads/2021/d72f435f09.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "By Giacometti.\n\n<img src=\"https://alexchabot.net/uploads/2021/d72f435f09.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2016-07-30T16:07:42-05:00",
 				"url": "https://alexchabot.net/2016/07/30/by-giacometti.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2016/06/21/theres-sometimes-action.html",
 				
-				"content_html": "<p>There&rsquo;s sometimes action out of my window.</p>\n\n<p><img src=\"uploads/2021/18dce3e389.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "There's sometimes action out of my window.\n\n<img src=\"uploads/2021/18dce3e389.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>There&rsquo;s sometimes action out of my window.</p>\n\n<p><img src=\"https://alexchabot.net/uploads/2021/18dce3e389.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "There's sometimes action out of my window.\n\n<img src=\"https://alexchabot.net/uploads/2021/18dce3e389.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2016-06-21T06:49:48-05:00",
 				"url": "https://alexchabot.net/2016/06/21/theres-sometimes-action.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2016/06/20/got-a-new.html",
 				
-				"content_html": "<p>Got a new room, with view on the East River. Much upgrade.</p>\n\n<p><img src=\"uploads/2021/95852f7a10.jpg\" width=\"600\" height=\"314\" alt=\"\" /></p>\n",
-				"content_text": "Got a new room, with view on the East River. Much upgrade.\n\n<img src=\"uploads/2021/95852f7a10.jpg\" width=\"600\" height=\"314\" alt=\"\" />\n",
+				"content_html": "<p>Got a new room, with view on the East River. Much upgrade.</p>\n\n<p><img src=\"https://alexchabot.net/uploads/2021/95852f7a10.jpg\" width=\"600\" height=\"314\" alt=\"\" /></p>\n",
+				"content_text": "Got a new room, with view on the East River. Much upgrade.\n\n<img src=\"https://alexchabot.net/uploads/2021/95852f7a10.jpg\" width=\"600\" height=\"314\" alt=\"\" />\n",
 				"date_published": "2016-06-20T11:03:36-05:00",
 				"url": "https://alexchabot.net/2016/06/20/got-a-new.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2015/11/24/wind-tunnel-model.html",
 				
-				"content_html": "<p>Wind tunnel model. Most beautiful item at the Musée des Confluence.</p>\n\n<p><img src=\"uploads/2021/bdcd7f013b.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Wind tunnel model. Most beautiful item at the Musée des Confluence.\n\n<img src=\"uploads/2021/bdcd7f013b.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Wind tunnel model. Most beautiful item at the Musée des Confluence.</p>\n\n<p><img src=\"https://alexchabot.net/uploads/2021/bdcd7f013b.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Wind tunnel model. Most beautiful item at the Musée des Confluence.\n\n<img src=\"https://alexchabot.net/uploads/2021/bdcd7f013b.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2015-11-24T09:39:04-05:00",
 				"url": "https://alexchabot.net/2015/11/24/wind-tunnel-model.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2015/11/15/anna-going-a.html",
 				
-				"content_html": "<p>Anna going a bit overboard: crunchy speculoos, crème fraîche, and… maple syrup.</p>\n\n<p><img src=\"uploads/2021/0ec2da3745.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Anna going a bit overboard: crunchy speculoos, crème fraîche, and… maple syrup.\n\n<img src=\"uploads/2021/0ec2da3745.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Anna going a bit overboard: crunchy speculoos, crème fraîche, and… maple syrup.</p>\n\n<p><img src=\"https://alexchabot.net/uploads/2021/0ec2da3745.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Anna going a bit overboard: crunchy speculoos, crème fraîche, and… maple syrup.\n\n<img src=\"https://alexchabot.net/uploads/2021/0ec2da3745.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2015-11-15T07:05:20-05:00",
 				"url": "https://alexchabot.net/2015/11/15/anna-going-a.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2015/11/07/party-prep-marshmallows.html",
 				
-				"content_html": "<p>Party prep (Marshmallows + Jello powder)</p>\n\n<p><img src=\"uploads/2021/01d1d8354b.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Party prep (Marshmallows + Jello powder)\n\n<img src=\"uploads/2021/01d1d8354b.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Party prep (Marshmallows + Jello powder)</p>\n\n<p><img src=\"https://alexchabot.net/uploads/2021/01d1d8354b.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Party prep (Marshmallows + Jello powder)\n\n<img src=\"https://alexchabot.net/uploads/2021/01d1d8354b.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2015-11-07T07:04:47-05:00",
 				"url": "https://alexchabot.net/2015/11/07/party-prep-marshmallows.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2015/10/31/place-des-moulins.html",
 				
-				"content_html": "<p>Place des moulins, Marseille.</p>\n\n<p><img src=\"uploads/2021/892c9ee362.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Place des moulins, Marseille.\n\n<img src=\"uploads/2021/892c9ee362.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Place des moulins, Marseille.</p>\n\n<p><img src=\"https://alexchabot.net/uploads/2021/892c9ee362.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Place des moulins, Marseille.\n\n<img src=\"https://alexchabot.net/uploads/2021/892c9ee362.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2015-10-31T17:37:50-05:00",
 				"url": "https://alexchabot.net/2015/10/31/place-des-moulins.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2015/10/31/the-cloud-of.html",
 				
-				"content_html": "<p>&ldquo;The Cloud&rdquo; of Lyon&rsquo;s Musée des Confluences, seen from the roof.</p>\n\n<p><img src=\"uploads/2021/eedf58a17b.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "\"The Cloud\" of Lyon's Musée des Confluences, seen from the roof.\n\n<img src=\"uploads/2021/eedf58a17b.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>&ldquo;The Cloud&rdquo; of Lyon&rsquo;s Musée des Confluences, seen from the roof.</p>\n\n<p><img src=\"https://alexchabot.net/uploads/2021/eedf58a17b.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "\"The Cloud\" of Lyon's Musée des Confluences, seen from the roof.\n\n<img src=\"https://alexchabot.net/uploads/2021/eedf58a17b.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2015-10-31T17:32:41-05:00",
 				"url": "https://alexchabot.net/2015/10/31/the-cloud-of.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2015/10/24/a-holiday-sight.html",
 				
-				"content_html": "<p>A holiday sight.</p>\n\n<p><img src=\"uploads/2021/3a097fc34c.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "A holiday sight.\n\n<img src=\"uploads/2021/3a097fc34c.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>A holiday sight.</p>\n\n<p><img src=\"https://alexchabot.net/uploads/2021/3a097fc34c.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "A holiday sight.\n\n<img src=\"https://alexchabot.net/uploads/2021/3a097fc34c.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2015-10-24T04:17:47-05:00",
 				"url": "https://alexchabot.net/2015/10/24/a-holiday-sight.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2015/08/28/ball-and-bridge.html",
 				
-				"content_html": "<p>Ball and bridge.</p>\n\n<p><img src=\"uploads/2021/050b908a06.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Ball and bridge.\n\n<img src=\"uploads/2021/050b908a06.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Ball and bridge.</p>\n\n<p><img src=\"https://alexchabot.net/uploads/2021/050b908a06.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Ball and bridge.\n\n<img src=\"https://alexchabot.net/uploads/2021/050b908a06.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2015-08-28T06:35:31-05:00",
 				"url": "https://alexchabot.net/2015/08/28/ball-and-bridge.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2015/07/07/at-copenhagen-street.html",
 				
-				"content_html": "<p>At Copenhagen Street Food. (Yes, here, street food is <em>a</em> place.)</p>\n\n<p><img src=\"uploads/2021/03df82c09e.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "At Copenhagen Street Food. (Yes, here, street food is *a* place.)\n\n<img src=\"uploads/2021/03df82c09e.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>At Copenhagen Street Food. (Yes, here, street food is <em>a</em> place.)</p>\n\n<p><img src=\"https://alexchabot.net/uploads/2021/03df82c09e.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "At Copenhagen Street Food. (Yes, here, street food is *a* place.)\n\n<img src=\"https://alexchabot.net/uploads/2021/03df82c09e.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2015-07-07T14:47:36-05:00",
 				"url": "https://alexchabot.net/2015/07/07/at-copenhagen-street.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2015/05/30/octohook.html",
 				
-				"content_html": "<p>Octohook.</p>\n\n<p><img src=\"uploads/2021/0af1f4d350.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Octohook.\n\n<img src=\"uploads/2021/0af1f4d350.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Octohook.</p>\n\n<p><img src=\"https://alexchabot.net/uploads/2021/0af1f4d350.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Octohook.\n\n<img src=\"https://alexchabot.net/uploads/2021/0af1f4d350.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2015-05-30T23:52:07-05:00",
 				"url": "https://alexchabot.net/2015/05/30/octohook.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2015/05/24/making-spruce-beer.html",
 				
-				"content_html": "<p>Making spruce beer, attempt #2.</p>\n\n<p><img src=\"uploads/2021/e8c04d5cfb.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Making spruce beer, attempt #2.\n\n<img src=\"uploads/2021/e8c04d5cfb.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Making spruce beer, attempt #2.</p>\n\n<p><img src=\"https://alexchabot.net/uploads/2021/e8c04d5cfb.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Making spruce beer, attempt #2.\n\n<img src=\"https://alexchabot.net/uploads/2021/e8c04d5cfb.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2015-05-24T11:47:53-05:00",
 				"url": "https://alexchabot.net/2015/05/24/making-spruce-beer.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2015/04/03/slovenianitalian-rainy-day.html",
 				
-				"content_html": "<p>Slovenian/Italian &ldquo;rainy day&rdquo;. Imagine how nice it is when it&rsquo;s sunny.</p>\n\n<p><img src=\"uploads/2021/1be72d8cf3.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Slovenian/Italian \"rainy day\". Imagine how nice it is when it's sunny.\n\n<img src=\"uploads/2021/1be72d8cf3.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Slovenian/Italian &ldquo;rainy day&rdquo;. Imagine how nice it is when it&rsquo;s sunny.</p>\n\n<p><img src=\"https://alexchabot.net/uploads/2021/1be72d8cf3.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Slovenian/Italian \"rainy day\". Imagine how nice it is when it's sunny.\n\n<img src=\"https://alexchabot.net/uploads/2021/1be72d8cf3.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2015-04-03T08:45:20-05:00",
 				"url": "https://alexchabot.net/2015/04/03/slovenianitalian-rainy-day.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2014/06/17/new-carlsbergs-cellars.html",
 				
-				"content_html": "<p>&ldquo;New&rdquo; Carlsberg&rsquo;s cellars.</p>\n\n<p><img src=\"uploads/2021/fbf2e30fad.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "\"New\" Carlsberg's cellars.\n\n<img src=\"uploads/2021/fbf2e30fad.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>&ldquo;New&rdquo; Carlsberg&rsquo;s cellars.</p>\n\n<p><img src=\"https://alexchabot.net/uploads/2021/fbf2e30fad.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "\"New\" Carlsberg's cellars.\n\n<img src=\"https://alexchabot.net/uploads/2021/fbf2e30fad.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2014-06-17T09:13:22-05:00",
 				"url": "https://alexchabot.net/2014/06/17/new-carlsbergs-cellars.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2014/06/01/140323.html",
 				
-				"content_html": "<p><img src=\"uploads/2021/067c1dcbf4.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "\n\n<img src=\"uploads/2021/067c1dcbf4.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p><img src=\"https://alexchabot.net/uploads/2021/067c1dcbf4.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "\n\n<img src=\"https://alexchabot.net/uploads/2021/067c1dcbf4.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2014-06-01T15:03:23-05:00",
 				"url": "https://alexchabot.net/2014/06/01/140323.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2014/01/28/ja-tak.html",
 				
-				"content_html": "<p>Ja tak.</p>\n\n<p><img src=\"uploads/2021/cff2846f72.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Ja tak.\n\n<img src=\"uploads/2021/cff2846f72.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Ja tak.</p>\n\n<p><img src=\"https://alexchabot.net/uploads/2021/cff2846f72.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Ja tak.\n\n<img src=\"https://alexchabot.net/uploads/2021/cff2846f72.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2014-01-28T09:34:25-05:00",
 				"url": "https://alexchabot.net/2014/01/28/ja-tak.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2013/08/28/just-before-nyborg.html",
 				
-				"content_html": "<p>Just before Nyborg.</p>\n\n<p><img src=\"uploads/2021/12476e75b3.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Just before Nyborg.\n\n<img src=\"uploads/2021/12476e75b3.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Just before Nyborg.</p>\n\n<p><img src=\"https://alexchabot.net/uploads/2021/12476e75b3.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Just before Nyborg.\n\n<img src=\"https://alexchabot.net/uploads/2021/12476e75b3.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2013-08-28T02:20:54-05:00",
 				"url": "https://alexchabot.net/2013/08/28/just-before-nyborg.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2013/08/25/just-because-its.html",
 				
-				"content_html": "<p>Just because it&rsquo;s blue. Just because it&rsquo;s green.</p>\n\n<p><img src=\"uploads/2021/76a35a020b.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Just because it's blue. Just because it's green.\n\n<img src=\"uploads/2021/76a35a020b.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Just because it&rsquo;s blue. Just because it&rsquo;s green.</p>\n\n<p><img src=\"https://alexchabot.net/uploads/2021/76a35a020b.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Just because it's blue. Just because it's green.\n\n<img src=\"https://alexchabot.net/uploads/2021/76a35a020b.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2013-08-25T12:19:42-05:00",
 				"url": "https://alexchabot.net/2013/08/25/just-because-its.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2013/08/25/101417.html",
 				
-				"content_html": "<p><img src=\"uploads/2021/751ae06a6c.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "\n\n<img src=\"uploads/2021/751ae06a6c.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p><img src=\"https://alexchabot.net/uploads/2021/751ae06a6c.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "\n\n<img src=\"https://alexchabot.net/uploads/2021/751ae06a6c.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2013-08-25T11:14:17-05:00",
 				"url": "https://alexchabot.net/2013/08/25/101417.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2013/08/04/wayne-siegel-performing.html",
 				
-				"content_html": "<p>Wayne Siegel performing next to an Alexander Calder mobile.</p>\n\n<p><img src=\"uploads/2021/86082a74e0.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Wayne Siegel performing next to an Alexander Calder mobile.\n\n<img src=\"uploads/2021/86082a74e0.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Wayne Siegel performing next to an Alexander Calder mobile.</p>\n\n<p><img src=\"https://alexchabot.net/uploads/2021/86082a74e0.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Wayne Siegel performing next to an Alexander Calder mobile.\n\n<img src=\"https://alexchabot.net/uploads/2021/86082a74e0.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2013-08-04T07:33:49-05:00",
 				"url": "https://alexchabot.net/2013/08/04/wayne-siegel-performing.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2013/07/22/chapter-one-berlin.html",
 				
-				"content_html": "<p>Chapter One, Berlin.</p>\n\n<p><img src=\"uploads/2021/5e67601c09.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Chapter One, Berlin.\n\n<img src=\"uploads/2021/5e67601c09.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Chapter One, Berlin.</p>\n\n<p><img src=\"https://alexchabot.net/uploads/2021/5e67601c09.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Chapter One, Berlin.\n\n<img src=\"https://alexchabot.net/uploads/2021/5e67601c09.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2013-07-22T06:55:04-05:00",
 				"url": "https://alexchabot.net/2013/07/22/chapter-one-berlin.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2013/07/05/old-fashioned-with.html",
 				
-				"content_html": "<p>Old Fashioned with Bitter Truth Old Time bitters. Chilled with a really cool spherical ice cube!</p>\n\n<p><img src=\"uploads/2021/0a7977a227.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Old Fashioned with Bitter Truth Old Time bitters. Chilled with a really cool spherical ice cube!\n\n<img src=\"uploads/2021/0a7977a227.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Old Fashioned with Bitter Truth Old Time bitters. Chilled with a really cool spherical ice cube!</p>\n\n<p><img src=\"https://alexchabot.net/uploads/2021/0a7977a227.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Old Fashioned with Bitter Truth Old Time bitters. Chilled with a really cool spherical ice cube!\n\n<img src=\"https://alexchabot.net/uploads/2021/0a7977a227.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2013-07-05T15:36:39-05:00",
 				"url": "https://alexchabot.net/2013/07/05/old-fashioned-with.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2013/07/03/the-perfect-personal.html",
 				
-				"content_html": "<p>The perfect personal hygiene kit.</p>\n\n<p><img src=\"uploads/2021/80c7456f08.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "The perfect personal hygiene kit. \n\n<img src=\"uploads/2021/80c7456f08.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>The perfect personal hygiene kit.</p>\n\n<p><img src=\"https://alexchabot.net/uploads/2021/80c7456f08.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "The perfect personal hygiene kit. \n\n<img src=\"https://alexchabot.net/uploads/2021/80c7456f08.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2013-07-03T13:35:35-05:00",
 				"url": "https://alexchabot.net/2013/07/03/the-perfect-personal.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2013/07/01/one-sad-fellow.html",
 				
-				"content_html": "<p>One sad fellow.</p>\n\n<p><img src=\"uploads/2021/4dfce4bf0a.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "One sad fellow.\n\n<img src=\"uploads/2021/4dfce4bf0a.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>One sad fellow.</p>\n\n<p><img src=\"https://alexchabot.net/uploads/2021/4dfce4bf0a.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "One sad fellow.\n\n<img src=\"https://alexchabot.net/uploads/2021/4dfce4bf0a.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2013-07-01T06:04:22-05:00",
 				"url": "https://alexchabot.net/2013/07/01/one-sad-fellow.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2013/06/26/025322.html",
 				
-				"content_html": "<p><img src=\"uploads/2021/c0bea0e403.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "\n\n<img src=\"uploads/2021/c0bea0e403.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p><img src=\"https://alexchabot.net/uploads/2021/c0bea0e403.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "\n\n<img src=\"https://alexchabot.net/uploads/2021/c0bea0e403.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2013-06-26T03:53:22-05:00",
 				"url": "https://alexchabot.net/2013/06/26/025322.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2013/04/14/the-typical-ingredients.html",
 				
-				"content_html": "<p>The typical ingredients.</p>\n\n<p><img src=\"uploads/2021/67d4e314bb.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "The typical ingredients.\n\n<img src=\"uploads/2021/67d4e314bb.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>The typical ingredients.</p>\n\n<p><img src=\"https://alexchabot.net/uploads/2021/67d4e314bb.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "The typical ingredients.\n\n<img src=\"https://alexchabot.net/uploads/2021/67d4e314bb.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2013-04-14T11:35:52-05:00",
 				"url": "https://alexchabot.net/2013/04/14/the-typical-ingredients.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2013/03/09/063011.html",
 				
-				"content_html": "<p><img src=\"uploads/2021/2133c4563d.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "\n\n<img src=\"uploads/2021/2133c4563d.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p><img src=\"https://alexchabot.net/uploads/2021/2133c4563d.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "\n\n<img src=\"https://alexchabot.net/uploads/2021/2133c4563d.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2013-03-09T07:30:11-05:00",
 				"url": "https://alexchabot.net/2013/03/09/063011.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2013/02/10/that-panda-must.html",
 				
-				"content_html": "<p>That panda must have been nice, before it overdosed…</p>\n\n<p><img src=\"uploads/2021/c615e66a00.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "That panda must have been nice, before it overdosed…\n\n<img src=\"uploads/2021/c615e66a00.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>That panda must have been nice, before it overdosed…</p>\n\n<p><img src=\"https://alexchabot.net/uploads/2021/c615e66a00.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "That panda must have been nice, before it overdosed…\n\n<img src=\"https://alexchabot.net/uploads/2021/c615e66a00.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2013-02-10T04:47:06-05:00",
 				"url": "https://alexchabot.net/2013/02/10/that-panda-must.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2013/02/09/charming-underground-section.html",
 				
-				"content_html": "<p>Charming underground section of Ataturk airport.</p>\n\n<p><img src=\"uploads/2021/6bceeedd98.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Charming underground section of Ataturk airport.\n\n<img src=\"uploads/2021/6bceeedd98.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Charming underground section of Ataturk airport.</p>\n\n<p><img src=\"https://alexchabot.net/uploads/2021/6bceeedd98.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Charming underground section of Ataturk airport.\n\n<img src=\"https://alexchabot.net/uploads/2021/6bceeedd98.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2013-02-09T08:41:06-05:00",
 				"url": "https://alexchabot.net/2013/02/09/charming-underground-section.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2013/02/09/my-new-favorite.html",
 				
-				"content_html": "<p>My new favorite Turkish expression — SALT Beyoglu</p>\n\n<p><img src=\"uploads/2021/11402ffab2.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "My new favorite Turkish expression — SALT Beyoglu\n\n<img src=\"uploads/2021/11402ffab2.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>My new favorite Turkish expression — SALT Beyoglu</p>\n\n<p><img src=\"https://alexchabot.net/uploads/2021/11402ffab2.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "My new favorite Turkish expression — SALT Beyoglu\n\n<img src=\"https://alexchabot.net/uploads/2021/11402ffab2.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2013-02-09T08:40:51-05:00",
 				"url": "https://alexchabot.net/2013/02/09/my-new-favorite.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2013/01/13/freezerman.html",
 				
-				"content_html": "<p>Freezerman.</p>\n\n<p><img src=\"uploads/2021/a7d0be2a43.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Freezerman.\n\n<img src=\"uploads/2021/a7d0be2a43.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Freezerman.</p>\n\n<p><img src=\"https://alexchabot.net/uploads/2021/a7d0be2a43.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Freezerman.\n\n<img src=\"https://alexchabot.net/uploads/2021/a7d0be2a43.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2013-01-13T05:39:14-05:00",
 				"url": "https://alexchabot.net/2013/01/13/freezerman.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2013/01/07/this-guys-not.html",
 				
-				"content_html": "<p>This guy&rsquo;s not going anywhere anytime soon.</p>\n\n<p><img src=\"uploads/2021/8a41f67ca3.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "This guy's not going anywhere anytime soon.\n\n<img src=\"uploads/2021/8a41f67ca3.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>This guy&rsquo;s not going anywhere anytime soon.</p>\n\n<p><img src=\"https://alexchabot.net/uploads/2021/8a41f67ca3.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "This guy's not going anywhere anytime soon.\n\n<img src=\"https://alexchabot.net/uploads/2021/8a41f67ca3.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2013-01-07T10:43:17-05:00",
 				"url": "https://alexchabot.net/2013/01/07/this-guys-not.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2012/12/15/155033.html",
 				
-				"content_html": "<p><img src=\"uploads/2021/b3a2584e5d.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "\n\n<img src=\"uploads/2021/b3a2584e5d.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p><img src=\"https://alexchabot.net/uploads/2021/b3a2584e5d.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "\n\n<img src=\"https://alexchabot.net/uploads/2021/b3a2584e5d.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2012-12-15T16:50:33-05:00",
 				"url": "https://alexchabot.net/2012/12/15/155033.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2012/12/14/talk-by-pysics.html",
 				
-				"content_html": "<p>Talk by 2012 Pysics Nobel Prize winner. Yes, that font is Comis Sans.</p>\n\n<p><img src=\"uploads/2021/781a781246.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Talk by 2012 Pysics Nobel Prize winner. Yes, that font is Comis Sans.\n\n<img src=\"uploads/2021/781a781246.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Talk by 2012 Pysics Nobel Prize winner. Yes, that font is Comis Sans.</p>\n\n<p><img src=\"https://alexchabot.net/uploads/2021/781a781246.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Talk by 2012 Pysics Nobel Prize winner. Yes, that font is Comis Sans.\n\n<img src=\"https://alexchabot.net/uploads/2021/781a781246.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2012-12-14T11:43:54-05:00",
 				"url": "https://alexchabot.net/2012/12/14/talk-by-pysics.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2012/12/14/securitas-making-sure.html",
 				
-				"content_html": "<p>Securitas: making sure your door doesn&rsquo;t get stolen, every day.</p>\n\n<p><img src=\"uploads/2021/b533a9e2a6.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Securitas: making sure your door doesn't get stolen, every day.\n\n<img src=\"uploads/2021/b533a9e2a6.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Securitas: making sure your door doesn&rsquo;t get stolen, every day.</p>\n\n<p><img src=\"https://alexchabot.net/uploads/2021/b533a9e2a6.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Securitas: making sure your door doesn't get stolen, every day.\n\n<img src=\"https://alexchabot.net/uploads/2021/b533a9e2a6.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2012-12-14T04:44:20-05:00",
 				"url": "https://alexchabot.net/2012/12/14/securitas-making-sure.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2012/11/26/115451.html",
 				
-				"content_html": "<p><img src=\"uploads/2021/040e38cb35.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "\n\n<img src=\"uploads/2021/040e38cb35.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p><img src=\"https://alexchabot.net/uploads/2021/040e38cb35.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "\n\n<img src=\"https://alexchabot.net/uploads/2021/040e38cb35.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2012-11-26T12:54:51-05:00",
 				"url": "https://alexchabot.net/2012/11/26/115451.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2012/11/02/this-is-how.html",
 				
-				"content_html": "<p>This is how it ends.</p>\n\n<p><img src=\"uploads/2021/018ee18e00.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "This is how it ends.\n\n<img src=\"uploads/2021/018ee18e00.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>This is how it ends.</p>\n\n<p><img src=\"https://alexchabot.net/uploads/2021/018ee18e00.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "This is how it ends.\n\n<img src=\"https://alexchabot.net/uploads/2021/018ee18e00.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2012-11-02T18:03:19-05:00",
 				"url": "https://alexchabot.net/2012/11/02/this-is-how.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2012/05/27/not-on-the.html",
 				
-				"content_html": "<p>Not on the street side.</p>\n\n<p><img src=\"uploads/2021/7a1fa4d7d9.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Not on the street side.\n\n<img src=\"uploads/2021/7a1fa4d7d9.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Not on the street side.</p>\n\n<p><img src=\"https://alexchabot.net/uploads/2021/7a1fa4d7d9.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Not on the street side.\n\n<img src=\"https://alexchabot.net/uploads/2021/7a1fa4d7d9.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2012-05-27T11:52:10-05:00",
 				"url": "https://alexchabot.net/2012/05/27/not-on-the.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2012/05/17/party-hut.html",
 				
-				"content_html": "<p>Party hut</p>\n\n<p><img src=\"uploads/2021/90b10fb0e5.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Party hut\n\n<img src=\"uploads/2021/90b10fb0e5.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Party hut</p>\n\n<p><img src=\"https://alexchabot.net/uploads/2021/90b10fb0e5.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Party hut\n\n<img src=\"https://alexchabot.net/uploads/2021/90b10fb0e5.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2012-05-17T07:45:31-05:00",
 				"url": "https://alexchabot.net/2012/05/17/party-hut.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2012/05/05/palm-house.html",
 				
-				"content_html": "<p>Palm house</p>\n\n<p><img src=\"uploads/2021/b54d4b7a9c.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Palm house\n\n<img src=\"uploads/2021/b54d4b7a9c.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Palm house</p>\n\n<p><img src=\"https://alexchabot.net/uploads/2021/b54d4b7a9c.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Palm house\n\n<img src=\"https://alexchabot.net/uploads/2021/b54d4b7a9c.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2012-05-05T09:18:20-05:00",
 				"url": "https://alexchabot.net/2012/05/05/palm-house.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2012/05/05/just-another-day.html",
 				
-				"content_html": "<p>Just another day in Copenhagen&rsquo;s rain forrest.</p>\n\n<p><img src=\"uploads/2021/9ed106e3f5.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Just another day in Copenhagen's rain forrest.\n\n<img src=\"uploads/2021/9ed106e3f5.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Just another day in Copenhagen&rsquo;s rain forrest.</p>\n\n<p><img src=\"https://alexchabot.net/uploads/2021/9ed106e3f5.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Just another day in Copenhagen's rain forrest.\n\n<img src=\"https://alexchabot.net/uploads/2021/9ed106e3f5.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2012-05-05T07:30:13-05:00",
 				"url": "https://alexchabot.net/2012/05/05/just-another-day.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2012/04/14/pfesn-dtu-after.html",
 				
-				"content_html": "<p>PF/ESN DTU After Easter party</p>\n\n<p><img src=\"uploads/2021/ea0ce8ef95.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "PF/ESN DTU After Easter party\n\n<img src=\"uploads/2021/ea0ce8ef95.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>PF/ESN DTU After Easter party</p>\n\n<p><img src=\"https://alexchabot.net/uploads/2021/ea0ce8ef95.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "PF/ESN DTU After Easter party\n\n<img src=\"https://alexchabot.net/uploads/2021/ea0ce8ef95.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2012-04-14T15:02:08-05:00",
 				"url": "https://alexchabot.net/2012/04/14/pfesn-dtu-after.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2012/03/31/worlds-first-qr.html",
 				
-				"content_html": "<p>World&rsquo;s first QR code - Ryszard Winiarskyx 1936</p>\n\n<p><img src=\"uploads/2021/ac72a2484e.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "World's first QR code - Ryszard Winiarskyx 1936\n\n<img src=\"uploads/2021/ac72a2484e.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>World&rsquo;s first QR code - Ryszard Winiarskyx 1936</p>\n\n<p><img src=\"https://alexchabot.net/uploads/2021/ac72a2484e.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "World's first QR code - Ryszard Winiarskyx 1936\n\n<img src=\"https://alexchabot.net/uploads/2021/ac72a2484e.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2012-03-31T07:08:55-05:00",
 				"url": "https://alexchabot.net/2012/03/31/worlds-first-qr.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2012/02/05/cest-arriv-la.html",
 				
-				"content_html": "<p>C&rsquo;est arrivé la nuit dernière.</p>\n\n<p><img src=\"uploads/2021/86cb6f8e3b.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "C'est arrivé la nuit dernière. \n\n<img src=\"uploads/2021/86cb6f8e3b.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>C&rsquo;est arrivé la nuit dernière.</p>\n\n<p><img src=\"https://alexchabot.net/uploads/2021/86cb6f8e3b.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "C'est arrivé la nuit dernière. \n\n<img src=\"https://alexchabot.net/uploads/2021/86cb6f8e3b.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2012-02-05T04:15:53-05:00",
 				"url": "https://alexchabot.net/2012/02/05/cest-arriv-la.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2012/02/01/looking-into-eschers.html",
 				
-				"content_html": "<p>Looking into Escher&rsquo;s mirror ball.</p>\n\n<p><img src=\"uploads/2021/f98e7fd477.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Looking into Escher's mirror ball. \n\n<img src=\"uploads/2021/f98e7fd477.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Looking into Escher&rsquo;s mirror ball.</p>\n\n<p><img src=\"https://alexchabot.net/uploads/2021/f98e7fd477.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Looking into Escher's mirror ball. \n\n<img src=\"https://alexchabot.net/uploads/2021/f98e7fd477.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2012-02-01T12:57:48-05:00",
 				"url": "https://alexchabot.net/2012/02/01/looking-into-eschers.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2012/02/01/this-time-for.html",
 				
-				"content_html": "<p>This time for two, still at the Amsterdam Library.</p>\n\n<p><img src=\"uploads/2021/22951952d8.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "This time for two, still at the Amsterdam Library. \n\n<img src=\"uploads/2021/22951952d8.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>This time for two, still at the Amsterdam Library.</p>\n\n<p><img src=\"https://alexchabot.net/uploads/2021/22951952d8.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "This time for two, still at the Amsterdam Library. \n\n<img src=\"https://alexchabot.net/uploads/2021/22951952d8.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2012-02-01T12:57:47-05:00",
 				"url": "https://alexchabot.net/2012/02/01/this-time-for.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2012/02/01/brother-in-a.html",
 				
-				"content_html": "<p>Brother in a box.</p>\n\n<p><img src=\"uploads/2021/7a1ef83696.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Brother in a box. \n\n<img src=\"uploads/2021/7a1ef83696.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Brother in a box.</p>\n\n<p><img src=\"https://alexchabot.net/uploads/2021/7a1ef83696.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Brother in a box. \n\n<img src=\"https://alexchabot.net/uploads/2021/7a1ef83696.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2012-02-01T12:57:44-05:00",
 				"url": "https://alexchabot.net/2012/02/01/brother-in-a.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2012/01/31/for-those-whove.html",
 				
-				"content_html": "<p>For those who&rsquo;ve seen my other photos. You might recognize the Ørsteds Kolegium, no surprise, it&rsquo;s 3XN who&rsquo;s designed it too.</p>\n\n<p><img src=\"uploads/2021/4288da4978.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "For those who've seen my other photos. You might recognize the Ørsteds Kolegium, no surprise, it's 3XN who's designed it too.\n\n<img src=\"uploads/2021/4288da4978.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>For those who&rsquo;ve seen my other photos. You might recognize the Ørsteds Kolegium, no surprise, it&rsquo;s 3XN who&rsquo;s designed it too.</p>\n\n<p><img src=\"https://alexchabot.net/uploads/2021/4288da4978.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "For those who've seen my other photos. You might recognize the Ørsteds Kolegium, no surprise, it's 3XN who's designed it too.\n\n<img src=\"https://alexchabot.net/uploads/2021/4288da4978.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2012-01-31T17:37:50-05:00",
 				"url": "https://alexchabot.net/2012/01/31/for-those-whove.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2012/01/31/a-bio-local.html",
 				
-				"content_html": "<p>A 12.50€, bio, local, natural, dinner at the Amsterdam Library.</p>\n\n<p><img src=\"uploads/2021/508c2b12e7.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "A 12.50€, bio, local, natural, dinner at the Amsterdam Library. \n\n<img src=\"uploads/2021/508c2b12e7.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>A 12.50€, bio, local, natural, dinner at the Amsterdam Library.</p>\n\n<p><img src=\"https://alexchabot.net/uploads/2021/508c2b12e7.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "A 12.50€, bio, local, natural, dinner at the Amsterdam Library. \n\n<img src=\"https://alexchabot.net/uploads/2021/508c2b12e7.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2012-01-31T17:37:49-05:00",
 				"url": "https://alexchabot.net/2012/01/31/a-bio-local.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2012/01/29/whoa-bon-matin.html",
 				
-				"content_html": "<p>Whoa! Bon matin!</p>\n\n<p><img src=\"uploads/2021/a2e48fc243.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Whoa! Bon matin!\n\n<img src=\"uploads/2021/a2e48fc243.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Whoa! Bon matin!</p>\n\n<p><img src=\"https://alexchabot.net/uploads/2021/a2e48fc243.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Whoa! Bon matin!\n\n<img src=\"https://alexchabot.net/uploads/2021/a2e48fc243.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2012-01-29T04:56:45-05:00",
 				"url": "https://alexchabot.net/2012/01/29/whoa-bon-matin.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2012/01/05/kocjanske-jame-exit.html",
 				
-				"content_html": "<p>Škocjanske Jame exit - Slovenia</p>\n\n<p><img src=\"uploads/2021/71c4fa758d.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Škocjanske Jame exit - Slovenia\n\n<img src=\"uploads/2021/71c4fa758d.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Škocjanske Jame exit - Slovenia</p>\n\n<p><img src=\"https://alexchabot.net/uploads/2021/71c4fa758d.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Škocjanske Jame exit - Slovenia\n\n<img src=\"https://alexchabot.net/uploads/2021/71c4fa758d.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2012-01-05T18:25:20-05:00",
 				"url": "https://alexchabot.net/2012/01/05/kocjanske-jame-exit.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2012/01/05/172516.html",
 				
-				"content_html": "<p><img src=\"uploads/2021/e44fa1c800.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "\n\n<img src=\"uploads/2021/e44fa1c800.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p><img src=\"https://alexchabot.net/uploads/2021/e44fa1c800.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "\n\n<img src=\"https://alexchabot.net/uploads/2021/e44fa1c800.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2012-01-05T18:25:16-05:00",
 				"url": "https://alexchabot.net/2012/01/05/172516.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2012/01/05/i-was-here.html",
 				
-				"content_html": "<p>I was here.</p>\n\n<p><img src=\"uploads/2021/15ccfd5617.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "I was here. \n\n<img src=\"uploads/2021/15ccfd5617.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>I was here.</p>\n\n<p><img src=\"https://alexchabot.net/uploads/2021/15ccfd5617.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "I was here. \n\n<img src=\"https://alexchabot.net/uploads/2021/15ccfd5617.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2012-01-05T18:23:40-05:00",
 				"url": "https://alexchabot.net/2012/01/05/i-was-here.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2012/01/05/shush.html",
 				
-				"content_html": "<p>Shush</p>\n\n<p><img src=\"uploads/2021/9f66d3d478.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Shush\n\n<img src=\"uploads/2021/9f66d3d478.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Shush</p>\n\n<p><img src=\"https://alexchabot.net/uploads/2021/9f66d3d478.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Shush\n\n<img src=\"https://alexchabot.net/uploads/2021/9f66d3d478.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2012-01-05T18:23:20-05:00",
 				"url": "https://alexchabot.net/2012/01/05/shush.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2011/12/31/new-years-eve.html",
 				
-				"content_html": "<p>New year&rsquo;s eve pizza, in a pizza oven, in a fourth floor apartment.</p>\n\n<p><img src=\"uploads/2021/58eda1f687.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "New year's eve pizza, in a pizza oven, in a fourth floor apartment. \n\n<img src=\"uploads/2021/58eda1f687.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>New year&rsquo;s eve pizza, in a pizza oven, in a fourth floor apartment.</p>\n\n<p><img src=\"https://alexchabot.net/uploads/2021/58eda1f687.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "New year's eve pizza, in a pizza oven, in a fourth floor apartment. \n\n<img src=\"https://alexchabot.net/uploads/2021/58eda1f687.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2011-12-31T15:06:53-05:00",
 				"url": "https://alexchabot.net/2011/12/31/new-years-eve.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2011/12/20/jessica-morin-cne.html",
 				
-				"content_html": "<p>Jessica Morin - CNE Jonquière</p>\n\n<p><img src=\"uploads/2021/a783a97372.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Jessica Morin - CNE Jonquière\n\n<img src=\"uploads/2021/a783a97372.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Jessica Morin - CNE Jonquière</p>\n\n<p><img src=\"https://alexchabot.net/uploads/2021/a783a97372.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Jessica Morin - CNE Jonquière\n\n<img src=\"https://alexchabot.net/uploads/2021/a783a97372.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2011-12-20T23:42:35-05:00",
 				"url": "https://alexchabot.net/2011/12/20/jessica-morin-cne.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2011/11/13/pandoro-this-one.html",
 				
-				"content_html": "<p>Pandoro (this one I did not make)</p>\n\n<p><img src=\"uploads/2021/579485c812.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Pandoro (this one I did not make)\n\n<img src=\"uploads/2021/579485c812.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Pandoro (this one I did not make)</p>\n\n<p><img src=\"https://alexchabot.net/uploads/2021/579485c812.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Pandoro (this one I did not make)\n\n<img src=\"https://alexchabot.net/uploads/2021/579485c812.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2011-11-13T14:46:36-05:00",
 				"url": "https://alexchabot.net/2011/11/13/pandoro-this-one.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2011/11/11/chocolate-raspberry-cake.html",
 				
-				"content_html": "<p>Chocolate raspberry cake</p>\n\n<p><img src=\"uploads/2021/fa96d667c1.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Chocolate raspberry cake\n\n<img src=\"uploads/2021/fa96d667c1.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Chocolate raspberry cake</p>\n\n<p><img src=\"https://alexchabot.net/uploads/2021/fa96d667c1.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Chocolate raspberry cake\n\n<img src=\"https://alexchabot.net/uploads/2021/fa96d667c1.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2011-11-11T16:50:03-05:00",
 				"url": "https://alexchabot.net/2011/11/11/chocolate-raspberry-cake.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2011/10/23/detail-hundertwasser-house.html",
 				
-				"content_html": "<p>Detail - Hundertwasser house</p>\n\n<p><img src=\"uploads/2021/6faead2b19.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Detail - Hundertwasser house\n\n<img src=\"uploads/2021/6faead2b19.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Detail - Hundertwasser house</p>\n\n<p><img src=\"https://alexchabot.net/uploads/2021/6faead2b19.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Detail - Hundertwasser house\n\n<img src=\"https://alexchabot.net/uploads/2021/6faead2b19.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2011-10-23T03:50:27-05:00",
 				"url": "https://alexchabot.net/2011/10/23/detail-hundertwasser-house.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2011/10/23/vienna-thats-what.html",
 				
-				"content_html": "<p>Vienna - That&rsquo;s what they call &ldquo;a bike lane&rdquo;.</p>\n\n<p><img src=\"uploads/2021/1cb97b6efc.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Vienna - That's what they call \"a bike lane\". \n\n<img src=\"uploads/2021/1cb97b6efc.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Vienna - That&rsquo;s what they call &ldquo;a bike lane&rdquo;.</p>\n\n<p><img src=\"https://alexchabot.net/uploads/2021/1cb97b6efc.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Vienna - That's what they call \"a bike lane\". \n\n<img src=\"https://alexchabot.net/uploads/2021/1cb97b6efc.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2011-10-23T03:50:26-05:00",
 				"url": "https://alexchabot.net/2011/10/23/vienna-thats-what.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2011/10/23/vienna-what.html",
 				
-				"content_html": "<p>Vienna - ? What !?</p>\n\n<p><img src=\"uploads/2021/af7e048195.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Vienna - ? What !?\n\n<img src=\"uploads/2021/af7e048195.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Vienna - ? What !?</p>\n\n<p><img src=\"https://alexchabot.net/uploads/2021/af7e048195.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Vienna - ? What !?\n\n<img src=\"https://alexchabot.net/uploads/2021/af7e048195.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2011-10-23T03:50:26-05:00",
 				"url": "https://alexchabot.net/2011/10/23/vienna-what.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2011/10/23/mumok-giacometti-femme.html",
 				
-				"content_html": "<p>MUMOK - Giacometti, Femme debout III</p>\n\n<p><img src=\"uploads/2021/4bfd60ab9d.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "MUMOK - Giacometti, Femme debout III\n\n<img src=\"uploads/2021/4bfd60ab9d.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>MUMOK - Giacometti, Femme debout III</p>\n\n<p><img src=\"https://alexchabot.net/uploads/2021/4bfd60ab9d.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "MUMOK - Giacometti, Femme debout III\n\n<img src=\"https://alexchabot.net/uploads/2021/4bfd60ab9d.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2011-10-23T03:50:04-05:00",
 				"url": "https://alexchabot.net/2011/10/23/mumok-giacometti-femme.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2011/10/03/024205.html",
 				
-				"content_html": "<p><img src=\"uploads/2021/05d1e4798f.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "\n\n<img src=\"uploads/2021/05d1e4798f.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p><img src=\"https://alexchabot.net/uploads/2021/05d1e4798f.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "\n\n<img src=\"https://alexchabot.net/uploads/2021/05d1e4798f.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2011-10-03T03:42:05-05:00",
 				"url": "https://alexchabot.net/2011/10/03/024205.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2011/09/25/121721.html",
 				
-				"content_html": "<p><img src=\"uploads/2021/df2439f547.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "\n\n<img src=\"uploads/2021/df2439f547.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p><img src=\"https://alexchabot.net/uploads/2021/df2439f547.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "\n\n<img src=\"https://alexchabot.net/uploads/2021/df2439f547.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2011-09-25T13:17:21-05:00",
 				"url": "https://alexchabot.net/2011/09/25/121721.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2011/09/25/114802.html",
 				
-				"content_html": "<p><img src=\"uploads/2021/fca4d9cc8c.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "\n\n<img src=\"uploads/2021/fca4d9cc8c.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p><img src=\"https://alexchabot.net/uploads/2021/fca4d9cc8c.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "\n\n<img src=\"https://alexchabot.net/uploads/2021/fca4d9cc8c.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2011-09-25T12:48:02-05:00",
 				"url": "https://alexchabot.net/2011/09/25/114802.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2011/09/13/main-staircase-neues.html",
 				
-				"content_html": "<p>Main staircase, Neues Museum</p>\n\n<p><img src=\"uploads/2021/eef0c44708.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Main staircase, Neues Museum\n\n<img src=\"uploads/2021/eef0c44708.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Main staircase, Neues Museum</p>\n\n<p><img src=\"https://alexchabot.net/uploads/2021/eef0c44708.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Main staircase, Neues Museum\n\n<img src=\"https://alexchabot.net/uploads/2021/eef0c44708.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2011-09-13T18:43:57-05:00",
 				"url": "https://alexchabot.net/2011/09/13/main-staircase-neues.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2011/09/13/colosal-statue-of.html",
 				
-				"content_html": "<p>&ldquo;Colosal statue of Helios&rdquo;—Neues Museum</p>\n\n<p><img src=\"uploads/2021/19c09d1e01.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "\"Colosal statue of Helios\"—Neues Museum\n\n<img src=\"uploads/2021/19c09d1e01.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>&ldquo;Colosal statue of Helios&rdquo;—Neues Museum</p>\n\n<p><img src=\"https://alexchabot.net/uploads/2021/19c09d1e01.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "\"Colosal statue of Helios\"—Neues Museum\n\n<img src=\"https://alexchabot.net/uploads/2021/19c09d1e01.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2011-09-13T18:43:21-05:00",
 				"url": "https://alexchabot.net/2011/09/13/colosal-statue-of.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2011/09/13/berlin-green-head.html",
 				
-				"content_html": "<p>Berlin Green Head, Neues Museum</p>\n\n<p><img src=\"uploads/2021/29d3ff31da.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Berlin Green Head, Neues Museum\n\n<img src=\"uploads/2021/29d3ff31da.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Berlin Green Head, Neues Museum</p>\n\n<p><img src=\"https://alexchabot.net/uploads/2021/29d3ff31da.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Berlin Green Head, Neues Museum\n\n<img src=\"https://alexchabot.net/uploads/2021/29d3ff31da.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2011-09-13T18:43:12-05:00",
 				"url": "https://alexchabot.net/2011/09/13/berlin-green-head.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2011/09/12/bembeltown.html",
 				
-				"content_html": "<p>Bembeltown</p>\n\n<p><img src=\"uploads/2021/ada47362e4.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Bembeltown\n\n<img src=\"uploads/2021/ada47362e4.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Bembeltown</p>\n\n<p><img src=\"https://alexchabot.net/uploads/2021/ada47362e4.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Bembeltown\n\n<img src=\"https://alexchabot.net/uploads/2021/ada47362e4.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2011-09-12T15:22:10-05:00",
 				"url": "https://alexchabot.net/2011/09/12/bembeltown.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2011/09/12/hasenheide-berlin.html",
 				
-				"content_html": "<p>Hasenheide, Berlin</p>\n\n<p><img src=\"uploads/2021/7fac04f0b4.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Hasenheide, Berlin\n\n<img src=\"uploads/2021/7fac04f0b4.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Hasenheide, Berlin</p>\n\n<p><img src=\"https://alexchabot.net/uploads/2021/7fac04f0b4.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Hasenheide, Berlin\n\n<img src=\"https://alexchabot.net/uploads/2021/7fac04f0b4.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2011-09-12T15:22:10-05:00",
 				"url": "https://alexchabot.net/2011/09/12/hasenheide-berlin.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2011/09/12/carts-kreuzberg.html",
 				
-				"content_html": "<p>Carts, Kreuzberg</p>\n\n<p><img src=\"uploads/2021/5e8e0fe88b.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Carts, Kreuzberg\n\n<img src=\"uploads/2021/5e8e0fe88b.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Carts, Kreuzberg</p>\n\n<p><img src=\"https://alexchabot.net/uploads/2021/5e8e0fe88b.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Carts, Kreuzberg\n\n<img src=\"https://alexchabot.net/uploads/2021/5e8e0fe88b.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2011-09-12T15:22:09-05:00",
 				"url": "https://alexchabot.net/2011/09/12/carts-kreuzberg.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2011/09/12/how-do-you.html",
 				
-				"content_html": "<p>How do you call the Trees in Lord of the Ring?</p>\n\n<p><img src=\"uploads/2021/786b254a7c.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "How do you call the Trees in Lord of the Ring?\n\n<img src=\"uploads/2021/786b254a7c.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>How do you call the Trees in Lord of the Ring?</p>\n\n<p><img src=\"https://alexchabot.net/uploads/2021/786b254a7c.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "How do you call the Trees in Lord of the Ring?\n\n<img src=\"https://alexchabot.net/uploads/2021/786b254a7c.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2011-09-12T15:22:09-05:00",
 				"url": "https://alexchabot.net/2011/09/12/how-do-you.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2011/09/12/it-was-as.html",
 				
-				"content_html": "<p>&ldquo;It was as simple as that&rdquo;, Jewish Museum Berlin</p>\n\n<p><img src=\"uploads/2021/7d617244bf.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "\"It was as simple as that\", Jewish Museum Berlin\n\n<img src=\"uploads/2021/7d617244bf.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>&ldquo;It was as simple as that&rdquo;, Jewish Museum Berlin</p>\n\n<p><img src=\"https://alexchabot.net/uploads/2021/7d617244bf.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "\"It was as simple as that\", Jewish Museum Berlin\n\n<img src=\"https://alexchabot.net/uploads/2021/7d617244bf.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2011-09-12T15:22:01-05:00",
 				"url": "https://alexchabot.net/2011/09/12/it-was-as.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2011/09/11/fisch-meh.html",
 				
-				"content_html": "<p>Fisch &amp; Meh</p>\n\n<p><img src=\"uploads/2021/ad02a95a39.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Fisch & Meh\n\n<img src=\"uploads/2021/ad02a95a39.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Fisch &amp; Meh</p>\n\n<p><img src=\"https://alexchabot.net/uploads/2021/ad02a95a39.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Fisch & Meh\n\n<img src=\"https://alexchabot.net/uploads/2021/ad02a95a39.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2011-09-11T18:19:02-05:00",
 				"url": "https://alexchabot.net/2011/09/11/fisch-meh.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2011/09/11/jewish-museum-berlin.html",
 				
-				"content_html": "<p>Jewish Museum, Berlin</p>\n\n<p><img src=\"uploads/2021/3f2183f537.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Jewish Museum, Berlin\n\n<img src=\"uploads/2021/3f2183f537.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Jewish Museum, Berlin</p>\n\n<p><img src=\"https://alexchabot.net/uploads/2021/3f2183f537.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Jewish Museum, Berlin\n\n<img src=\"https://alexchabot.net/uploads/2021/3f2183f537.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2011-09-11T18:19:01-05:00",
 				"url": "https://alexchabot.net/2011/09/11/jewish-museum-berlin.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2011/09/11/offices-jewish-museum.html",
 				
-				"content_html": "<p>Offices, Jewish Museum, Berlin</p>\n\n<p><img src=\"uploads/2021/82e224d403.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Offices, Jewish Museum, Berlin\n\n<img src=\"uploads/2021/82e224d403.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Offices, Jewish Museum, Berlin</p>\n\n<p><img src=\"https://alexchabot.net/uploads/2021/82e224d403.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Offices, Jewish Museum, Berlin\n\n<img src=\"https://alexchabot.net/uploads/2021/82e224d403.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2011-09-11T18:18:59-05:00",
 				"url": "https://alexchabot.net/2011/09/11/offices-jewish-museum.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2011/09/11/maybe-gotham-city.html",
 				
-				"content_html": "<p>Maybe Gotham City</p>\n\n<p><img src=\"uploads/2021/f754bc90ca.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Maybe Gotham City\n\n<img src=\"uploads/2021/f754bc90ca.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Maybe Gotham City</p>\n\n<p><img src=\"https://alexchabot.net/uploads/2021/f754bc90ca.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Maybe Gotham City\n\n<img src=\"https://alexchabot.net/uploads/2021/f754bc90ca.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2011-09-11T18:18:53-05:00",
 				"url": "https://alexchabot.net/2011/09/11/maybe-gotham-city.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2011/09/11/oranienstrae.html",
 				
-				"content_html": "<p>Oranienstraße</p>\n\n<p><img src=\"uploads/2021/3b17d985fd.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Oranienstraße\n\n<img src=\"uploads/2021/3b17d985fd.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Oranienstraße</p>\n\n<p><img src=\"https://alexchabot.net/uploads/2021/3b17d985fd.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Oranienstraße\n\n<img src=\"https://alexchabot.net/uploads/2021/3b17d985fd.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2011-09-11T18:18:20-05:00",
 				"url": "https://alexchabot.net/2011/09/11/oranienstrae.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2011/09/10/mercedes-berlin.html",
 				
-				"content_html": "<p>Mercedes Berlin</p>\n\n<p><img src=\"uploads/2021/f637f18dfd.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Mercedes Berlin\n\n<img src=\"uploads/2021/f637f18dfd.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Mercedes Berlin</p>\n\n<p><img src=\"https://alexchabot.net/uploads/2021/f637f18dfd.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Mercedes Berlin\n\n<img src=\"https://alexchabot.net/uploads/2021/f637f18dfd.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2011-09-10T17:59:31-05:00",
 				"url": "https://alexchabot.net/2011/09/10/mercedes-berlin.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2011/09/10/ausfahrt-einfahrt.html",
 				
-				"content_html": "<p>Ausfahrt / Einfahrt</p>\n\n<p><img src=\"uploads/2021/d420c87e8d.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Ausfahrt / Einfahrt\n\n<img src=\"uploads/2021/d420c87e8d.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Ausfahrt / Einfahrt</p>\n\n<p><img src=\"https://alexchabot.net/uploads/2021/d420c87e8d.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Ausfahrt / Einfahrt\n\n<img src=\"https://alexchabot.net/uploads/2021/d420c87e8d.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2011-09-10T17:59:24-05:00",
 				"url": "https://alexchabot.net/2011/09/10/ausfahrt-einfahrt.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2011/09/10/upper-east-side.html",
 				
-				"content_html": "<p>Upper East Side Berlin, Frederichstraße</p>\n\n<p><img src=\"uploads/2021/a23cc99b66.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Upper East Side Berlin, Frederichstraße\n\n<img src=\"uploads/2021/a23cc99b66.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Upper East Side Berlin, Frederichstraße</p>\n\n<p><img src=\"https://alexchabot.net/uploads/2021/a23cc99b66.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Upper East Side Berlin, Frederichstraße\n\n<img src=\"https://alexchabot.net/uploads/2021/a23cc99b66.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2011-09-10T17:59:24-05:00",
 				"url": "https://alexchabot.net/2011/09/10/upper-east-side.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2011/09/10/kms-california-berlin.html",
 				
-				"content_html": "<p>KMS California, Berlin</p>\n\n<p><img src=\"uploads/2021/0bc41f1d71.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "KMS California, Berlin\n\n<img src=\"uploads/2021/0bc41f1d71.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>KMS California, Berlin</p>\n\n<p><img src=\"https://alexchabot.net/uploads/2021/0bc41f1d71.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "KMS California, Berlin\n\n<img src=\"https://alexchabot.net/uploads/2021/0bc41f1d71.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2011-09-10T17:59:23-05:00",
 				"url": "https://alexchabot.net/2011/09/10/kms-california-berlin.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2011/09/10/internationales-handelszenirum-berlin.html",
 				
-				"content_html": "<p>Internationales Handelszenirum, Berlin</p>\n\n<p><img src=\"uploads/2021/27854a206e.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Internationales Handelszenirum, Berlin\n\n<img src=\"uploads/2021/27854a206e.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Internationales Handelszenirum, Berlin</p>\n\n<p><img src=\"https://alexchabot.net/uploads/2021/27854a206e.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Internationales Handelszenirum, Berlin\n\n<img src=\"https://alexchabot.net/uploads/2021/27854a206e.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2011-09-10T17:59:20-05:00",
 				"url": "https://alexchabot.net/2011/09/10/internationales-handelszenirum-berlin.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2011/09/10/hackeshe-hfe.html",
 				
-				"content_html": "<p>Hackeshe Höfe</p>\n\n<p><img src=\"uploads/2021/1277215e7e.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Hackeshe Höfe\n\n<img src=\"uploads/2021/1277215e7e.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Hackeshe Höfe</p>\n\n<p><img src=\"https://alexchabot.net/uploads/2021/1277215e7e.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Hackeshe Höfe\n\n<img src=\"https://alexchabot.net/uploads/2021/1277215e7e.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2011-09-10T16:56:01-05:00",
 				"url": "https://alexchabot.net/2011/09/10/hackeshe-hfe.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2011/09/10/monbijoustrae-berlin.html",
 				
-				"content_html": "<p>Monbijoustraße, Berlin</p>\n\n<p><img src=\"uploads/2021/c66a43256b.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Monbijoustraße, Berlin\n\n<img src=\"uploads/2021/c66a43256b.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Monbijoustraße, Berlin</p>\n\n<p><img src=\"https://alexchabot.net/uploads/2021/c66a43256b.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Monbijoustraße, Berlin\n\n<img src=\"https://alexchabot.net/uploads/2021/c66a43256b.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2011-09-10T16:55:55-05:00",
 				"url": "https://alexchabot.net/2011/09/10/monbijoustrae-berlin.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2011/09/10/johannisstrae-berlin.html",
 				
-				"content_html": "<p>Johannisstraße, Berlin</p>\n\n<p><img src=\"uploads/2021/460b2ced46.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Johannisstraße, Berlin\n\n<img src=\"uploads/2021/460b2ced46.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Johannisstraße, Berlin</p>\n\n<p><img src=\"https://alexchabot.net/uploads/2021/460b2ced46.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Johannisstraße, Berlin\n\n<img src=\"https://alexchabot.net/uploads/2021/460b2ced46.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2011-09-10T16:55:41-05:00",
 				"url": "https://alexchabot.net/2011/09/10/johannisstrae-berlin.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2011/09/10/063023.html",
 				
-				"content_html": "<p>1:00</p>\n\n<p><img src=\"uploads/2021/7a2c627c93.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "1:00\n\n<img src=\"uploads/2021/7a2c627c93.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>1:00</p>\n\n<p><img src=\"https://alexchabot.net/uploads/2021/7a2c627c93.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "1:00\n\n<img src=\"https://alexchabot.net/uploads/2021/7a2c627c93.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2011-09-10T07:30:23-05:00",
 				"url": "https://alexchabot.net/2011/09/10/063023.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2011/09/08/the-spoon.html",
 				
-				"content_html": "<p>The Spoon</p>\n\n<p><img src=\"uploads/2021/9ad5957508.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "The Spoon\n\n<img src=\"uploads/2021/9ad5957508.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>The Spoon</p>\n\n<p><img src=\"https://alexchabot.net/uploads/2021/9ad5957508.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "The Spoon\n\n<img src=\"https://alexchabot.net/uploads/2021/9ad5957508.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2011-09-08T04:32:04-05:00",
 				"url": "https://alexchabot.net/2011/09/08/the-spoon.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2011/09/06/the-owl.html",
 				
-				"content_html": "<p>The Owl</p>\n\n<p><img src=\"uploads/2021/223cf8241d.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "The Owl\n\n<img src=\"uploads/2021/223cf8241d.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>The Owl</p>\n\n<p><img src=\"https://alexchabot.net/uploads/2021/223cf8241d.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "The Owl\n\n<img src=\"https://alexchabot.net/uploads/2021/223cf8241d.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2011-09-06T08:34:31-05:00",
 				"url": "https://alexchabot.net/2011/09/06/the-owl.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2011/09/05/lockers-at-restad.html",
 				
-				"content_html": "<p>Lockers, at Ørestad Gymnasium</p>\n\n<p><img src=\"uploads/2021/2e1f37715a.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Lockers, at Ørestad Gymnasium\n\n<img src=\"uploads/2021/2e1f37715a.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Lockers, at Ørestad Gymnasium</p>\n\n<p><img src=\"https://alexchabot.net/uploads/2021/2e1f37715a.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Lockers, at Ørestad Gymnasium\n\n<img src=\"https://alexchabot.net/uploads/2021/2e1f37715a.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2011-09-05T09:37:31-05:00",
 				"url": "https://alexchabot.net/2011/09/05/lockers-at-restad.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2011/09/05/the-drums-at.html",
 				
-				"content_html": "<p>The Drums, at Ørestad Gymnasium</p>\n\n<p><img src=\"uploads/2021/4befcd1722.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "The Drums, at Ørestad Gymnasium\n\n<img src=\"uploads/2021/4befcd1722.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>The Drums, at Ørestad Gymnasium</p>\n\n<p><img src=\"https://alexchabot.net/uploads/2021/4befcd1722.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "The Drums, at Ørestad Gymnasium\n\n<img src=\"https://alexchabot.net/uploads/2021/4befcd1722.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2011-09-05T09:31:48-05:00",
 				"url": "https://alexchabot.net/2011/09/05/the-drums-at.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2011/09/05/082549.html",
 				
-				"content_html": "<p><img src=\"uploads/2021/d93b2356fb.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "\n\n<img src=\"uploads/2021/d93b2356fb.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p><img src=\"https://alexchabot.net/uploads/2021/d93b2356fb.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "\n\n<img src=\"https://alexchabot.net/uploads/2021/d93b2356fb.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2011-09-05T09:25:49-05:00",
 				"url": "https://alexchabot.net/2011/09/05/082549.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2011/09/03/102715.html",
 				
-				"content_html": "<p><img src=\"uploads/2021/023bcb8455.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "\n\n<img src=\"uploads/2021/023bcb8455.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p><img src=\"https://alexchabot.net/uploads/2021/023bcb8455.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "\n\n<img src=\"https://alexchabot.net/uploads/2021/023bcb8455.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2011-09-03T11:27:15-05:00",
 				"url": "https://alexchabot.net/2011/09/03/102715.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2011/09/02/170230.html",
 				
-				"content_html": "<p><img src=\"uploads/2021/c8dfdb3d56.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "\n\n<img src=\"uploads/2021/c8dfdb3d56.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p><img src=\"https://alexchabot.net/uploads/2021/c8dfdb3d56.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "\n\n<img src=\"https://alexchabot.net/uploads/2021/c8dfdb3d56.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2011-09-02T18:02:30-05:00",
 				"url": "https://alexchabot.net/2011/09/02/170230.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2011/08/30/its-like-being.html",
 				
-				"content_html": "<p>It&rsquo;s like being there.</p>\n\n<p><img src=\"uploads/2021/48df423e89.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "It's like being there. \n\n<img src=\"uploads/2021/48df423e89.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>It&rsquo;s like being there.</p>\n\n<p><img src=\"https://alexchabot.net/uploads/2021/48df423e89.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "It's like being there. \n\n<img src=\"https://alexchabot.net/uploads/2021/48df423e89.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2011-08-30T12:23:17-05:00",
 				"url": "https://alexchabot.net/2011/08/30/its-like-being.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2011/08/30/yellow-submarine.html",
 				
-				"content_html": "<p>Yellow Submarine</p>\n\n<p><img src=\"uploads/2021/aed5e0c7bd.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Yellow Submarine\n\n<img src=\"uploads/2021/aed5e0c7bd.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Yellow Submarine</p>\n\n<p><img src=\"https://alexchabot.net/uploads/2021/aed5e0c7bd.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Yellow Submarine\n\n<img src=\"https://alexchabot.net/uploads/2021/aed5e0c7bd.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2011-08-30T12:16:30-05:00",
 				"url": "https://alexchabot.net/2011/08/30/yellow-submarine.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2011/07/08/cph-opera-house.html",
 				
-				"content_html": "<p>CPH opera house by night</p>\n\n<p><img src=\"uploads/2021/64d97a3053.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "CPH opera house by night\n\n<img src=\"uploads/2021/64d97a3053.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>CPH opera house by night</p>\n\n<p><img src=\"https://alexchabot.net/uploads/2021/64d97a3053.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "CPH opera house by night\n\n<img src=\"https://alexchabot.net/uploads/2021/64d97a3053.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2011-07-08T16:18:11-05:00",
 				"url": "https://alexchabot.net/2011/07/08/cph-opera-house.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2011/07/08/ceiling-lights-over.html",
 				
-				"content_html": "<p>Ceiling lights over the foyer</p>\n\n<p><img src=\"uploads/2021/4c3f104feb.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Ceiling lights over the foyer\n\n<img src=\"uploads/2021/4c3f104feb.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Ceiling lights over the foyer</p>\n\n<p><img src=\"https://alexchabot.net/uploads/2021/4c3f104feb.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Ceiling lights over the foyer\n\n<img src=\"https://alexchabot.net/uploads/2021/4c3f104feb.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2011-07-08T16:09:06-05:00",
 				"url": "https://alexchabot.net/2011/07/08/ceiling-lights-over.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2011/07/06/diffracted-light-on.html",
 				
-				"content_html": "<p>Diffracted light on station floor (original photo)</p>\n\n<p><img src=\"uploads/2021/8e165caf20.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Diffracted light on station floor (original photo)\n\n<img src=\"uploads/2021/8e165caf20.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Diffracted light on station floor (original photo)</p>\n\n<p><img src=\"https://alexchabot.net/uploads/2021/8e165caf20.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Diffracted light on station floor (original photo)\n\n<img src=\"https://alexchabot.net/uploads/2021/8e165caf20.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2011-07-06T07:08:35-05:00",
 				"url": "https://alexchabot.net/2011/07/06/diffracted-light-on.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2011/07/05/053655.html",
 				
-				"content_html": "<p><img src=\"uploads/2021/ff10518703.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "\n\n<img src=\"uploads/2021/ff10518703.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p><img src=\"https://alexchabot.net/uploads/2021/ff10518703.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "\n\n<img src=\"https://alexchabot.net/uploads/2021/ff10518703.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2011-07-05T06:36:55-05:00",
 				"url": "https://alexchabot.net/2011/07/05/053655.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2011/07/05/053530.html",
 				
-				"content_html": "<p><img src=\"uploads/2021/53491b847c.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "\n\n<img src=\"uploads/2021/53491b847c.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p><img src=\"https://alexchabot.net/uploads/2021/53491b847c.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "\n\n<img src=\"https://alexchabot.net/uploads/2021/53491b847c.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2011-07-05T06:35:30-05:00",
 				"url": "https://alexchabot.net/2011/07/05/053530.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2011/07/05/thomas-schtte-one.html",
 				
-				"content_html": "<p>Thomas Schütte - One Man House V</p>\n\n<p><img src=\"uploads/2021/ad9908aa66.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Thomas Schütte - One Man House V\n\n<img src=\"uploads/2021/ad9908aa66.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Thomas Schütte - One Man House V</p>\n\n<p><img src=\"https://alexchabot.net/uploads/2021/ad9908aa66.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Thomas Schütte - One Man House V\n\n<img src=\"https://alexchabot.net/uploads/2021/ad9908aa66.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2011-07-05T06:01:38-05:00",
 				"url": "https://alexchabot.net/2011/07/05/thomas-schtte-one.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2011/07/05/alexander-brodsky-settlement.html",
 				
-				"content_html": "<p>Alexander Brodsky - Settlement</p>\n\n<p><img src=\"uploads/2021/879773059c.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Alexander Brodsky - Settlement\n\n<img src=\"uploads/2021/879773059c.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Alexander Brodsky - Settlement</p>\n\n<p><img src=\"https://alexchabot.net/uploads/2021/879773059c.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Alexander Brodsky - Settlement\n\n<img src=\"https://alexchabot.net/uploads/2021/879773059c.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2011-07-05T05:36:11-05:00",
 				"url": "https://alexchabot.net/2011/07/05/alexander-brodsky-settlement.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2011/07/05/043219.html",
 				
-				"content_html": "<p>Alexander Brodsky - Settlement</p>\n\n<p><img src=\"uploads/2021/bd6a0d7da2.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Alexander Brodsky - Settlement\n\n<img src=\"uploads/2021/bd6a0d7da2.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Alexander Brodsky - Settlement</p>\n\n<p><img src=\"https://alexchabot.net/uploads/2021/bd6a0d7da2.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Alexander Brodsky - Settlement\n\n<img src=\"https://alexchabot.net/uploads/2021/bd6a0d7da2.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2011-07-05T05:32:19-05:00",
 				"url": "https://alexchabot.net/2011/07/05/043219.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2011/07/05/arne-quinze-my.html",
 				
-				"content_html": "<p>Arne Quinze - My Home My House My Stilthouse</p>\n\n<p><img src=\"uploads/2021/d677b6fae6.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Arne Quinze - My Home My House My Stilthouse\n\n<img src=\"uploads/2021/d677b6fae6.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Arne Quinze - My Home My House My Stilthouse</p>\n\n<p><img src=\"https://alexchabot.net/uploads/2021/d677b6fae6.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Arne Quinze - My Home My House My Stilthouse\n\n<img src=\"https://alexchabot.net/uploads/2021/d677b6fae6.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2011-07-05T05:20:03-05:00",
 				"url": "https://alexchabot.net/2011/07/05/arne-quinze-my.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2011/07/05/041351.html",
 				
-				"content_html": "<p><img src=\"uploads/2021/d3ec610d3c.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "\n\n<img src=\"uploads/2021/d3ec610d3c.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p><img src=\"https://alexchabot.net/uploads/2021/d3ec610d3c.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "\n\n<img src=\"https://alexchabot.net/uploads/2021/d3ec610d3c.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2011-07-05T05:13:51-05:00",
 				"url": "https://alexchabot.net/2011/07/05/041351.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2011/07/04/105040.html",
 				
-				"content_html": "<p><img src=\"uploads/2021/fe863623f3.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "\n\n<img src=\"uploads/2021/fe863623f3.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p><img src=\"https://alexchabot.net/uploads/2021/fe863623f3.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "\n\n<img src=\"https://alexchabot.net/uploads/2021/fe863623f3.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2011-07-04T11:50:40-05:00",
 				"url": "https://alexchabot.net/2011/07/04/105040.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2011/07/04/rstads-boulevard.html",
 				
-				"content_html": "<p>Ørstads boulevard 57</p>\n\n<p><img src=\"uploads/2021/3703d6c9e5.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Ørstads boulevard 57\n\n<img src=\"uploads/2021/3703d6c9e5.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Ørstads boulevard 57</p>\n\n<p><img src=\"https://alexchabot.net/uploads/2021/3703d6c9e5.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Ørstads boulevard 57\n\n<img src=\"https://alexchabot.net/uploads/2021/3703d6c9e5.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2011-07-04T09:40:48-05:00",
 				"url": "https://alexchabot.net/2011/07/04/rstads-boulevard.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2011/07/04/083638.html",
 				
-				"content_html": "<p><img src=\"uploads/2021/b380b46909.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "\n\n<img src=\"uploads/2021/b380b46909.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p><img src=\"https://alexchabot.net/uploads/2021/b380b46909.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "\n\n<img src=\"https://alexchabot.net/uploads/2021/b380b46909.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2011-07-04T09:36:38-05:00",
 				"url": "https://alexchabot.net/2011/07/04/083638.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2011/07/04/kongens-have-lake.html",
 				
-				"content_html": "<p>Kongens Have &ldquo;lake&rdquo;</p>\n\n<p><img src=\"uploads/2021/cd6febdf49.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Kongens Have \"lake\"\n\n<img src=\"uploads/2021/cd6febdf49.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Kongens Have &ldquo;lake&rdquo;</p>\n\n<p><img src=\"https://alexchabot.net/uploads/2021/cd6febdf49.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Kongens Have \"lake\"\n\n<img src=\"https://alexchabot.net/uploads/2021/cd6febdf49.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2011-07-04T05:22:08-05:00",
 				"url": "https://alexchabot.net/2011/07/04/kongens-have-lake.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2011/07/03/104039.html",
 				
-				"content_html": "<p><img src=\"uploads/2021/14c2278394.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "\n\n<img src=\"uploads/2021/14c2278394.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p><img src=\"https://alexchabot.net/uploads/2021/14c2278394.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "\n\n<img src=\"https://alexchabot.net/uploads/2021/14c2278394.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2011-07-03T11:40:39-05:00",
 				"url": "https://alexchabot.net/2011/07/03/104039.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2011/06/25/gerbeaud-sundae.html",
 				
-				"content_html": "<p>Gerbeaud sundae</p>\n\n<p><img src=\"uploads/2021/7aa3fc3e2b.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Gerbeaud sundae\n\n<img src=\"uploads/2021/7aa3fc3e2b.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Gerbeaud sundae</p>\n\n<p><img src=\"https://alexchabot.net/uploads/2021/7aa3fc3e2b.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Gerbeaud sundae\n\n<img src=\"https://alexchabot.net/uploads/2021/7aa3fc3e2b.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2011-06-25T12:43:53-05:00",
 				"url": "https://alexchabot.net/2011/06/25/gerbeaud-sundae.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2011/06/24/opera-house-budapest.html",
 				
-				"content_html": "<p>Opera house, Budapest</p>\n\n<p><img src=\"uploads/2021/2d8ab837e2.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Opera house, Budapest\n\n<img src=\"uploads/2021/2d8ab837e2.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Opera house, Budapest</p>\n\n<p><img src=\"https://alexchabot.net/uploads/2021/2d8ab837e2.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Opera house, Budapest\n\n<img src=\"https://alexchabot.net/uploads/2021/2d8ab837e2.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2011-06-24T15:37:30-05:00",
 				"url": "https://alexchabot.net/2011/06/24/opera-house-budapest.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2011/06/24/opera-house-side.html",
 				
-				"content_html": "<p>Opera house, side, Budapest</p>\n\n<p><img src=\"uploads/2021/6f71cb03fe.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Opera house, side, Budapest \n\n<img src=\"uploads/2021/6f71cb03fe.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Opera house, side, Budapest</p>\n\n<p><img src=\"https://alexchabot.net/uploads/2021/6f71cb03fe.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Opera house, side, Budapest \n\n<img src=\"https://alexchabot.net/uploads/2021/6f71cb03fe.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2011-06-24T15:37:30-05:00",
 				"url": "https://alexchabot.net/2011/06/24/opera-house-side.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2011/06/24/opra-house-budapest.html",
 				
-				"content_html": "<p>Opéra House, Budapest</p>\n\n<p><img src=\"uploads/2021/2370ae925a.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Opéra House, Budapest\n\n<img src=\"uploads/2021/2370ae925a.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Opéra House, Budapest</p>\n\n<p><img src=\"https://alexchabot.net/uploads/2021/2370ae925a.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Opéra House, Budapest\n\n<img src=\"https://alexchabot.net/uploads/2021/2370ae925a.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2011-06-24T15:37:28-05:00",
 				"url": "https://alexchabot.net/2011/06/24/opra-house-budapest.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2011/06/23/nagycsarnork.html",
 				
-				"content_html": "<p>Nagycsarnork</p>\n\n<p><img src=\"uploads/2021/f398007c98.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Nagycsarnork\n\n<img src=\"uploads/2021/f398007c98.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Nagycsarnork</p>\n\n<p><img src=\"https://alexchabot.net/uploads/2021/f398007c98.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Nagycsarnork\n\n<img src=\"https://alexchabot.net/uploads/2021/f398007c98.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2011-06-23T19:13:19-05:00",
 				"url": "https://alexchabot.net/2011/06/23/nagycsarnork.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2011/06/23/nagycsarnok.html",
 				
-				"content_html": "<p>Nagycsarnok</p>\n\n<p><img src=\"uploads/2021/3e5885385f.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Nagycsarnok\n\n<img src=\"uploads/2021/3e5885385f.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Nagycsarnok</p>\n\n<p><img src=\"https://alexchabot.net/uploads/2021/3e5885385f.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Nagycsarnok\n\n<img src=\"https://alexchabot.net/uploads/2021/3e5885385f.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2011-06-23T19:12:58-05:00",
 				"url": "https://alexchabot.net/2011/06/23/nagycsarnok.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2011/06/23/puerla-tea-budapest.html",
 				
-				"content_html": "<p>Puerla, 1000 Tea, Budapest</p>\n\n<p><img src=\"uploads/2021/3967813450.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Puerla, 1000 Tea, Budapest\n\n<img src=\"uploads/2021/3967813450.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Puerla, 1000 Tea, Budapest</p>\n\n<p><img src=\"https://alexchabot.net/uploads/2021/3967813450.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Puerla, 1000 Tea, Budapest\n\n<img src=\"https://alexchabot.net/uploads/2021/3967813450.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2011-06-23T19:12:57-05:00",
 				"url": "https://alexchabot.net/2011/06/23/puerla-tea-budapest.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2011/06/23/inner-town-parish.html",
 				
-				"content_html": "<p>Inner Town Parish Church</p>\n\n<p><img src=\"uploads/2021/88b7174536.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Inner Town Parish Church\n\n<img src=\"uploads/2021/88b7174536.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Inner Town Parish Church</p>\n\n<p><img src=\"https://alexchabot.net/uploads/2021/88b7174536.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Inner Town Parish Church\n\n<img src=\"https://alexchabot.net/uploads/2021/88b7174536.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2011-06-23T19:12:53-05:00",
 				"url": "https://alexchabot.net/2011/06/23/inner-town-parish.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2011/06/22/elevator-ceiling-alexandra.html",
 				
-				"content_html": "<p>Elevator ceiling, Alexandra Bookstore, Budapest</p>\n\n<p><img src=\"uploads/2021/60dd0c356a.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Elevator ceiling, Alexandra Bookstore, Budapest\n\n<img src=\"uploads/2021/60dd0c356a.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Elevator ceiling, Alexandra Bookstore, Budapest</p>\n\n<p><img src=\"https://alexchabot.net/uploads/2021/60dd0c356a.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Elevator ceiling, Alexandra Bookstore, Budapest\n\n<img src=\"https://alexchabot.net/uploads/2021/60dd0c356a.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2011-06-22T17:18:35-05:00",
 				"url": "https://alexchabot.net/2011/06/22/elevator-ceiling-alexandra.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2011/06/22/ceiling-of-the.html",
 				
-				"content_html": "<p>Ceiling of the Alexandra bookshop&rsquo;s cafe, Budapest</p>\n\n<p><img src=\"uploads/2021/2f54a652e5.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Ceiling of the Alexandra bookshop's cafe, Budapest\n\n<img src=\"uploads/2021/2f54a652e5.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Ceiling of the Alexandra bookshop&rsquo;s cafe, Budapest</p>\n\n<p><img src=\"https://alexchabot.net/uploads/2021/2f54a652e5.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Ceiling of the Alexandra bookshop's cafe, Budapest\n\n<img src=\"https://alexchabot.net/uploads/2021/2f54a652e5.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2011-06-22T17:18:27-05:00",
 				"url": "https://alexchabot.net/2011/06/22/ceiling-of-the.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2011/06/22/telefon-budapest.html",
 				
-				"content_html": "<p>Telefon, Budapest</p>\n\n<p><img src=\"uploads/2021/22a1a1c4fc.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Telefon, Budapest\n\n<img src=\"uploads/2021/22a1a1c4fc.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Telefon, Budapest</p>\n\n<p><img src=\"https://alexchabot.net/uploads/2021/22a1a1c4fc.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Telefon, Budapest\n\n<img src=\"https://alexchabot.net/uploads/2021/22a1a1c4fc.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2011-06-22T03:24:29-05:00",
 				"url": "https://alexchabot.net/2011/06/22/telefon-budapest.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2011/06/19/145539.html",
 				
-				"content_html": "<p><img src=\"uploads/2021/82fdb2d576.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "\n\n<img src=\"uploads/2021/82fdb2d576.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p><img src=\"https://alexchabot.net/uploads/2021/82fdb2d576.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "\n\n<img src=\"https://alexchabot.net/uploads/2021/82fdb2d576.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2011-06-19T15:55:39-05:00",
 				"url": "https://alexchabot.net/2011/06/19/145539.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2011/06/19/somewhere-where-horses.html",
 				
-				"content_html": "<p>Somewhere where horses usually hang out</p>\n\n<p><img src=\"uploads/2021/8de5efc1aa.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Somewhere where horses usually hang out\n\n<img src=\"uploads/2021/8de5efc1aa.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Somewhere where horses usually hang out</p>\n\n<p><img src=\"https://alexchabot.net/uploads/2021/8de5efc1aa.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Somewhere where horses usually hang out\n\n<img src=\"https://alexchabot.net/uploads/2021/8de5efc1aa.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2011-06-19T15:53:35-05:00",
 				"url": "https://alexchabot.net/2011/06/19/somewhere-where-horses.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2011/06/19/090201.html",
 				
-				"content_html": "<p><img src=\"uploads/2021/0b28d2fbee.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "\n\n<img src=\"uploads/2021/0b28d2fbee.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p><img src=\"https://alexchabot.net/uploads/2021/0b28d2fbee.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "\n\n<img src=\"https://alexchabot.net/uploads/2021/0b28d2fbee.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2011-06-19T10:02:01-05:00",
 				"url": "https://alexchabot.net/2011/06/19/090201.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2011/06/19/080716.html",
 				
-				"content_html": "<p><img src=\"uploads/2021/3d82e01c53.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "\n\n<img src=\"uploads/2021/3d82e01c53.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p><img src=\"https://alexchabot.net/uploads/2021/3d82e01c53.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "\n\n<img src=\"https://alexchabot.net/uploads/2021/3d82e01c53.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2011-06-19T09:07:16-05:00",
 				"url": "https://alexchabot.net/2011/06/19/080716.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2011/06/19/080149.html",
 				
-				"content_html": "<p><img src=\"uploads/2021/476ebdb071.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "\n\n<img src=\"uploads/2021/476ebdb071.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p><img src=\"https://alexchabot.net/uploads/2021/476ebdb071.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "\n\n<img src=\"https://alexchabot.net/uploads/2021/476ebdb071.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2011-06-19T09:01:49-05:00",
 				"url": "https://alexchabot.net/2011/06/19/080149.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2011/06/08/canadian-maple.html",
 				
-				"content_html": "<p>Canadian Maple</p>\n\n<p><img src=\"uploads/2021/eca5fc9003.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Canadian Maple\n\n<img src=\"uploads/2021/eca5fc9003.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Canadian Maple</p>\n\n<p><img src=\"https://alexchabot.net/uploads/2021/eca5fc9003.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Canadian Maple\n\n<img src=\"https://alexchabot.net/uploads/2021/eca5fc9003.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2011-06-08T06:42:34-05:00",
 				"url": "https://alexchabot.net/2011/06/08/canadian-maple.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2011/06/06/im-blue.html",
 				
-				"content_html": "<p>I&rsquo;m blue.</p>\n\n<p><img src=\"uploads/2021/207b862323.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "I'm blue. \n\n<img src=\"uploads/2021/207b862323.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>I&rsquo;m blue.</p>\n\n<p><img src=\"https://alexchabot.net/uploads/2021/207b862323.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "I'm blue. \n\n<img src=\"https://alexchabot.net/uploads/2021/207b862323.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2011-06-06T11:15:20-05:00",
 				"url": "https://alexchabot.net/2011/06/06/im-blue.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2011/06/05/polyp.html",
 				
-				"content_html": "<p>Polyp</p>\n\n<p><img src=\"uploads/2021/230649fedc.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Polyp\n\n<img src=\"uploads/2021/230649fedc.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Polyp</p>\n\n<p><img src=\"https://alexchabot.net/uploads/2021/230649fedc.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Polyp\n\n<img src=\"https://alexchabot.net/uploads/2021/230649fedc.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2011-06-05T13:11:51-05:00",
 				"url": "https://alexchabot.net/2011/06/05/polyp.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2011/06/05/double-shot.html",
 				
-				"content_html": "<p>Double Shot</p>\n\n<p><img src=\"uploads/2021/74d24ebb25.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Double Shot\n\n<img src=\"uploads/2021/74d24ebb25.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Double Shot</p>\n\n<p><img src=\"https://alexchabot.net/uploads/2021/74d24ebb25.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Double Shot\n\n<img src=\"https://alexchabot.net/uploads/2021/74d24ebb25.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2011-06-05T13:08:36-05:00",
 				"url": "https://alexchabot.net/2011/06/05/double-shot.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2011/06/05/103152.html",
 				
-				"content_html": "<p><img src=\"uploads/2021/5ca4037061.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "\n\n<img src=\"uploads/2021/5ca4037061.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p><img src=\"https://alexchabot.net/uploads/2021/5ca4037061.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "\n\n<img src=\"https://alexchabot.net/uploads/2021/5ca4037061.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2011-06-05T11:31:52-05:00",
 				"url": "https://alexchabot.net/2011/06/05/103152.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2011/06/01/131028.html",
 				
-				"content_html": "<p><img src=\"uploads/2021/1178e8c275.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "\n\n<img src=\"uploads/2021/1178e8c275.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p><img src=\"https://alexchabot.net/uploads/2021/1178e8c275.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "\n\n<img src=\"https://alexchabot.net/uploads/2021/1178e8c275.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2011-06-01T14:10:28-05:00",
 				"url": "https://alexchabot.net/2011/06/01/131028.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2011/05/25/173528.html",
 				
-				"content_html": "<p><img src=\"uploads/2021/73b3d1d9e6.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "\n\n<img src=\"uploads/2021/73b3d1d9e6.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p><img src=\"https://alexchabot.net/uploads/2021/73b3d1d9e6.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "\n\n<img src=\"https://alexchabot.net/uploads/2021/73b3d1d9e6.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2011-05-25T18:35:28-05:00",
 				"url": "https://alexchabot.net/2011/05/25/173528.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2011/05/21/its-just-around.html",
 				
-				"content_html": "<p>It&rsquo;s just around the corner</p>\n\n<p><img src=\"uploads/2021/11dcb82e9d.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "It's just around the corner\n\n<img src=\"uploads/2021/11dcb82e9d.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>It&rsquo;s just around the corner</p>\n\n<p><img src=\"https://alexchabot.net/uploads/2021/11dcb82e9d.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "It's just around the corner\n\n<img src=\"https://alexchabot.net/uploads/2021/11dcb82e9d.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2011-05-21T20:57:46-05:00",
 				"url": "https://alexchabot.net/2011/05/21/its-just-around.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2011/05/12/010527.html",
 				
-				"content_html": "<p><img src=\"uploads/2021/1997534746.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "\n\n<img src=\"uploads/2021/1997534746.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p><img src=\"https://alexchabot.net/uploads/2021/1997534746.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "\n\n<img src=\"https://alexchabot.net/uploads/2021/1997534746.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2011-05-12T02:05:27-05:00",
 				"url": "https://alexchabot.net/2011/05/12/010527.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2011/05/10/i-need-a.html",
 				
-				"content_html": "<p>I need a haircut</p>\n\n<p><img src=\"uploads/2021/12a15a7ae3.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "I need a haircut\n\n<img src=\"uploads/2021/12a15a7ae3.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>I need a haircut</p>\n\n<p><img src=\"https://alexchabot.net/uploads/2021/12a15a7ae3.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "I need a haircut\n\n<img src=\"https://alexchabot.net/uploads/2021/12a15a7ae3.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2011-05-10T04:17:25-05:00",
 				"url": "https://alexchabot.net/2011/05/10/i-need-a.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2011/05/08/rooftop.html",
 				
-				"content_html": "<p>Rooftop</p>\n\n<p><img src=\"uploads/2021/c95c6c14a9.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Rooftop\n\n<img src=\"uploads/2021/c95c6c14a9.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Rooftop</p>\n\n<p><img src=\"https://alexchabot.net/uploads/2021/c95c6c14a9.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Rooftop\n\n<img src=\"https://alexchabot.net/uploads/2021/c95c6c14a9.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2011-05-08T18:53:39-05:00",
 				"url": "https://alexchabot.net/2011/05/08/rooftop.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2011/05/08/view-on-the.html",
 				
-				"content_html": "<p>View on the Alhambra</p>\n\n<p><img src=\"uploads/2021/73e2e564db.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "View on the Alhambra\n\n<img src=\"uploads/2021/73e2e564db.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>View on the Alhambra</p>\n\n<p><img src=\"https://alexchabot.net/uploads/2021/73e2e564db.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "View on the Alhambra\n\n<img src=\"https://alexchabot.net/uploads/2021/73e2e564db.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2011-05-08T18:53:31-05:00",
 				"url": "https://alexchabot.net/2011/05/08/view-on-the.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2011/05/08/plaza-nueva-granada.html",
 				
-				"content_html": "<p>Plaza Nueva, Granada</p>\n\n<p><img src=\"uploads/2021/5a82022fbb.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Plaza Nueva, Granada\n\n<img src=\"uploads/2021/5a82022fbb.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Plaza Nueva, Granada</p>\n\n<p><img src=\"https://alexchabot.net/uploads/2021/5a82022fbb.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Plaza Nueva, Granada\n\n<img src=\"https://alexchabot.net/uploads/2021/5a82022fbb.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2011-05-08T18:53:25-05:00",
 				"url": "https://alexchabot.net/2011/05/08/plaza-nueva-granada.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2011/05/07/in-al-alhambra.html",
 				
-				"content_html": "<p>In Al Alhambra</p>\n\n<p><img src=\"uploads/2021/f2fc2334e3.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "In Al Alhambra\n\n<img src=\"uploads/2021/f2fc2334e3.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>In Al Alhambra</p>\n\n<p><img src=\"https://alexchabot.net/uploads/2021/f2fc2334e3.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "In Al Alhambra\n\n<img src=\"https://alexchabot.net/uploads/2021/f2fc2334e3.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2011-05-07T19:19:22-05:00",
 				"url": "https://alexchabot.net/2011/05/07/in-al-alhambra.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2011/05/06/torre-del-cubo.html",
 				
-				"content_html": "<p>Torre del Cubo</p>\n\n<p><img src=\"uploads/2021/360df002da.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Torre del Cubo\n\n<img src=\"uploads/2021/360df002da.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Torre del Cubo</p>\n\n<p><img src=\"https://alexchabot.net/uploads/2021/360df002da.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Torre del Cubo\n\n<img src=\"https://alexchabot.net/uploads/2021/360df002da.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2011-05-06T13:18:45-05:00",
 				"url": "https://alexchabot.net/2011/05/06/torre-del-cubo.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2011/05/06/generalife.html",
 				
-				"content_html": "<p>Generalife</p>\n\n<p><img src=\"uploads/2021/11dd34cdbe.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Generalife\n\n<img src=\"uploads/2021/11dd34cdbe.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Generalife</p>\n\n<p><img src=\"https://alexchabot.net/uploads/2021/11dd34cdbe.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Generalife\n\n<img src=\"https://alexchabot.net/uploads/2021/11dd34cdbe.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2011-05-06T13:18:18-05:00",
 				"url": "https://alexchabot.net/2011/05/06/generalife.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2011/05/02/121429.html",
 				
-				"content_html": "<p><img src=\"uploads/2021/02a4e6f16f.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "\n\n<img src=\"uploads/2021/02a4e6f16f.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p><img src=\"https://alexchabot.net/uploads/2021/02a4e6f16f.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "\n\n<img src=\"https://alexchabot.net/uploads/2021/02a4e6f16f.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2011-05-02T13:14:29-05:00",
 				"url": "https://alexchabot.net/2011/05/02/121429.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2011/05/02/malaga.html",
 				
-				"content_html": "<p>Malaga</p>\n\n<p><img src=\"uploads/2021/dcaa3f0a91.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Malaga\n\n<img src=\"uploads/2021/dcaa3f0a91.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Malaga</p>\n\n<p><img src=\"https://alexchabot.net/uploads/2021/dcaa3f0a91.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Malaga\n\n<img src=\"https://alexchabot.net/uploads/2021/dcaa3f0a91.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2011-05-02T13:14:28-05:00",
 				"url": "https://alexchabot.net/2011/05/02/malaga.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2011/05/02/121424.html",
 				
-				"content_html": "<p><img src=\"uploads/2021/62ad6f1eff.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "\n\n<img src=\"uploads/2021/62ad6f1eff.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p><img src=\"https://alexchabot.net/uploads/2021/62ad6f1eff.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "\n\n<img src=\"https://alexchabot.net/uploads/2021/62ad6f1eff.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2011-05-02T13:14:24-05:00",
 				"url": "https://alexchabot.net/2011/05/02/121424.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2011/05/02/121419.html",
 				
-				"content_html": "<p><img src=\"uploads/2021/64ec93579e.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "\n\n<img src=\"uploads/2021/64ec93579e.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p><img src=\"https://alexchabot.net/uploads/2021/64ec93579e.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "\n\n<img src=\"https://alexchabot.net/uploads/2021/64ec93579e.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2011-05-02T13:14:19-05:00",
 				"url": "https://alexchabot.net/2011/05/02/121419.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2011/05/02/121408.html",
 				
-				"content_html": "<p><img src=\"uploads/2021/7fdab6bcb8.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "\n\n<img src=\"uploads/2021/7fdab6bcb8.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p><img src=\"https://alexchabot.net/uploads/2021/7fdab6bcb8.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "\n\n<img src=\"https://alexchabot.net/uploads/2021/7fdab6bcb8.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2011-05-02T13:14:08-05:00",
 				"url": "https://alexchabot.net/2011/05/02/121408.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2011/05/01/over-danish-waters.html",
 				
-				"content_html": "<p>Over danish waters.</p>\n\n<p><img src=\"uploads/2021/e72ad0a1e1.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Over danish waters.\n\n<img src=\"uploads/2021/e72ad0a1e1.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Over danish waters.</p>\n\n<p><img src=\"https://alexchabot.net/uploads/2021/e72ad0a1e1.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Over danish waters.\n\n<img src=\"https://alexchabot.net/uploads/2021/e72ad0a1e1.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2011-05-01T15:00:54-05:00",
 				"url": "https://alexchabot.net/2011/05/01/over-danish-waters.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2011/04/29/122251.html",
 				
-				"content_html": "<p><img src=\"uploads/2021/fe6f56436f.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "\n\n<img src=\"uploads/2021/fe6f56436f.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p><img src=\"https://alexchabot.net/uploads/2021/fe6f56436f.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "\n\n<img src=\"https://alexchabot.net/uploads/2021/fe6f56436f.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2011-04-29T13:22:51-05:00",
 				"url": "https://alexchabot.net/2011/04/29/122251.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2011/04/18/142427.html",
 				
-				"content_html": "<p><img src=\"uploads/2021/284e6fd547.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "\n\n<img src=\"uploads/2021/284e6fd547.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p><img src=\"https://alexchabot.net/uploads/2021/284e6fd547.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "\n\n<img src=\"https://alexchabot.net/uploads/2021/284e6fd547.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2011-04-18T15:24:27-05:00",
 				"url": "https://alexchabot.net/2011/04/18/142427.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2011/04/15/093257.html",
 				
-				"content_html": "<p><img src=\"uploads/2021/ba9dc9d687.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "\n\n<img src=\"uploads/2021/ba9dc9d687.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p><img src=\"https://alexchabot.net/uploads/2021/ba9dc9d687.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "\n\n<img src=\"https://alexchabot.net/uploads/2021/ba9dc9d687.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2011-04-15T10:32:57-05:00",
 				"url": "https://alexchabot.net/2011/04/15/093257.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2011/04/11/mestre-italy.html",
 				
-				"content_html": "<p>Mestre, Italy</p>\n\n<p><img src=\"uploads/2021/626d3fa71d.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Mestre, Italy\n\n<img src=\"uploads/2021/626d3fa71d.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Mestre, Italy</p>\n\n<p><img src=\"https://alexchabot.net/uploads/2021/626d3fa71d.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Mestre, Italy\n\n<img src=\"https://alexchabot.net/uploads/2021/626d3fa71d.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2011-04-11T17:45:15-05:00",
 				"url": "https://alexchabot.net/2011/04/11/mestre-italy.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2011/04/11/campo-santa-maria.html",
 				
-				"content_html": "<p>Campo Santa Maria Zobenigo Odel Giglio</p>\n\n<p><img src=\"uploads/2021/695354057e.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Campo Santa Maria Zobenigo Odel Giglio\n\n<img src=\"uploads/2021/695354057e.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Campo Santa Maria Zobenigo Odel Giglio</p>\n\n<p><img src=\"https://alexchabot.net/uploads/2021/695354057e.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Campo Santa Maria Zobenigo Odel Giglio\n\n<img src=\"https://alexchabot.net/uploads/2021/695354057e.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2011-04-11T17:45:05-05:00",
 				"url": "https://alexchabot.net/2011/04/11/campo-santa-maria.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2011/04/02/dj-spot.html",
 				
-				"content_html": "<p>DJ spot</p>\n\n<p><img src=\"uploads/2021/153f32cfda.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "DJ spot\n\n<img src=\"uploads/2021/153f32cfda.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>DJ spot</p>\n\n<p><img src=\"https://alexchabot.net/uploads/2021/153f32cfda.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "DJ spot\n\n<img src=\"https://alexchabot.net/uploads/2021/153f32cfda.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2011-04-02T14:06:24-05:00",
 				"url": "https://alexchabot.net/2011/04/02/dj-spot.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2011/04/02/black.html",
 				
-				"content_html": "<p>Black</p>\n\n<p><img src=\"uploads/2021/8e881a6e88.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Black\n\n<img src=\"uploads/2021/8e881a6e88.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Black</p>\n\n<p><img src=\"https://alexchabot.net/uploads/2021/8e881a6e88.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Black\n\n<img src=\"https://alexchabot.net/uploads/2021/8e881a6e88.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2011-04-02T13:27:03-05:00",
 				"url": "https://alexchabot.net/2011/04/02/black.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2011/04/02/white.html",
 				
-				"content_html": "<p>White</p>\n\n<p><img src=\"uploads/2021/bd27d061aa.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "White\n\n<img src=\"uploads/2021/bd27d061aa.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>White</p>\n\n<p><img src=\"https://alexchabot.net/uploads/2021/bd27d061aa.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "White\n\n<img src=\"https://alexchabot.net/uploads/2021/bd27d061aa.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2011-04-02T13:25:47-05:00",
 				"url": "https://alexchabot.net/2011/04/02/white.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2011/04/01/the-queen-was.html",
 				
-				"content_html": "<p>The Queen was not there</p>\n\n<p><img src=\"uploads/2021/7366ea4145.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "The Queen was not there\n\n<img src=\"uploads/2021/7366ea4145.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>The Queen was not there</p>\n\n<p><img src=\"https://alexchabot.net/uploads/2021/7366ea4145.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "The Queen was not there\n\n<img src=\"https://alexchabot.net/uploads/2021/7366ea4145.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2011-04-01T14:43:03-05:00",
 				"url": "https://alexchabot.net/2011/04/01/the-queen-was.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2011/03/28/still-some-light.html",
 				
-				"content_html": "<p>Still some light in the sky after Danish class? I love it!</p>\n\n<p><img src=\"uploads/2021/d44f02ad1a.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Still some light in the sky after Danish class? I love it!\n\n<img src=\"uploads/2021/d44f02ad1a.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Still some light in the sky after Danish class? I love it!</p>\n\n<p><img src=\"https://alexchabot.net/uploads/2021/d44f02ad1a.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Still some light in the sky after Danish class? I love it!\n\n<img src=\"https://alexchabot.net/uploads/2021/d44f02ad1a.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2011-03-28T12:51:45-05:00",
 				"url": "https://alexchabot.net/2011/03/28/still-some-light.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2011/03/18/the-towery-of.html",
 				
-				"content_html": "<p>The towery of&hellip;</p>\n\n<p><img src=\"uploads/2021/a4d13247fc.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "The towery of...\n\n<img src=\"uploads/2021/a4d13247fc.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>The towery of&hellip;</p>\n\n<p><img src=\"https://alexchabot.net/uploads/2021/a4d13247fc.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "The towery of...\n\n<img src=\"https://alexchabot.net/uploads/2021/a4d13247fc.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2011-03-18T17:55:06-05:00",
 				"url": "https://alexchabot.net/2011/03/18/the-towery-of.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2011/03/18/yellows.html",
 				
-				"content_html": "<p>Yellows</p>\n\n<p><img src=\"uploads/2021/0cb1c21ce7.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Yellows\n\n<img src=\"uploads/2021/0cb1c21ce7.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Yellows</p>\n\n<p><img src=\"https://alexchabot.net/uploads/2021/0cb1c21ce7.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Yellows\n\n<img src=\"https://alexchabot.net/uploads/2021/0cb1c21ce7.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2011-03-18T15:25:34-05:00",
 				"url": "https://alexchabot.net/2011/03/18/yellows.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2011/03/18/pfbuddy-beer-pong.html",
 				
-				"content_html": "<p>PF/Buddy Beer Pong tournament trophy</p>\n\n<p><img src=\"uploads/2021/a74d6aefef.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "PF/Buddy Beer Pong tournament trophy\n\n<img src=\"uploads/2021/a74d6aefef.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>PF/Buddy Beer Pong tournament trophy</p>\n\n<p><img src=\"https://alexchabot.net/uploads/2021/a74d6aefef.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "PF/Buddy Beer Pong tournament trophy\n\n<img src=\"https://alexchabot.net/uploads/2021/a74d6aefef.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2011-03-18T10:31:33-05:00",
 				"url": "https://alexchabot.net/2011/03/18/pfbuddy-beer-pong.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2011/03/13/062710.html",
 				
-				"content_html": "<p><img src=\"uploads/2021/2f43e3e892.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "\n\n<img src=\"uploads/2021/2f43e3e892.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p><img src=\"https://alexchabot.net/uploads/2021/2f43e3e892.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "\n\n<img src=\"https://alexchabot.net/uploads/2021/2f43e3e892.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2011-03-13T07:27:10-05:00",
 				"url": "https://alexchabot.net/2011/03/13/062710.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2011/03/07/102238.html",
 				
-				"content_html": "<p><img src=\"uploads/2021/a5feadb800.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "\n\n<img src=\"uploads/2021/a5feadb800.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p><img src=\"https://alexchabot.net/uploads/2021/a5feadb800.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "\n\n<img src=\"https://alexchabot.net/uploads/2021/a5feadb800.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2011-03-07T11:22:38-05:00",
 				"url": "https://alexchabot.net/2011/03/07/102238.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2011/03/01/162325.html",
 				
-				"content_html": "<p><img src=\"uploads/2021/21708c4ff2.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "\n\n<img src=\"uploads/2021/21708c4ff2.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p><img src=\"https://alexchabot.net/uploads/2021/21708c4ff2.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "\n\n<img src=\"https://alexchabot.net/uploads/2021/21708c4ff2.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2011-03-01T17:23:25-05:00",
 				"url": "https://alexchabot.net/2011/03/01/162325.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2011/03/01/162321.html",
 				
-				"content_html": "<p><img src=\"uploads/2021/35a7fb923b.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "\n\n<img src=\"uploads/2021/35a7fb923b.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p><img src=\"https://alexchabot.net/uploads/2021/35a7fb923b.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "\n\n<img src=\"https://alexchabot.net/uploads/2021/35a7fb923b.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2011-03-01T17:23:21-05:00",
 				"url": "https://alexchabot.net/2011/03/01/162321.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2011/02/27/giacometti.html",
 				
-				"content_html": "<p>Giacometti</p>\n\n<p><img src=\"uploads/2021/3c19a03e1f.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Giacometti\n\n<img src=\"uploads/2021/3c19a03e1f.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Giacometti</p>\n\n<p><img src=\"https://alexchabot.net/uploads/2021/3c19a03e1f.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Giacometti\n\n<img src=\"https://alexchabot.net/uploads/2021/3c19a03e1f.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2011-02-27T09:45:17-05:00",
 				"url": "https://alexchabot.net/2011/02/27/giacometti.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2011/02/27/panamarenko-pepto-bismo.html",
 				
-				"content_html": "<p>Panamarenko - Pepto Bismo</p>\n\n<p><img src=\"uploads/2021/3974262e9e.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Panamarenko - Pepto Bismo\n\n<img src=\"uploads/2021/3974262e9e.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Panamarenko - Pepto Bismo</p>\n\n<p><img src=\"https://alexchabot.net/uploads/2021/3974262e9e.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Panamarenko - Pepto Bismo\n\n<img src=\"https://alexchabot.net/uploads/2021/3974262e9e.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2011-02-27T08:39:23-05:00",
 				"url": "https://alexchabot.net/2011/02/27/panamarenko-pepto-bismo.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2011/02/27/064804.html",
 				
-				"content_html": "<p><img src=\"uploads/2021/b8c9a63b74.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "\n\n<img src=\"uploads/2021/b8c9a63b74.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p><img src=\"https://alexchabot.net/uploads/2021/b8c9a63b74.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "\n\n<img src=\"https://alexchabot.net/uploads/2021/b8c9a63b74.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2011-02-27T07:48:04-05:00",
 				"url": "https://alexchabot.net/2011/02/27/064804.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2011/02/27/064704.html",
 				
-				"content_html": "<p><img src=\"uploads/2021/30ad18cab4.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "\n\n<img src=\"uploads/2021/30ad18cab4.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p><img src=\"https://alexchabot.net/uploads/2021/30ad18cab4.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "\n\n<img src=\"https://alexchabot.net/uploads/2021/30ad18cab4.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2011-02-27T07:47:04-05:00",
 				"url": "https://alexchabot.net/2011/02/27/064704.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2011/02/25/chinup-bar-at.html",
 				
-				"content_html": "<p>Chin-up bar at 101&hellip;</p>\n\n<p><img src=\"uploads/2021/7f949feace.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Chin-up bar at 101...\n\n<img src=\"uploads/2021/7f949feace.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Chin-up bar at 101&hellip;</p>\n\n<p><img src=\"https://alexchabot.net/uploads/2021/7f949feace.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Chin-up bar at 101...\n\n<img src=\"https://alexchabot.net/uploads/2021/7f949feace.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2011-02-25T11:21:28-05:00",
 				"url": "https://alexchabot.net/2011/02/25/chinup-bar-at.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2011/02/17/trou.html",
 				
-				"content_html": "<p>Trou</p>\n\n<p><img src=\"uploads/2021/b95fe3803d.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Trou\n\n<img src=\"uploads/2021/b95fe3803d.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Trou</p>\n\n<p><img src=\"https://alexchabot.net/uploads/2021/b95fe3803d.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Trou\n\n<img src=\"https://alexchabot.net/uploads/2021/b95fe3803d.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2011-02-17T12:22:50-05:00",
 				"url": "https://alexchabot.net/2011/02/17/trou.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2011/01/30/like-in-the.html",
 				
-				"content_html": "<p>Like in the days where we played ping pong on the streets.</p>\n\n<p><img src=\"uploads/2021/4f401bf4a8.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Like in the days where we played ping pong on the streets. \n\n<img src=\"uploads/2021/4f401bf4a8.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Like in the days where we played ping pong on the streets.</p>\n\n<p><img src=\"https://alexchabot.net/uploads/2021/4f401bf4a8.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Like in the days where we played ping pong on the streets. \n\n<img src=\"https://alexchabot.net/uploads/2021/4f401bf4a8.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2011-01-30T08:42:52-05:00",
 				"url": "https://alexchabot.net/2011/01/30/like-in-the.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2011/01/21/fog.html",
 				
-				"content_html": "<p>Fog</p>\n\n<p><img src=\"uploads/2021/769d5d8400.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Fog\n\n<img src=\"uploads/2021/769d5d8400.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Fog</p>\n\n<p><img src=\"https://alexchabot.net/uploads/2021/769d5d8400.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Fog\n\n<img src=\"https://alexchabot.net/uploads/2021/769d5d8400.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2011-01-21T19:35:03-05:00",
 				"url": "https://alexchabot.net/2011/01/21/fog.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2011/01/21/frozen-leaves.html",
 				
-				"content_html": "<p>Frozen leaves</p>\n\n<p><img src=\"uploads/2021/eb47025c12.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Frozen leaves\n\n<img src=\"uploads/2021/eb47025c12.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Frozen leaves</p>\n\n<p><img src=\"https://alexchabot.net/uploads/2021/eb47025c12.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Frozen leaves\n\n<img src=\"https://alexchabot.net/uploads/2021/eb47025c12.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2011-01-21T03:00:36-05:00",
 				"url": "https://alexchabot.net/2011/01/21/frozen-leaves.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2011/01/14/tabletop-tree.html",
 				
-				"content_html": "<p>Tabletop tree</p>\n\n<p><img src=\"uploads/2021/070f535e09.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Tabletop tree\n\n<img src=\"uploads/2021/070f535e09.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Tabletop tree</p>\n\n<p><img src=\"https://alexchabot.net/uploads/2021/070f535e09.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Tabletop tree\n\n<img src=\"https://alexchabot.net/uploads/2021/070f535e09.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2011-01-14T03:44:02-05:00",
 				"url": "https://alexchabot.net/2011/01/14/tabletop-tree.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2011/01/07/the-light.html",
 				
-				"content_html": "<p>The light</p>\n\n<p><img src=\"uploads/2021/1d63dbca61.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "The light\n\n<img src=\"uploads/2021/1d63dbca61.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>The light</p>\n\n<p><img src=\"https://alexchabot.net/uploads/2021/1d63dbca61.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "The light\n\n<img src=\"https://alexchabot.net/uploads/2021/1d63dbca61.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2011-01-07T19:11:36-05:00",
 				"url": "https://alexchabot.net/2011/01/07/the-light.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2011/01/04/lunch-time-detail.html",
 				
-				"content_html": "<p>Lunch time (detail)</p>\n\n<p><img src=\"uploads/2021/5c6e2bb94c.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Lunch time (detail)\n\n<img src=\"uploads/2021/5c6e2bb94c.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Lunch time (detail)</p>\n\n<p><img src=\"https://alexchabot.net/uploads/2021/5c6e2bb94c.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Lunch time (detail)\n\n<img src=\"https://alexchabot.net/uploads/2021/5c6e2bb94c.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2011-01-04T08:45:12-05:00",
 				"url": "https://alexchabot.net/2011/01/04/lunch-time-detail.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2011/01/04/lunch-time.html",
 				
-				"content_html": "<p>Lunch time</p>\n\n<p><img src=\"uploads/2021/a23c376652.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Lunch time\n\n<img src=\"uploads/2021/a23c376652.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Lunch time</p>\n\n<p><img src=\"https://alexchabot.net/uploads/2021/a23c376652.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Lunch time\n\n<img src=\"https://alexchabot.net/uploads/2021/a23c376652.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2011-01-04T08:44:22-05:00",
 				"url": "https://alexchabot.net/2011/01/04/lunch-time.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2011/01/04/a-business-sight.html",
 				
-				"content_html": "<p>A &ldquo;business sight&rdquo;.</p>\n\n<p><img src=\"uploads/2021/beb6046e37.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "A \"business sight\". \n\n<img src=\"uploads/2021/beb6046e37.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>A &ldquo;business sight&rdquo;.</p>\n\n<p><img src=\"https://alexchabot.net/uploads/2021/beb6046e37.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "A \"business sight\". \n\n<img src=\"https://alexchabot.net/uploads/2021/beb6046e37.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2011-01-04T08:44:17-05:00",
 				"url": "https://alexchabot.net/2011/01/04/a-business-sight.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2010/12/31/happy-new-year.html",
 				
-				"content_html": "<p>Happy New Year!</p>\n\n<p><img src=\"uploads/2021/367446ca28.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Happy New Year!\n\n<img src=\"uploads/2021/367446ca28.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Happy New Year!</p>\n\n<p><img src=\"https://alexchabot.net/uploads/2021/367446ca28.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Happy New Year!\n\n<img src=\"https://alexchabot.net/uploads/2021/367446ca28.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2010-12-31T18:50:16-05:00",
 				"url": "https://alexchabot.net/2010/12/31/happy-new-year.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2010/12/25/best-dessert-ever.html",
 				
-				"content_html": "<p>Best dessert <em>ever</em>.</p>\n\n<p><img src=\"uploads/2021/073542b95b.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Best dessert _ever_.\n\n<img src=\"uploads/2021/073542b95b.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Best dessert <em>ever</em>.</p>\n\n<p><img src=\"https://alexchabot.net/uploads/2021/073542b95b.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Best dessert _ever_.\n\n<img src=\"https://alexchabot.net/uploads/2021/073542b95b.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2010-12-25T20:31:09-05:00",
 				"url": "https://alexchabot.net/2010/12/25/best-dessert-ever.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2010/12/25/au-bord-de.html",
 				
-				"content_html": "<p>Au bord de la Seine</p>\n\n<p><img src=\"uploads/2021/04cb3cccfc.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Au bord de la Seine\n\n<img src=\"uploads/2021/04cb3cccfc.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Au bord de la Seine</p>\n\n<p><img src=\"https://alexchabot.net/uploads/2021/04cb3cccfc.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Au bord de la Seine\n\n<img src=\"https://alexchabot.net/uploads/2021/04cb3cccfc.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2010-12-25T20:27:42-05:00",
 				"url": "https://alexchabot.net/2010/12/25/au-bord-de.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2010/12/19/232848.html",
 				
-				"content_html": "<p><img src=\"uploads/2021/2a873f3d1f.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "\n\n<img src=\"uploads/2021/2a873f3d1f.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p><img src=\"https://alexchabot.net/uploads/2021/2a873f3d1f.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "\n\n<img src=\"https://alexchabot.net/uploads/2021/2a873f3d1f.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2010-12-20T00:28:48-05:00",
 				"url": "https://alexchabot.net/2010/12/19/232848.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2010/12/19/232841.html",
 				
-				"content_html": "<p><img src=\"uploads/2021/5a5e17e6d7.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "\n\n<img src=\"uploads/2021/5a5e17e6d7.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p><img src=\"https://alexchabot.net/uploads/2021/5a5e17e6d7.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "\n\n<img src=\"https://alexchabot.net/uploads/2021/5a5e17e6d7.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2010-12-20T00:28:41-05:00",
 				"url": "https://alexchabot.net/2010/12/19/232841.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2010/12/19/232840.html",
 				
-				"content_html": "<p><img src=\"uploads/2021/efa21b1ed5.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "\n\n<img src=\"uploads/2021/efa21b1ed5.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p><img src=\"https://alexchabot.net/uploads/2021/efa21b1ed5.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "\n\n<img src=\"https://alexchabot.net/uploads/2021/efa21b1ed5.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2010-12-20T00:28:40-05:00",
 				"url": "https://alexchabot.net/2010/12/19/232840.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2010/12/19/232839.html",
 				
-				"content_html": "<p><img src=\"uploads/2021/cfc08b06f2.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "\n\n<img src=\"uploads/2021/cfc08b06f2.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p><img src=\"https://alexchabot.net/uploads/2021/cfc08b06f2.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "\n\n<img src=\"https://alexchabot.net/uploads/2021/cfc08b06f2.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2010-12-20T00:28:39-05:00",
 				"url": "https://alexchabot.net/2010/12/19/232839.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2010/12/19/232818.html",
 				
-				"content_html": "<p><img src=\"uploads/2021/260b989155.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "\n\n<img src=\"uploads/2021/260b989155.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p><img src=\"https://alexchabot.net/uploads/2021/260b989155.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "\n\n<img src=\"https://alexchabot.net/uploads/2021/260b989155.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2010-12-20T00:28:18-05:00",
 				"url": "https://alexchabot.net/2010/12/19/232818.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2010/12/19/232800.html",
 				
-				"content_html": "<p><img src=\"uploads/2021/371c3517b8.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "\n\n<img src=\"uploads/2021/371c3517b8.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p><img src=\"https://alexchabot.net/uploads/2021/371c3517b8.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "\n\n<img src=\"https://alexchabot.net/uploads/2021/371c3517b8.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2010-12-20T00:28:00-05:00",
 				"url": "https://alexchabot.net/2010/12/19/232800.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2010/12/17/070046.html",
 				
-				"content_html": "<p><img src=\"uploads/2021/357b3bac21.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "\n\n<img src=\"uploads/2021/357b3bac21.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p><img src=\"https://alexchabot.net/uploads/2021/357b3bac21.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "\n\n<img src=\"https://alexchabot.net/uploads/2021/357b3bac21.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2010-12-17T08:00:46-05:00",
 				"url": "https://alexchabot.net/2010/12/17/070046.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2010/12/17/065306.html",
 				
-				"content_html": "<p><img src=\"uploads/2021/2379f6a2b1.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "\n\n<img src=\"uploads/2021/2379f6a2b1.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p><img src=\"https://alexchabot.net/uploads/2021/2379f6a2b1.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "\n\n<img src=\"https://alexchabot.net/uploads/2021/2379f6a2b1.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2010-12-17T07:53:06-05:00",
 				"url": "https://alexchabot.net/2010/12/17/065306.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2010/12/17/045112.html",
 				
-				"content_html": "<p><img src=\"uploads/2021/06ec9d37a2.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "\n\n<img src=\"uploads/2021/06ec9d37a2.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p><img src=\"https://alexchabot.net/uploads/2021/06ec9d37a2.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "\n\n<img src=\"https://alexchabot.net/uploads/2021/06ec9d37a2.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2010-12-17T05:51:12-05:00",
 				"url": "https://alexchabot.net/2010/12/17/045112.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2010/12/17/034348.html",
 				
-				"content_html": "<p><img src=\"uploads/2021/171cb5c9be.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "\n\n<img src=\"uploads/2021/171cb5c9be.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p><img src=\"https://alexchabot.net/uploads/2021/171cb5c9be.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "\n\n<img src=\"https://alexchabot.net/uploads/2021/171cb5c9be.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2010-12-17T04:43:48-05:00",
 				"url": "https://alexchabot.net/2010/12/17/034348.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2010/12/17/033608.html",
 				
-				"content_html": "<p><img src=\"uploads/2021/3c5a7c9b96.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "\n\n<img src=\"uploads/2021/3c5a7c9b96.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p><img src=\"https://alexchabot.net/uploads/2021/3c5a7c9b96.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "\n\n<img src=\"https://alexchabot.net/uploads/2021/3c5a7c9b96.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2010-12-17T04:36:08-05:00",
 				"url": "https://alexchabot.net/2010/12/17/033608.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2010/12/13/dead-sound.html",
 				
-				"content_html": "<p>Dead sound</p>\n\n<p><img src=\"uploads/2021/fdab8f73ed.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Dead sound\n\n<img src=\"uploads/2021/fdab8f73ed.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Dead sound</p>\n\n<p><img src=\"https://alexchabot.net/uploads/2021/fdab8f73ed.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Dead sound\n\n<img src=\"https://alexchabot.net/uploads/2021/fdab8f73ed.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2010-12-13T13:18:51-05:00",
 				"url": "https://alexchabot.net/2010/12/13/dead-sound.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2010/12/10/a-nights-worth.html",
 				
-				"content_html": "<p>A night&rsquo;s worth of printing</p>\n\n<p><img src=\"uploads/2021/9f3b4f2813.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "A night's worth of printing\n\n<img src=\"uploads/2021/9f3b4f2813.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>A night&rsquo;s worth of printing</p>\n\n<p><img src=\"https://alexchabot.net/uploads/2021/9f3b4f2813.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "A night's worth of printing\n\n<img src=\"https://alexchabot.net/uploads/2021/9f3b4f2813.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2010-12-10T18:22:03-05:00",
 				"url": "https://alexchabot.net/2010/12/10/a-nights-worth.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2010/12/06/121942.html",
 				
-				"content_html": "<p><img src=\"uploads/2021/4c3bf8229a.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "\n\n<img src=\"uploads/2021/4c3bf8229a.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p><img src=\"https://alexchabot.net/uploads/2021/4c3bf8229a.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "\n\n<img src=\"https://alexchabot.net/uploads/2021/4c3bf8229a.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2010-12-06T13:19:42-05:00",
 				"url": "https://alexchabot.net/2010/12/06/121942.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2010/12/05/foggy-road-to.html",
 				
-				"content_html": "<p>Foggy road to DTU</p>\n\n<p><img src=\"uploads/2021/65d1170cd7.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Foggy road to DTU\n\n<img src=\"uploads/2021/65d1170cd7.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Foggy road to DTU</p>\n\n<p><img src=\"https://alexchabot.net/uploads/2021/65d1170cd7.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Foggy road to DTU\n\n<img src=\"https://alexchabot.net/uploads/2021/65d1170cd7.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2010-12-05T18:08:54-05:00",
 				"url": "https://alexchabot.net/2010/12/05/foggy-road-to.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2010/12/05/acoustics-christmas-lunch.html",
 				
-				"content_html": "<p>Acoustics Christmas lunch appetizers</p>\n\n<p><img src=\"uploads/2021/a1c1144c7f.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Acoustics Christmas lunch appetizers\n\n<img src=\"uploads/2021/a1c1144c7f.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Acoustics Christmas lunch appetizers</p>\n\n<p><img src=\"https://alexchabot.net/uploads/2021/a1c1144c7f.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Acoustics Christmas lunch appetizers\n\n<img src=\"https://alexchabot.net/uploads/2021/a1c1144c7f.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2010-12-05T09:18:54-05:00",
 				"url": "https://alexchabot.net/2010/12/05/acoustics-christmas-lunch.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2010/11/30/170007.html",
 				
-				"content_html": "<p><img src=\"uploads/2021/f7e5e925cd.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "\n\n<img src=\"uploads/2021/f7e5e925cd.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p><img src=\"https://alexchabot.net/uploads/2021/f7e5e925cd.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "\n\n<img src=\"https://alexchabot.net/uploads/2021/f7e5e925cd.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2010-11-30T18:00:07-05:00",
 				"url": "https://alexchabot.net/2010/11/30/170007.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2010/11/30/082307.html",
 				
-				"content_html": "<p><img src=\"uploads/2021/43ea4e4a97.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "\n\n<img src=\"uploads/2021/43ea4e4a97.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p><img src=\"https://alexchabot.net/uploads/2021/43ea4e4a97.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "\n\n<img src=\"https://alexchabot.net/uploads/2021/43ea4e4a97.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2010-11-30T09:23:07-05:00",
 				"url": "https://alexchabot.net/2010/11/30/082307.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2010/11/27/085426.html",
 				
-				"content_html": "<p><img src=\"uploads/2021/c17bd7786a.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "\n\n<img src=\"uploads/2021/c17bd7786a.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p><img src=\"https://alexchabot.net/uploads/2021/c17bd7786a.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "\n\n<img src=\"https://alexchabot.net/uploads/2021/c17bd7786a.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2010-11-27T09:54:26-05:00",
 				"url": "https://alexchabot.net/2010/11/27/085426.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2010/11/27/084657.html",
 				
-				"content_html": "<p><img src=\"uploads/2021/8844231661.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "\n\n<img src=\"uploads/2021/8844231661.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p><img src=\"https://alexchabot.net/uploads/2021/8844231661.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "\n\n<img src=\"https://alexchabot.net/uploads/2021/8844231661.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2010-11-27T09:46:57-05:00",
 				"url": "https://alexchabot.net/2010/11/27/084657.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2010/11/27/035147.html",
 				
-				"content_html": "<p><img src=\"uploads/2021/ea30a07695.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "\n\n<img src=\"uploads/2021/ea30a07695.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p><img src=\"https://alexchabot.net/uploads/2021/ea30a07695.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "\n\n<img src=\"https://alexchabot.net/uploads/2021/ea30a07695.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2010-11-27T04:51:47-05:00",
 				"url": "https://alexchabot.net/2010/11/27/035147.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2010/11/25/071524.html",
 				
-				"content_html": "<p><img src=\"uploads/2021/3815597632.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "\n\n<img src=\"uploads/2021/3815597632.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p><img src=\"https://alexchabot.net/uploads/2021/3815597632.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "\n\n<img src=\"https://alexchabot.net/uploads/2021/3815597632.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2010-11-25T08:15:24-05:00",
 				"url": "https://alexchabot.net/2010/11/25/071524.html"
 			},
 			{
 				"id": "http://alexchabot.micro.blog/2010/11/01/073913.html",
 				
-				"content_html": "<p><img src=\"uploads/2021/de15d6d613.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "\n\n<img src=\"uploads/2021/de15d6d613.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p><img src=\"https://alexchabot.net/uploads/2021/de15d6d613.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "\n\n<img src=\"https://alexchabot.net/uploads/2021/de15d6d613.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2010-11-01T08:39:13-05:00",
 				"url": "https://alexchabot.net/2010/11/01/073913.html"
 			}
