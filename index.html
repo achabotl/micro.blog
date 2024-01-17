@@ -36,7 +36,7 @@
 
 <p>As usual, I hope you find a good thing or three.</p>
 
-<p>Happy read, watching, listening, and holidaying!</p>
+<p>Happy reading, watching, listening, and holidaying!</p>
 
 <h2 id="three-things">Three Things</h2>
 
@@ -2176,7 +2176,8 @@ It&rsquo;s an incredible essay on war (the Second World One), and memories. I fo
 <li>Locate the application file you just created</li>
 <li>Right-click the app, select &ldquo;Show Package Contents&rdquo;</li>
 <li>Inside, open <code>Contents/Info.plist</code> <em>with a text editor</em></li>
-<li>Paste the following in a blank line right below the <code>&lt;dict&gt;</code> line. Replace <code>zettel</code> with the URL prefix you&rsquo;ve chosen:</li>
+<li>Paste the following bit of XML on a blank line right below the <code>&lt;dict&gt;</code> line. Replace <code>zettel</code> with the URL prefix you&rsquo;ve chosen.</li>
+<li>Launch the app to register the URL handler.</li>
 </ul></li>
 </ol>
 <div class="highlight"><pre style="background-color:#f0f0f0;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-xml" data-lang="xml"><span style="color:#062873;font-weight:bold">&lt;key&gt;</span>CFBundleURLTypes<span style="color:#062873;font-weight:bold">&lt;/key&gt;</span>
@@ -2222,7 +2223,7 @@ It&rsquo;s an incredible essay on war (the Second World One), and memories. I fo
 <span style="color:#60a0b0;font-style:italic">-- List of app to display in the menu with with &amp;pick query option</span>
 <span style="color:#60a0b0;font-style:italic">-- The apps will appear in the order defined here</span>
 <span style="color:#007020;font-weight:bold">property</span> <span style="color:#bb60d5">appChoices</span> : {<span style="color:#bb60d5">defaultZkAppUrl</span>, <span style="color:#bb60d5">editApp</span>, <span style="color:#bb60d5">previewApp</span>, <span style="color:#4070a0">&#34;TextMate&#34;</span>}
-<span style="color:#007020;font-weight:bold">property</span> <span style="color:#bb60d5">defaultApp</span> : {<span style="color:#bb60d5">defaultZkAppUrl</span>})
+<span style="color:#007020;font-weight:bold">property</span> <span style="color:#bb60d5">defaultApp</span> : {<span style="color:#bb60d5">defaultZkAppUrl</span>}
 <span style="color:#60a0b0;font-style:italic">-----------------------------------------------------------</span>
 
 <span style="color:#007020;font-weight:bold">on</span> <span style="color:#bb60d5">splitText</span>(<span style="color:#bb60d5">theText</span>, <span style="color:#bb60d5">theDelimiter</span>)
