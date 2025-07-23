@@ -1,0 +1,869 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SayTudo - Exercícios Interativos</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        * {
+            box-sizing: border-box;
+        }
+        
+        .fade-in {
+            animation: fadeIn 0.5s ease-in;
+        }
+        
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(20px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+        
+        .language-btn {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            padding: 1.5rem 1rem;
+            background: white;
+            border: 2px solid #e5e7eb;
+            border-radius: 0.75rem;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            min-height: 120px;
+        }
+        
+        .language-btn:hover {
+            border-color: #5D5CDE;
+            transform: translateY(-2px);
+            box-shadow: 0 4px 12px rgba(93, 92, 222, 0.15);
+        }
+        
+        .exercise-card {
+            transition: all 0.3s ease;
+        }
+        
+        .exercise-card:hover {
+            transform: translateY(-2px);
+        }
+        
+        .option-btn {
+            transition: all 0.3s ease;
+        }
+        
+        .option-btn:hover {
+            border-color: #5D5CDE !important;
+        }
+        
+        .option-btn.selected {
+            border-color: #5D5CDE !important;
+            background-color: rgba(93, 92, 222, 0.1) !important;
+        }
+        
+        .progress-bar {
+            transition: width 0.5s ease;
+        }
+        
+        .notification {
+            position: fixed;
+            top: 20px;
+            right: 20px;
+            background: #3B82F6;
+            color: white;
+            padding: 1rem;
+            border-radius: 0.5rem;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+            z-index: 1000;
+            max-width: 300px;
+        }
+    </style>
+</head>
+<body class="bg-gray-50 text-gray-900 min-h-screen">
+
+    <!-- Header -->
+    <header class="bg-purple-600 text-white shadow-lg">
+        <div class="container mx-auto px-4 py-4">
+            <div class="flex items-center justify-between">
+                <div class="flex items-center space-x-3">
+                    <span class="text-2xl">🌍</span>
+                    <h1 class="text-2xl font-bold">SayTudo</h1>
+                </div>
+                <div class="flex items-center space-x-4">
+                    <span id="userProgress" class="text-sm bg-white bg-opacity-20 px-3 py-1 rounded-full">
+                        Progresso: 0/90
+                    </span>
+                    <button id="homeBtn" class="p-2 hover:bg-white hover:bg-opacity-20 rounded-lg transition-colors">
+                        🏠
+                    </button>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <!-- Main Content -->
+    <main class="container mx-auto px-4 py-8 max-w-4xl">
+
+        <!-- Language Selection Screen -->
+        <div id="languageScreen" class="fade-in">
+            <div class="text-center mb-8">
+                <h2 class="text-3xl font-bold mb-4">🌍 Escolha seu Idioma</h2>
+                <p class="text-gray-600 mb-8">30+ idiomas com 90 exercícios progressivos cada</p>
+            </div>
+
+            <div class="grid grid-cols-2 md:grid-cols-4 gap-4 mb-8">
+                <button class="language-btn" onclick="selectLanguage('english', '🇺🇸', 'Inglês')">
+                    <span class="text-3xl mb-2">🇺🇸</span>
+                    <span class="text-sm font-medium">Inglês</span>
+                </button>
+                <button class="language-btn" onclick="selectLanguage('spanish', '🇪🇸', 'Espanhol')">
+                    <span class="text-3xl mb-2">🇪🇸</span>
+                    <span class="text-sm font-medium">Espanhol</span>
+                </button>
+                <button class="language-btn" onclick="selectLanguage('french', '🇫🇷', 'Francês')">
+                    <span class="text-3xl mb-2">🇫🇷</span>
+                    <span class="text-sm font-medium">Francês</span>
+                </button>
+                <button class="language-btn" onclick="selectLanguage('german', '🇩🇪', 'Alemão')">
+                    <span class="text-3xl mb-2">🇩🇪</span>
+                    <span class="text-sm font-medium">Alemão</span>
+                </button>
+                <button class="language-btn" onclick="selectLanguage('italian', '🇮🇹', 'Italiano')">
+                    <span class="text-3xl mb-2">🇮🇹</span>
+                    <span class="text-sm font-medium">Italiano</span>
+                </button>
+                <button class="language-btn" onclick="selectLanguage('japanese', '🇯🇵', 'Japonês')">
+                    <span class="text-3xl mb-2">🇯🇵</span>
+                    <span class="text-sm font-medium">Japonês</span>
+                </button>
+                <button class="language-btn" onclick="selectLanguage('korean', '🇰🇷', 'Coreano')">
+                    <span class="text-3xl mb-2">🇰🇷</span>
+                    <span class="text-sm font-medium">Coreano</span>
+                </button>
+                <button class="language-btn" onclick="selectLanguage('chinese', '🇨🇳', 'Chinês')">
+                    <span class="text-3xl mb-2">🇨🇳</span>
+                    <span class="text-sm font-medium">Chinês</span>
+                </button>
+            </div>
+
+            <div class="bg-blue-50 p-6 rounded-lg">
+                <h3 class="font-bold text-lg mb-3">✨ O que você vai aprender:</h3>
+                <ul class="space-y-2 text-sm">
+                    <li>✅ <strong>90 exercícios progressivos</strong> por idioma</li>
+                    <li>✅ <strong>Vocabulário essencial</strong> para o dia a dia</li>
+                    <li>✅ <strong>Frases úteis</strong> e situações reais</li>
+                    <li>✅ <strong>Correção por IA</strong> com explicações simples</li>
+                    <li>✅ <strong>100% gratuito</strong> com anúncios leves</li>
+                </ul>
+            </div>
+        </div>
+
+        <!-- Dashboard Screen -->
+        <div id="dashboardScreen" class="hidden fade-in">
+            <div class="text-center mb-8">
+                <h2 class="text-3xl font-bold mb-2">
+                    <span id="selectedLanguageFlag"></span> 
+                    <span id="selectedLanguageName"></span>
+                </h2>
+                <p class="text-gray-600">90 exercícios interativos te esperam!</p>
+            </div>
+
+            <!-- Progress Overview -->
+            <div class="bg-gradient-to-r from-purple-500 to-blue-500 text-white p-6 rounded-lg mb-8">
+                <div class="flex items-center justify-between mb-4">
+                    <h3 class="text-xl font-bold">Seu Progresso</h3>
+                    <span id="progressPercentage" class="text-2xl font-bold">0%</span>
+                </div>
+                <div class="bg-white bg-opacity-20 rounded-full h-3 mb-2">
+                    <div id="progressBarFill" class="progress-bar bg-white h-3 rounded-full" style="width: 0%"></div>
+                </div>
+                <p class="text-sm opacity-90">
+                    <span id="completedExercises">0</span> de 90 exercícios concluídos
+                </p>
+            </div>
+
+            <!-- Exercise Blocks -->
+            <div class="grid md:grid-cols-3 gap-6 mb-8">
+                <!-- Block 1: Vocabulário -->
+                <div class="exercise-card bg-white p-6 rounded-lg shadow-lg border border-gray-200">
+                    <div class="text-center mb-4">
+                        <div class="text-4xl mb-3">📗</div>
+                        <h3 class="text-xl font-bold mb-2">Bloco 1</h3>
+                        <h4 class="text-lg font-semibold text-purple-600">Vocabulário Essencial</h4>
+                        <p class="text-sm text-gray-600 mt-2">30 exercícios</p>
+                    </div>
+                    <div class="space-y-3 mb-4">
+                        <div class="flex items-center text-sm">
+                            <span class="text-green-500 mr-2">✅</span>
+                            Tradução de palavras
+                        </div>
+                        <div class="flex items-center text-sm">
+                            <span class="text-green-500 mr-2">✅</span>
+                            Associação imagem + palavra
+                        </div>
+                        <div class="flex items-center text-sm">
+                            <span class="text-green-500 mr-2">✅</span>
+                            Complete frases
+                        </div>
+                    </div>
+                    <button id="startBlock1" class="w-full bg-purple-600 text-white py-3 rounded-lg font-semibold hover:bg-purple-700 transition-colors" onclick="startBlock(1)">
+                        Começar Bloco 1
+                    </button>
+                    <div class="mt-3">
+                        <div class="flex justify-between text-xs text-gray-500 mb-1">
+                            <span>Progresso</span>
+                            <span id="block1Progress">0/30</span>
+                        </div>
+                        <div class="bg-gray-200 rounded-full h-2">
+                            <div id="block1ProgressBar" class="bg-purple-600 h-2 rounded-full transition-all duration-300" style="width: 0%"></div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Block 2: Frases -->
+                <div class="exercise-card bg-white p-6 rounded-lg shadow-lg border border-gray-200">
+                    <div class="text-center mb-4">
+                        <div class="text-4xl mb-3">🏡</div>
+                        <h3 class="text-xl font-bold mb-2">Bloco 2</h3>
+                        <h4 class="text-lg font-semibold text-purple-600">Frases Comuns</h4>
+                        <p class="text-sm text-gray-600 mt-2">30 exercícios</p>
+                    </div>
+                    <div class="space-y-3 mb-4">
+                        <div class="flex items-center text-sm">
+                            <span class="text-green-500 mr-2">✅</span>
+                            Traduza frases completas
+                        </div>
+                        <div class="flex items-center text-sm">
+                            <span class="text-green-500 mr-2">✅</span>
+                            Complete com lacunas
+                        </div>
+                        <div class="flex items-center text-sm">
+                            <span class="text-green-500 mr-2">✅</span>
+                            Monte na ordem correta
+                        </div>
+                    </div>
+                    <button id="startBlock2" class="w-full bg-gray-400 text-white py-3 rounded-lg font-semibold cursor-not-allowed" disabled>
+                        🔒 Complete o Bloco 1
+                    </button>
+                    <div class="mt-3">
+                        <div class="flex justify-between text-xs text-gray-500 mb-1">
+                            <span>Progresso</span>
+                            <span id="block2Progress">0/30</span>
+                        </div>
+                        <div class="bg-gray-200 rounded-full h-2">
+                            <div id="block2ProgressBar" class="bg-purple-600 h-2 rounded-full transition-all duration-300" style="width: 0%"></div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Block 3: Situações -->
+                <div class="exercise-card bg-white p-6 rounded-lg shadow-lg border border-gray-200">
+                    <div class="text-center mb-4">
+                        <div class="text-4xl mb-3">✈️</div>
+                        <h3 class="text-xl font-bold mb-2">Bloco 3</h3>
+                        <h4 class="text-lg font-semibold text-purple-600">Situações Reais</h4>
+                        <p class="text-sm text-gray-600 mt-2">30 exercícios</p>
+                    </div>
+                    <div class="space-y-3 mb-4">
+                        <div class="flex items-center text-sm">
+                            <span class="text-green-500 mr-2">✅</span>
+                            Restaurante, hotel, aeroporto
+                        </div>
+                        <div class="flex items-center text-sm">
+                            <span class="text-green-500 mr-2">✅</span>
+                            Respostas contextuais
+                        </div>
+                        <div class="flex items-center text-sm">
+                            <span class="text-green-500 mr-2">✅</span>
+                            Tradução situacional
+                        </div>
+                    </div>
+                    <button id="startBlock3" class="w-full bg-gray-400 text-white py-3 rounded-lg font-semibold cursor-not-allowed" disabled>
+                        🔒 Complete o Bloco 2
+                    </button>
+                    <div class="mt-3">
+                        <div class="flex justify-between text-xs text-gray-500 mb-1">
+                            <span>Progresso</span>
+                            <span id="block3Progress">0/30</span>
+                        </div>
+                        <div class="bg-gray-200 rounded-full h-2">
+                            <div id="block3ProgressBar" class="bg-purple-600 h-2 rounded-full transition-all duration-300" style="width: 0%"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Ad Space -->
+            <div class="bg-gray-100 p-4 rounded-lg text-center border-2 border-dashed border-gray-300">
+                <p class="text-sm text-gray-600">
+                    📺 Anúncio leve - Mantém o app 100% gratuito
+                </p>
+            </div>
+        </div>
+
+        <!-- Exercise Screen -->
+        <div id="exerciseScreen" class="hidden fade-in">
+            <div class="mb-6">
+                <div class="flex items-center justify-between mb-4">
+                    <button id="backToBlockBtn" class="flex items-center text-purple-600 hover:text-purple-800" onclick="showDashboard()">
+                        ← Voltar
+                    </button>
+                    <div class="text-center">
+                        <h3 id="exerciseBlockTitle" class="font-bold text-lg"></h3>
+                        <p id="exerciseNumber" class="text-sm text-gray-600"></p>
+                    </div>
+                    <div class="text-right">
+                        <span id="exerciseProgress" class="text-sm font-medium">1/30</span>
+                    </div>
+                </div>
+                
+                <!-- Exercise Progress Bar -->
+                <div class="bg-gray-200 rounded-full h-2 mb-4">
+                    <div id="exerciseProgressBar" class="progress-bar bg-purple-600 h-2 rounded-full" style="width: 3.33%"></div>
+                </div>
+            </div>
+
+            <!-- Exercise Content -->
+            <div id="exerciseContent" class="bg-white p-6 rounded-lg shadow-lg mb-6">
+                <!-- Content will be dynamically generated -->
+            </div>
+
+            <!-- Answer Feedback -->
+            <div id="answerFeedback" class="hidden mb-6"></div>
+
+            <!-- Exercise Controls -->
+            <div class="flex justify-between items-center">
+                <button id="prevExerciseBtn" class="bg-gray-500 text-white px-6 py-3 rounded-lg font-semibold hover:bg-gray-600 transition-colors" onclick="prevExercise()" disabled>
+                    ← Anterior
+                </button>
+                
+                <button id="checkAnswerBtn" class="bg-purple-600 text-white px-8 py-3 rounded-lg font-semibold hover:bg-purple-700 transition-colors" onclick="checkAnswer()">
+                    Verificar Resposta
+                </button>
+                
+                <button id="nextExerciseBtn" class="bg-green-500 text-white px-6 py-3 rounded-lg font-semibold hover:bg-green-600 transition-colors" onclick="nextExercise()" disabled>
+                    Próximo →
+                </button>
+            </div>
+        </div>
+
+    </main>
+
+    <!-- Success Modal -->
+    <div id="successModal" class="fixed inset-0 bg-black bg-opacity-50 flex items-center justify-center z-50 hidden">
+        <div class="bg-white p-8 rounded-lg shadow-2xl max-w-md w-full mx-4 text-center">
+            <div class="text-6xl mb-4">🎉</div>
+            <h3 class="text-2xl font-bold mb-4">Parabéns!</h3>
+            <p id="successMessage" class="text-gray-600 mb-6"></p>
+            <button id="continueBtn" class="bg-purple-600 text-white px-8 py-3 rounded-lg font-semibold hover:bg-purple-700 transition-colors" onclick="closeSuccessModal()">
+                Continuar
+            </button>
+        </div>
+    </div>
+
+    <script>
+        // App State
+        let currentLanguage = '';
+        let currentBlock = 1;
+        let currentExercise = 1;
+        let userAnswer = null;
+        let userProgress = {
+            languages: {}
+        };
+
+        // Exercise data
+        const exercises = {
+            1: [
+                {
+                    question: "Traduza para o português:",
+                    word: "apple",
+                    options: ["maçã", "banana", "laranja", "uva"],
+                    correct: 0,
+                    explanation: "Apple significa maçã em português. É uma fruta muito comum e nutritiva."
+                },
+                {
+                    question: "Complete a frase:",
+                    sentence: "Eu gosto de _____.",
+                    options: ["sorvete", "rua", "jornal", "mesa"],
+                    correct: 0,
+                    explanation: "Na frase 'Eu gosto de _____', sorvete é a opção que faz mais sentido."
+                },
+                {
+                    question: "Traduza para o português:",
+                    word: "house",
+                    options: ["casa", "carro", "gato", "livro"],
+                    correct: 0,
+                    explanation: "House significa casa em português."
+                }
+            ],
+            2: [
+                {
+                    question: "Complete a frase:",
+                    sentence: "Você _____ em casa hoje?",
+                    options: ["está", "foi", "tem", "vai"],
+                    correct: 0,
+                    explanation: "'Você está em casa hoje?' é a conjugação correta do verbo estar no presente."
+                },
+                {
+                    question: "Qual é a tradução correta?",
+                    sentence: "Good morning",
+                    options: ["Boa noite", "Bom dia", "Boa tarde", "Até logo"],
+                    correct: 1,
+                    explanation: "Good morning significa 'Bom dia' em português."
+                }
+            ],
+            3: [
+                {
+                    question: "Em um restaurante, qual é a resposta adequada para: 'O que você gostaria de pedir?'",
+                    options: [
+                        "Segunda-feira",
+                        "Um suco, por favor",
+                        "Estudar matemática", 
+                        "Até logo"
+                    ],
+                    correct: 1,
+                    explanation: "Em um restaurante, a resposta apropriada seria pedir algo do cardápio."
+                },
+                {
+                    question: "No aeroporto, como você pergunta sobre o voo?",
+                    options: [
+                        "Qual é o preço do café?",
+                        "Onde fica o banheiro?",
+                        "A que horas sai o voo?",
+                        "Que dia é hoje?"
+                    ],
+                    correct: 2,
+                    explana<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SayTudo - Exercícios Interativos</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        * {
+            box-sizing: border-box;
+        }
+        
+        .fade-in {
+            animation: fadeIn 0.5s ease-in;
+        }
+        
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(20px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+        
+        .language-btn {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            padding: 1.5rem 1rem;
+            background: white;
+            border: 2px solid #e5e7eb;
+            border-radius: 0.75rem;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            min-height: 120px;
+        }
+        
+        .language-btn:hover {
+            border-color: #5D5CDE;
+            transform: translateY(-2px);
+            box-shadow: 0 4px 12px rgba(93, 92, 222, 0.15);
+        }
+        
+        .exercise-card {
+            transition: all 0.3s ease;
+        }
+        
+        .exercise-card:hover {
+            transform: translateY(-2px);
+        }
+        
+        .option-btn {
+            transition: all 0.3s ease;
+        }
+        
+        .option-btn:hover {
+            border-color: #5D5CDE !important;
+        }
+        
+        .option-btn.selected {
+            border-color: #5D5CDE !important;
+            background-color: rgba(93, 92, 222, 0.1) !important;
+        }
+        
+        .progress-bar {
+            transition: width 0.5s ease;
+        }
+        
+        .notification {
+            position: fixed;
+            top: 20px;
+            right: 20px;
+            background: #3B82F6;
+            color: white;
+            padding: 1rem;
+            border-radius: 0.5rem;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+            z-index: 1000;
+            max-width: 300px;
+        }
+    </style>
+</head>
+<body class="bg-gray-50 text-gray-900 min-h-screen">
+
+    <!-- Header -->
+    <header class="bg-purple-600 text-white shadow-lg">
+        <div class="container mx-auto px-4 py-4">
+            <div class="flex items-center justify-between">
+                <div class="flex items-center space-x-3">
+                    <span class="text-2xl">🌍</span>
+                    <h1 class="text-2xl font-bold">SayTudo</h1>
+                </div>
+                <div class="flex items-center space-x-4">
+                    <span id="userProgress" class="text-sm bg-white bg-opacity-20 px-3 py-1 rounded-full">
+                        Progresso: 0/90
+                    </span>
+                    <button id="homeBtn" class="p-2 hover:bg-white hover:bg-opacity-20 rounded-lg transition-colors">
+                        🏠
+                    </button>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <!-- Main Content -->
+    <main class="container mx-auto px-4 py-8 max-w-4xl">
+
+        <!-- Language Selection Screen -->
+        <div id="languageScreen" class="fade-in">
+            <div class="text-center mb-8">
+                <h2 class="text-3xl font-bold mb-4">🌍 Escolha seu Idioma</h2>
+                <p class="text-gray-600 mb-8">30+ idiomas com 90 exercícios progressivos cada</p>
+            </div>
+
+            <div class="grid grid-cols-2 md:grid-cols-4 gap-4 mb-8">
+                <button class="language-btn" onclick="selectLanguage('english', '🇺🇸', 'Inglês')">
+                    <span class="text-3xl mb-2">🇺🇸</span>
+                    <span class="text-sm font-medium">Inglês</span>
+                </button>
+                <button class="language-btn" onclick="selectLanguage('spanish', '🇪🇸', 'Espanhol')">
+                    <span class="text-3xl mb-2">🇪🇸</span>
+                    <span class="text-sm font-medium">Espanhol</span>
+                </button>
+                <button class="language-btn" onclick="selectLanguage('french', '🇫🇷', 'Francês')">
+                    <span class="text-3xl mb-2">🇫🇷</span>
+                    <span class="text-sm font-medium">Francês</span>
+                </button>
+                <button class="language-btn" onclick="selectLanguage('german', '🇩🇪', 'Alemão')">
+                    <span class="text-3xl mb-2">🇩🇪</span>
+                    <span class="text-sm font-medium">Alemão</span>
+                </button>
+                <button class="language-btn" onclick="selectLanguage('italian', '🇮🇹', 'Italiano')">
+                    <span class="text-3xl mb-2">🇮🇹</span>
+                    <span class="text-sm font-medium">Italiano</span>
+                </button>
+                <button class="language-btn" onclick="selectLanguage('japanese', '🇯🇵', 'Japonês')">
+                    <span class="text-3xl mb-2">🇯🇵</span>
+                    <span class="text-sm font-medium">Japonês</span>
+                </button>
+                <button class="language-btn" onclick="selectLanguage('korean', '🇰🇷', 'Coreano')">
+                    <span class="text-3xl mb-2">🇰🇷</span>
+                    <span class="text-sm font-medium">Coreano</span>
+                </button>
+                <button class="language-btn" onclick="selectLanguage('chinese', '🇨🇳', 'Chinês')">
+                    <span class="text-3xl mb-2">🇨🇳</span>
+                    <span class="text-sm font-medium">Chinês</span>
+                </button>
+            </div>
+
+            <div class="bg-blue-50 p-6 rounded-lg">
+                <h3 class="font-bold text-lg mb-3">✨ O que você vai aprender:</h3>
+                <ul class="space-y-2 text-sm">
+                    <li>✅ <strong>90 exercícios progressivos</strong> por idioma</li>
+                    <li>✅ <strong>Vocabulário essencial</strong> para o dia a dia</li>
+                    <li>✅ <strong>Frases úteis</strong> e situações reais</li>
+                    <li>✅ <strong>Correção por IA</strong> com explicações simples</li>
+                    <li>✅ <strong>100% gratuito</strong> com anúncios leves</li>
+                </ul>
+            </div>
+        </div>
+
+        <!-- Dashboard Screen -->
+        <div id="dashboardScreen" class="hidden fade-in">
+            <div class="text-center mb-8">
+                <h2 class="text-3xl font-bold mb-2">
+                    <span id="selectedLanguageFlag"></span> 
+                    <span id="selectedLanguageName"></span>
+                </h2>
+                <p class="text-gray-600">90 exercícios interativos te esperam!</p>
+            </div>
+
+            <!-- Progress Overview -->
+            <div class="bg-gradient-to-r from-purple-500 to-blue-500 text-white p-6 rounded-lg mb-8">
+                <div class="flex items-center justify-between mb-4">
+                    <h3 class="text-xl font-bold">Seu Progresso</h3>
+                    <span id="progressPercentage" class="text-2xl font-bold">0%</span>
+                </div>
+                <div class="bg-white bg-opacity-20 rounded-full h-3 mb-2">
+                    <div id="progressBarFill" class="progress-bar bg-white h-3 rounded-full" style="width: 0%"></div>
+                </div>
+                <p class="text-sm opacity-90">
+                    <span id="completedExercises">0</span> de 90 exercícios concluídos
+                </p>
+            </div>
+
+            <!-- Exercise Blocks -->
+            <div class="grid md:grid-cols-3 gap-6 mb-8">
+                <!-- Block 1: Vocabulário -->
+                <div class="exercise-card bg-white p-6 rounded-lg shadow-lg border border-gray-200">
+                    <div class="text-center mb-4">
+                        <div class="text-4xl mb-3">📗</div>
+                        <h3 class="text-xl font-bold mb-2">Bloco 1</h3>
+                        <h4 class="text-lg font-semibold text-purple-600">Vocabulário Essencial</h4>
+                        <p class="text-sm text-gray-600 mt-2">30 exercícios</p>
+                    </div>
+                    <div class="space-y-3 mb-4">
+                        <div class="flex items-center text-sm">
+                            <span class="text-green-500 mr-2">✅</span>
+                            Tradução de palavras
+                        </div>
+                        <div class="flex items-center text-sm">
+                            <span class="text-green-500 mr-2">✅</span>
+                            Associação imagem + palavra
+                        </div>
+                        <div class="flex items-center text-sm">
+                            <span class="text-green-500 mr-2">✅</span>
+                            Complete frases
+                        </div>
+                    </div>
+                    <button id="startBlock1" class="w-full bg-purple-600 text-white py-3 rounded-lg font-semibold hover:bg-purple-700 transition-colors" onclick="startBlock(1)">
+                        Começar Bloco 1
+                    </button>
+                    <div class="mt-3">
+                        <div class="flex justify-between text-xs text-gray-500 mb-1">
+                            <span>Progresso</span>
+                            <span id="block1Progress">0/30</span>
+                        </div>
+                        <div class="bg-gray-200 rounded-full h-2">
+                            <div id="block1ProgressBar" class="bg-purple-600 h-2 rounded-full transition-all duration-300" style="width: 0%"></div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Block 2: Frases -->
+                <div class="exercise-card bg-white p-6 rounded-lg shadow-lg border border-gray-200">
+                    <div class="text-center mb-4">
+                        <div class="text-4xl mb-3">🏡</div>
+                        <h3 class="text-xl font-bold mb-2">Bloco 2</h3>
+                        <h4 class="text-lg font-semibold text-purple-600">Frases Comuns</h4>
+                        <p class="text-sm text-gray-600 mt-2">30 exercícios</p>
+                    </div>
+                    <div class="space-y-3 mb-4">
+                        <div class="flex items-center text-sm">
+                            <span class="text-green-500 mr-2">✅</span>
+                            Traduza frases completas
+                        </div>
+                        <div class="flex items-center text-sm">
+                            <span class="text-green-500 mr-2">✅</span>
+                            Complete com lacunas
+                        </div>
+                        <div class="flex items-center text-sm">
+                            <span class="text-green-500 mr-2">✅</span>
+                            Monte na ordem correta
+                        </div>
+                    </div>
+                    <button id="startBlock2" class="w-full bg-gray-400 text-white py-3 rounded-lg font-semibold cursor-not-allowed" disabled>
+                        🔒 Complete o Bloco 1
+                    </button>
+                    <div class="mt-3">
+                        <div class="flex justify-between text-xs text-gray-500 mb-1">
+                            <span>Progresso</span>
+                            <span id="block2Progress">0/30</span>
+                        </div>
+                        <div class="bg-gray-200 rounded-full h-2">
+                            <div id="block2ProgressBar" class="bg-purple-600 h-2 rounded-full transition-all duration-300" style="width: 0%"></div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Block 3: Situações -->
+                <div class="exercise-card bg-white p-6 rounded-lg shadow-lg border border-gray-200">
+                    <div class="text-center mb-4">
+                        <div class="text-4xl mb-3">✈️</div>
+                        <h3 class="text-xl font-bold mb-2">Bloco 3</h3>
+                        <h4 class="text-lg font-semibold text-purple-600">Situações Reais</h4>
+                        <p class="text-sm text-gray-600 mt-2">30 exercícios</p>
+                    </div>
+                    <div class="space-y-3 mb-4">
+                        <div class="flex items-center text-sm">
+                            <span class="text-green-500 mr-2">✅</span>
+                            Restaurante, hotel, aeroporto
+                        </div>
+                        <div class="flex items-center text-sm">
+                            <span class="text-green-500 mr-2">✅</span>
+                            Respostas contextuais
+                        </div>
+                        <div class="flex items-center text-sm">
+                            <span class="text-green-500 mr-2">✅</span>
+                            Tradução situacional
+                        </div>
+                    </div>
+                    <button id="startBlock3" class="w-full bg-gray-400 text-white py-3 rounded-lg font-semibold cursor-not-allowed" disabled>
+                        🔒 Complete o Bloco 2
+                    </button>
+                    <div class="mt-3">
+                        <div class="flex justify-between text-xs text-gray-500 mb-1">
+                            <span>Progresso</span>
+                            <span id="block3Progress">0/30</span>
+                        </div>
+                        <div class="bg-gray-200 rounded-full h-2">
+                            <div id="block3ProgressBar" class="bg-purple-600 h-2 rounded-full transition-all duration-300" style="width: 0%"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Ad Space -->
+            <div class="bg-gray-100 p-4 rounded-lg text-center border-2 border-dashed border-gray-300">
+                <p class="text-sm text-gray-600">
+                    📺 Anúncio leve - Mantém o app 100% gratuito
+                </p>
+            </div>
+        </div>
+
+        <!-- Exercise Screen -->
+        <div id="exerciseScreen" class="hidden fade-in">
+            <div class="mb-6">
+                <div class="flex items-center justify-between mb-4">
+                    <button id="backToBlockBtn" class="flex items-center text-purple-600 hover:text-purple-800" onclick="showDashboard()">
+                        ← Voltar
+                    </button>
+                    <div class="text-center">
+                        <h3 id="exerciseBlockTitle" class="font-bold text-lg"></h3>
+                        <p id="exerciseNumber" class="text-sm text-gray-600"></p>
+                    </div>
+                    <div class="text-right">
+                        <span id="exerciseProgress" class="text-sm font-medium">1/30</span>
+                    </div>
+                </div>
+                
+                <!-- Exercise Progress Bar -->
+                <div class="bg-gray-200 rounded-full h-2 mb-4">
+                    <div id="exerciseProgressBar" class="progress-bar bg-purple-600 h-2 rounded-full" style="width: 3.33%"></div>
+                </div>
+            </div>
+
+            <!-- Exercise Content -->
+            <div id="exerciseContent" class="bg-white p-6 rounded-lg shadow-lg mb-6">
+                <!-- Content will be dynamically generated -->
+            </div>
+
+            <!-- Answer Feedback -->
+            <div id="answerFeedback" class="hidden mb-6"></div>
+
+            <!-- Exercise Controls -->
+            <div class="flex justify-between items-center">
+                <button id="prevExerciseBtn" class="bg-gray-500 text-white px-6 py-3 rounded-lg font-semibold hover:bg-gray-600 transition-colors" onclick="prevExercise()" disabled>
+                    ← Anterior
+                </button>
+                
+                <button id="checkAnswerBtn" class="bg-purple-600 text-white px-8 py-3 rounded-lg font-semibold hover:bg-purple-700 transition-colors" onclick="checkAnswer()">
+                    Verificar Resposta
+                </button>
+                
+                <button id="nextExerciseBtn" class="bg-green-500 text-white px-6 py-3 rounded-lg font-semibold hover:bg-green-600 transition-colors" onclick="nextExercise()" disabled>
+                    Próximo →
+                </button>
+            </div>
+        </div>
+
+    </main>
+
+    <!-- Success Modal -->
+    <div id="successModal" class="fixed inset-0 bg-black bg-opacity-50 flex items-center justify-center z-50 hidden">
+        <div class="bg-white p-8 rounded-lg shadow-2xl max-w-md w-full mx-4 text-center">
+            <div class="text-6xl mb-4">🎉</div>
+            <h3 class="text-2xl font-bold mb-4">Parabéns!</h3>
+            <p id="successMessage" class="text-gray-600 mb-6"></p>
+            <button id="continueBtn" class="bg-purple-600 text-white px-8 py-3 rounded-lg font-semibold hover:bg-purple-700 transition-colors" onclick="closeSuccessModal()">
+                Continuar
+            </button>
+        </div>
+    </div>
+
+    <script>
+        // App State
+        let currentLanguage = '';
+        let currentBlock = 1;
+        let currentExercise = 1;
+        let userAnswer = null;
+        let userProgress = {
+            languages: {}
+        };
+
+        // Exercise data
+        const exercises = {
+            1: [
+                {
+                    question: "Traduza para o português:",
+                    word: "apple",
+                    options: ["maçã", "banana", "laranja", "uva"],
+                    correct: 0,
+                    explanation: "Apple significa maçã em português. É uma fruta muito comum e nutritiva."
+                },
+                {
+                    question: "Complete a frase:",
+                    sentence: "Eu gosto de _____.",
+                    options: ["sorvete", "rua", "jornal", "mesa"],
+                    correct: 0,
+                    explanation: "Na frase 'Eu gosto de _____', sorvete é a opção que faz mais sentido."
+                },
+                {
+                    question: "Traduza para o português:",
+                    word: "house",
+                    options: ["casa", "carro", "gato", "livro"],
+                    correct: 0,
+                    explanation: "House significa casa em português."
+                }
+            ],
+            2: [
+                {
+                    question: "Complete a frase:",
+                    sentence: "Você _____ em casa hoje?",
+                    options: ["está", "foi", "tem", "vai"],
+                    correct: 0,
+                    explanation: "'Você está em casa hoje?' é a conjugação correta do verbo estar no presente."
+                },
+                {
+                    question: "Qual é a tradução correta?",
+                    sentence: "Good morning",
+                    options: ["Boa noite", "Bom dia", "Boa tarde", "Até logo"],
+                    correct: 1,
+                    explanation: "Good morning significa 'Bom dia' em português."
+                }
+            ],
+            3: [
+                {
+                    question: "Em um restaurante, qual é a resposta adequada para: 'O que você gostaria de pedir?'",
+                    options: [
+                        "Segunda-feira",
+                        "Um suco, por favor",
+                        "Estudar matemática", 
+                        "Até logo"
+                    ],
+                    correct: 1,
+                    explanation: "Em um restaurante, a resposta apropriada seria pedir algo do cardápio."
+                },
+                {
+                    question: "No aeroporto, como você pergunta sobre o voo?",
+                    options: [
+                        "Qual é o preço do café?",
+                        "Onde fica o banheiro?",
+                        "A que horas sai o voo?",
+                        "Que dia é hoje?"
+                    ],
+                    correct: 2,
+                    explana
